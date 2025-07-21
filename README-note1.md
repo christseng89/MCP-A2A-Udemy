@@ -157,8 +157,11 @@ requests.post("http://localhost:8000/jsonrpc", json=payload)
 ## Setup environment
 
 ```cmd
-git clone https://github.com/christseng89/MCP-A2A-Udemy.git
-cd MCP-A2A-Udemy
+git clone https://github.com/christseng89/MCP-A2A-Udemy.git mcp-PracticalGuide
+cd mcp-PracticalGuide
 
 uv sync
+.venv\Scripts\activate
+uv pip list
+
 ```
