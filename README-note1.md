@@ -188,6 +188,8 @@ Almost ALL modern LLMs support Tool Calling.
 ToolCalling.ipynb
 ```
 
+## MCP - First Server/Client Example
+
 ```cmd
 cd 01_FirstMCPServer
 uv run server.py
@@ -206,4 +208,73 @@ uv run client.py
   Session ID after initialize: 0f149990984b458a8d94603fbe26420d
   Server result: meta=None content=[TextContent(type='text', text='39', annotations=None)] isError=False
   Result:  39
+```
+
+## **MCP Transport Methods**
+
+`stdio` vs `SSE` vs `streamable-http`
+
+### ***Stdio***
+
+* Communicates over **standard input/output**
+* Runs **locally** on a **single machine only**
+* ✅ Perfect for **development and testing**
+* ⚠️ ***Not recommended*** for **production environments**
+
+### **SSE (Server-Sent Events)**
+
+* Establishes a long-lived connection between server and client
+* Server can push live updates to the client (`EventStream`)
+* Client communicates via `POST` request
+* Was the default until **May 2025**, now **☠ DEPRECATED**
+
+---
+
+#### ✅ **Pros:**
+
+* Easy to set up
+* Supports advanced use cases (e.g. sampling)
+
+#### ❌ **Cons:**
+
+* Not suitable for serverless environments
+* Hard to keep connections alive through proxies and networks
+* Difficult to scale horizontally (e.g. in Kubernetes clusters)
+
+---
+
+### ***Streamable-http***
+
+* ⚙️ Enables **fully stateless** MCP servers
+* ☁️ Ideal for **serverless environments** and **horizontally scalable** services
+* 🔁 **Flexible**: Can switch to **stateful mode** when needed
+
+---
+
+🛑 **SSE is deprecated** — use **STREAMABLE-HTTP** instead!
+
+```python
+@mcp.tool(description="Add two integers")
+def add(a: int, b: int) -> int:
+    return a + b
+```
+
+✅ **No need for a session :-)**
+
+---
+
+### Stdio
+
+```cmd
+cd 02_TransportMethods\stdinout
+uv run server.py
+
+npx @modelcontextprotocol/inspector
+  uv run server.py
+```
+
+```cmd
+cd 02_TransportMethods\stdinout
+uv run client.py
+  7 + 5 = 12
 ```
