@@ -165,3 +165,45 @@ uv sync
 uv pip list
 
 ```
+
+## **Tool / Function Calling Recap**
+
+### **What is Tool Calling and why does it matter?**
+
+Tool calling allows an LLM to interact with the outside world — for example, querying a database or calling an API.
+Almost ALL modern LLMs support Tool Calling.
+
+---
+
+### **Tool Calling workflow**
+
+1. Tool Definition
+2. Tool Binding
+3. Tool Calling/Execution
+4. The LLM uses the tool result to generate a final response
+
+---
+
+```python# Example of Tool Definition
+ToolCalling.ipynb
+```
+
+```cmd
+cd 01_FirstMCPServer
+uv run server.py
+
+npx @modelcontextprotocol/inspector
+```
+
+```bash by using 'jsonrpc'
+cd 01_FirstMCPServer
+./script.sh
+  SID=bbd0b7da20fc4d13b7bda79ec91d93fc
+  Result: 2 + 3 = 5
+
+uv run client.py
+  Before initialize: None
+  Session ID after initialize: 0f149990984b458a8d94603fbe26420d
+  Server result: meta=None content=[TextContent(type='text', text='39', annotations=None)] isError=False
+  Result:  39
+```

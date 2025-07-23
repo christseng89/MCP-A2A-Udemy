@@ -8,25 +8,42 @@ CT='application/json'
 SID=$(curl -sS -D - -o /dev/null \
   -H "Accept: $ACCEPT" -H "Content-Type: $CT" \
   -X POST $S \
-  -d '{"jsonrpc":"2.0","id":1,"method":"initialize","params":{
+  -d '{
+    "jsonrpc":"2.0","id":1,
+    "method":"initialize",
+    "params":{
         "protocolVersion":"2025-03-26",
         "capabilities":{},
         "clientInfo":{"name":"bash","version":"1.0"}
-      }}' | sed -nE 's/^Mcp-Session-Id:[[:space:]]*//Ip' | tr -d '\r')
+    }
+  }' | sed -nE 's/^Mcp-Session-Id:[[:space:]]*//Ip' | tr -d '\r')
 echo "SID=$SID"
 
-# 2) notifications/initialized
+# 2) notifications/initialized, must call notifications/initialized before using tools/call
 curl -sS \
   -H "Accept: $ACCEPT" \
   -H "Content-Type: $CT" \
   -H "Mcp-Session-Id: $SID" \
   -X POST $S \
-  -d '{"jsonrpc":"2.0","method":"notifications/initialized","params":{}}'
+  -d '{
+    "jsonrpc":"2.0",
+    "method":"notifications/initialized","params":{}
+  }'
 
 # 3) tools/call
-curl -sS \
+RESPONSE=$(curl -sS \
   -H "Accept: $ACCEPT" -H "Content-Type: $CT" -H "Mcp-Session-Id: $SID" \
   -X POST $S \
-  -d '{"jsonrpc":"2.0","id":2,"method":"tools/call","params":{
-        "name":"add","arguments":{"a":2,"b":3}}}'
-echo
+  -d '{
+    "jsonrpc":"2.0",
+    "id":2,
+    "method":"tools/call",
+    "params":{
+        "name":"add",
+        "arguments":{"a":2,"b":3}
+    }
+  }' | grep '^data:' | grep -v '\[DONE\]' | sed 's/^data:[[:space:]]*//')
+
+# Parse valid JSON
+RESULT=$(echo "$RESPONSE" | jq -r '.result.content[0].text')
+echo "Result: 2 + 3 = $RESULT"

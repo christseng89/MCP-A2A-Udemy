@@ -15,8 +15,9 @@ async def main():
             sid = get_session_id()
             print("Session ID after initialize:", sid)
 
-            result = await session.call_tool("add", {"a": 21, "b": 21})
+            result = await session.call_tool("add", {"a": 21, "b": 18})
             print("Server result:", result)
+            print("Result: ", result.content[0].text)
 
 
 if __name__ == "__main__":
