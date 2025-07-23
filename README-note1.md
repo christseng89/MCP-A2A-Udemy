@@ -263,18 +263,79 @@ def add(a: int, b: int) -> int:
 
 ---
 
-### Stdio
+### Stdio 
+
+- .env => MCP_TRANSPORT=stdio
 
 ```cmd
-cd 02_TransportMethods\stdinout
+cd 02_TransportMethods\generic
 uv run server.py
-
-npx @modelcontextprotocol/inspector
-  uv run server.py
 ```
 
 ```cmd
-cd 02_TransportMethods\stdinout
-uv run client.py
-  7 + 5 = 12
+cd 02_TransportMethods\generic
+npx @modelcontextprotocol/inspector
+  Transport Type = SSE
+  COMMAND = uv run server.py
 ```
+
+```cmd
+cd 02_TransportMethods\generic
+uv run client.py
+  ➕ 7 + 5 = 12 by using STDIO transport
+```
+
+### Sse
+
+- .env => MCP_TRANSPORT=SSE
+
+```cmd
+cd 02_TransportMethods\generic
+uv run server.py
+```
+
+```cmd
+cd 02_TransportMethods\generic
+npx @modelcontextprotocol/inspector
+  Transport Type = SSE
+  URL = http://127.0.0.1:8000/sse
+```
+
+```cmd
+cd 02_TransportMethods\generic
+uv run client.py
+  ➕ 7 + 5 = 12 by using SSE transport
+```
+
+### Streamable-http
+- .env => MCP_TRANSPORT=http
+
+```cmd
+cd 02_TransportMethods\generic
+uv run server.py
+```
+
+```cmd
+cd 02_TransportMethods\generic
+npx @modelcontextprotocol/inspector
+  Transport Type = Streamable-HTTP
+  URL = http://127.0.0.1:8000/mcp
+```
+
+```cmd
+cd 02_TransportMethods\generic
+uv run client.py
+  ➕ 7 + 5 = 12 by using HTTP transport
+```
+
+```bash
+cd 02_TransportMethods/generic
+./stateless_http_script.sh
+
+```
+
+**NOTE**: 
+
+- The `stateless_http_script.sh` is a script that demonstrates how to use the **Streamable-HTTP** transport in a stateless manner (i.e. **stateless_http=True**), which is particularly useful for **serverless** environments.
+
+---

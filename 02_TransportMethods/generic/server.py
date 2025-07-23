@@ -5,7 +5,8 @@ import os
 dotenv = load_dotenv()
 transport = os.getenv("MCP_TRANSPORT", "stdio")
 
-mcp = FastMCP(f"Add {transport.upper()} Server")
+# stateless_http applied for Streamable-HTTP transport ONLY, stateless_script.sh will prove it
+mcp = FastMCP(f"Add {transport.upper()} Server", stateless_http=True)
 
 
 @mcp.tool(description="Add two integers")
