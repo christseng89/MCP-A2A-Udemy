@@ -386,3 +386,4 @@ uv run client.py
   ➕ 7 + 5 = 12 by using HTTP transport
 ```
 
+---
