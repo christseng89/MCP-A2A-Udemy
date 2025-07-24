@@ -72,7 +72,7 @@ await client.list_prompts      # Lists all prompts available via MCP server
 
 ---
 
-### **Discovery Dynamic Tools**
+### **Dynamic Discovery Tools**
 
 Tool 1
 Tool 2
@@ -112,3 +112,36 @@ uv run client.py
     Tools AFTER3  : ['router', 'lower_tool', 'upper_tool', 'wordcount_tool']
 
 ```
+
+### Summary
+
+**Dynamic Discovery of Tools** avoids preloading **all 1000+ tools**, which:
+
+* Improves performance
+* Reduces memory usage
+* Keeps the client interface clean and manageable
+
+---
+
+#### ⚠️ **However (Caveat):**
+
+Dynamic discovery **requires**:
+
+* A **stateful MCP server** (with context object)
+* More complex state and lifecycle management
+* A trade-off: **flexibility vs complexity**
+
+---
+
+| Feature                    | Static Discovery     | Dynamic Discovery                |
+| -------------------------- | -------------------- | -------------------------------- |
+| 🔍 Tool list known upfront | ✅ Yes                | ⚠️ No – built at runtime         |
+| 🧠 Smart for many tools    | ❌ No – hard to scale | ✅ Yes – loads what's needed only |
+| 🧰 Server state required   | ❌ No (stateless OK)  | ✅ Yes (requires context)         |
+| 🔄 Flexibility             | ❌ Limited            | ✅ High                           |
+| ⚙️ Complexity              | ✅ Simple             | ⚠️ More complex to manage        |
+
+> ✅ Use **Dynamic Discovery** when you have **too many tools** or need **contextual tool availability**.
+
+---
+
