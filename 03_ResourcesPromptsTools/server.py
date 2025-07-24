@@ -15,7 +15,7 @@ def list_recipes() -> str:
     return ", ".join(sorted(_FAKE_DB))
 
 
-@mcp.resource("recipe://{dish}")
+@mcp.resource("recipe://{dish}") # Dynamic Resource Template
 def get_recipe(dish: str) -> str:
     """Returns the recipe for the specified dish."""
     return _FAKE_DB.get(dish, f"No recipe found for {dish!r}.")
@@ -25,8 +25,11 @@ def get_recipe(dish: str) -> str:
 def double(n: int) -> int:
     return n * 2
 
+@mcp.tool(description="Add two integers.")
+def add(a: int, b: int) -> int:
+    return a + b
 
-@mcp.prompt()
+@mcp.prompt(description="Prompt to review a recipe")
 def review_recipe(recipe: str) -> list[base.Message]:
     return [
         base.UserMessage("Please review this recipe:"),

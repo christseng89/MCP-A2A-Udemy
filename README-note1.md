@@ -339,3 +339,50 @@ cd 02_TransportMethods/generic
 - The `stateless_http_script.sh` is a script that demonstrates how to use the **Streamable-HTTP** transport in a stateless manner (i.e. **stateless_http=True**), which is particularly useful for **serverless** environments.
 
 ---
+
+## **MCP Capabilities**
+
+### **Tools** (95% of use cases)
+
+* Usage controlled by the **LLM**
+* The LLM **decides** when a tool is needed to answer a question
+* Use case: Dynamically integrating data that is not part of the model's training
+
+---
+
+### **Resources**
+
+* Usage controlled by the **application** (e.g., accessing a profile after a user click)
+* The LLM does not dynamically reach out to use a resource
+
+---
+
+### **Prompts** (User-Driven Interactions)
+
+* Usage controlled by the **user**
+* Parameterized templates optimized for LLM input (e.g., dynamic `SystemMessage`)
+* Clients collect user input and inject variables into **templates**
+
+```
+
+---
+
+```cmd
+cd 03_ResourcesPromptsTools
+uv run server.py
+```
+
+```cmd
+cd 03_ResourcesPromptsTools
+npx @modelcontextprotocol/inspector
+  Transport Type = Streamable-HTTP
+  URL = http://127.0.0.1:8000/mcp
+
+```
+
+```cmd
+cd 03_ResourcesPromptsTools
+uv run client.py
+  ➕ 7 + 5 = 12 by using HTTP transport
+```
+
