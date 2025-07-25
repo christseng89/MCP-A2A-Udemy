@@ -237,3 +237,85 @@ npx @modelcontextprotocol/inspector
 cd 06_Roots
 uv run client.py
 ```
+
+## **Sampling**
+
+* **Server asks the client** to call an LLM to fulfill a requested tool call
+* **Client has control** over whether to perform that LLM call or not
+
+---
+
+### 🔧 Use Case
+
+**Tool to create docstrings for a function**
+
+```python
+@mcp.tool(
+    name="generate_docstring",
+    description="Generate a Python docstring for a given function code snippet",
+)
+async def generate_docstring(code: str, ctx: Context) -> str:
+    print("[Server] Tool 'generate_docstring' called")
+    print("[Server] Input code:\n", code)
+
+    prompt = (
+        "Given the following Python function code, write a concise, "
+        "PEP-257-compliant docstring. Your answer should include only the "
+        "triple-quoted docstring.\n\n"
+        f"{code}"
+    )
+    print("[Server] Sampling prompt constructed:\n", prompt)
+
+    response = await ctx.sample(
+        messages=prompt,
+        system_prompt="You are a Python documentation assistant.",
+        temperature=0.7,
+        max_tokens=150,
+    )
+```
+This allows the **MCP server** to remain **stateless** and **LLM-agnostic**, while enabling **LLM-assisted functionality** like docstring generation to be offloaded to a capable client.
+
+---
+
+### 🧠 Explanation:
+
+* **Server has no access to LLM.**
+* Instead, it **delegates** the sampling task to the client, which uses an LLM.
+* The **client has full control** to:
+
+  * Accept
+  * Modify
+  * Reject the `ctx.sample()` request
+
+---
+
+### **Six sampling steps**
+
+1. **Server** sends a sampling/createMessage request to the client
+2. Client reviews the request and may modify it
+3. Client triggers an LLM call
+4. Client reviews and post-processes the LLM output
+5. Client sends the polished result back to the server
+6. **Server** uses the LLM response to complete the tool/function call (MCP Server to write the docstring)
+
+---
+
+```cmd
+cd 07_Sampling
+uv run server.py
+``
+
+```cmd
+cd 07_Sampling
+npx @modelcontextprotocol/inspector
+    Transport Type = Streamable-HTTP
+    URL = http://127.0.0.1:8000/mcp
+    Sampling = true
+
+```
+
+```cmd
+cd 07_Sampling
+uv run client.py
+``
+
