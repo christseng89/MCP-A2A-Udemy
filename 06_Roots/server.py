@@ -7,7 +7,8 @@ mcp = FastMCP(name="FileSearchServer")
 
 
 @mcp.tool(
-    name="find_file", description="Search for a file in the provided root directories"
+    name="find_file", 
+    description="Search for a file in the provided root directories"
 )
 async def find_file(filename: str, ctx: Context) -> list[str]:
     """

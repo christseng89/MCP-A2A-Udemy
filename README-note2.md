@@ -145,3 +145,95 @@ Dynamic discovery **requires**:
 
 ---
 
+## MCP Roots
+
+**Roots**
+
+* Roots define the operational boundaries of MCP servers
+* Specify one or more root entries in a list
+* Each root includes a base URI used for organizing resources
+* Helps structure and guide how resources are managed and accessed
+* Prevents accidental access to resources outside the project scope
+
+### 🔍 What Are *Roots*?
+
+**Roots** define **bounded file system access** for an MCP server — similar to a "sandboxed workspace." They specify which directories the server (and any connected LLM tools) can see and operate on.
+
+---
+
+### 🔒 **Why Restrict Access with Roots?**
+
+1. **Security & Isolation**
+   LLMs should **only modify files within the defined root** — not touch:
+
+   * Global config files
+   * Other users’ projects
+   * Sensitive folders
+
+2. **Scoped Operations**
+   Prevents bugs or accidental file writes outside the intended context.
+
+3. **Multi-project Support**
+   You can work on **multiple projects in parallel** by assigning each its own root:
+
+   ```python
+   roots = [
+       "file://{project_a}",
+       "file://{project_b}",
+   ]
+   ```
+---
+
+### 🛠 Example:
+
+Client-side:
+
+```python
+roots = [f"file://{project_root}"]
+client = Client(transport, roots=roots)
+```
+
+Then on the server:
+
+```python
+roots = await ctx.list_roots()
+```
+---
+
+Common use case: **coding**
+
+* One project workspace = one **root**
+* LLMs should only be allowed to modify files within the workspace/root
+* Prevents modification of config files or unrelated folders
+* Allows working on multiple projects side by side through root configuration
+
+---
+
+### ✅ Benefits of Root Configuration
+
+| Feature         | Benefit                                                                             |
+| --------------- | ----------------------------------------------------------------------------------- |
+| **Isolation**   | Keeps tools and file operations within a single project boundary                    |
+| **Security**    | Prevents LLMs from accessing or altering unrelated files                            |
+| **Scalability** | Supports multiple project roots at once, making MCP usable in team/dev environments |
+| **Clarity**     | Reduces ambiguity in where tools should read from or write to                       |
+
+---
+
+```cmd
+cd 06_Roots
+uv run server.py
+```
+
+```cmd
+cd 06_Roots
+npx @modelcontextprotocol/inspector
+    Transport Type = Streamable-HTTP
+    URL = http://127.0.0.1:8000/mcp
+    Roots = file:///d:/development/mcp-PracticalGuide/06_Roots/demo_root/project => Add Root
+```
+
+```cmd
+cd 06_Roots
+uv run client.py
+```
