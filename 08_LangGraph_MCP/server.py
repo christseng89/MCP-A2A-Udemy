@@ -7,6 +7,7 @@ mcp = FastMCP(name="WeatherServer", stateless_http=True)
     name="get_weather",
     description="Returns a weather description for a given city",
 )
+
 def get_weather(city: str) -> str:
     """
     Args:
@@ -15,6 +16,28 @@ def get_weather(city: str) -> str:
         str: Description of the current weather (mock data)
     """
     return "Sunny, 22°C"
+
+@mcp.tool()
+def add(a: int, b: int) -> int:
+    """Add two numbers"""
+    return a + b
+
+@mcp.tool()
+def multiply(a: int, b: int) -> int:
+    """Multiply two numbers"""
+    return a * b
+
+@mcp.tool()
+def subtract(a: int, b: int) -> int:
+    """Subtract two numbers"""
+    return a - b
+
+@mcp.tool()
+def divide(a: int, b: int) -> int:
+    """Divide two numbers"""
+    if b == 0:
+        b = 1  # Avoid division by zero
+    return a / b
 
 
 if __name__ == "__main__":
