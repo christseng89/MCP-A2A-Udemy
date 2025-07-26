@@ -34,18 +34,30 @@ async def get_auth0_token() -> str:
 
 
 async def main():
-    token = await get_auth0_token()
-    print("Got Auth0 token:", token)
+    try:
+        token = await get_auth0_token()
+    except Exception as e:
+        print("Error getting Auth0 token:", e)
+        return
+    print("Got Auth0 token:", token[:50] + "...")
 
-    transport = StreamableHttpTransport(
-        url=API_AUDIENCE, headers={"Authorization": f"Bearer {token}"}
+    client = Client(
+        StreamableHttpTransport(
+            url=API_AUDIENCE,
+            headers={"Authorization": f"Bearer {token}"}
+        )
     )
 
-    client = Client(transport)
     async with client:
-        result = await client.call_tool("add", {"a": 5, "b": 7})
-        print("5 + 7 =", result[0].text)
+        try:
+            result = await client.call_tool("add", {"a": 5, "b": 7})
+            print("5 + 7 =", result[0].text)
 
+            # Not allowed without the required scope
+            result = await client.call_tool("multiply", {"a": 3, "b": 4})
+            print("3 * 4 =", result[0].text)
+        except Exception as e:
+            print("Error calling tool:", e)
 
 if __name__ == "__main__":
     asyncio.run(main())

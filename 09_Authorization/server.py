@@ -20,13 +20,17 @@ auth = BearerAuthProvider(
 mcp = FastMCP(
     name="SecureAddServer",
     stateless_http=True,
-    auth=auth,
+    auth_provider=auth,
 )
 
 
 @mcp.tool(description="Add two integers")
 def add(a: int, b: int) -> int:
     return a + b
+
+@mcp.tool(description="Multiply two integers")
+def multiply(a: int, b: int) -> int:
+    return a * b
 
 
 if __name__ == "__main__":
