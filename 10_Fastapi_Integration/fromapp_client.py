@@ -34,7 +34,7 @@ async def main() -> None:
             create_tool_name,
             {"name": "Widget", "price": 19.99},
         )
-        print("Created product:", created[0].text)
+        print("Created product:", created.content[0].text)
 
         updated_products = await session.read_resource(list_uri)
         section("All Products (After)")

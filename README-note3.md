@@ -208,9 +208,9 @@ uv run client.py
 
 2. **MCP → FastAPI (via mount)**
 
-   * Build a standalone `FastMCP` server and mount it into a FastAPI app using **`.http_app(...)`** or **`.streamable_http_app(...)`**
+   * Build a standalone `FastMCP` server and mount it into a FastAPI app using **`mcp.http_app(...)`** or **`.streamable_http_app(...)`**
    * Allows you to use FastAPI for everything else (e.g. health checks, REST endpoints) and delegate AI tool functionality to the MCP server.
-   手动构建 **FastMCP 服务器**，然后使用 **`.http_app(...)`** or **`.streamable_http_app(...)`** 挂载进 **FastAPI 应用**，这样可以在一个服务中同时提供传统 API 和 MCP 功能。
+   手动构建 **FastMCP 服务器**，然后使用 **`mcp.http_app(...)`** or **`.streamable_http_app(...)`** 挂载进 **FastAPI 应用**，这样可以在一个服务中同时提供传统 API 和 MCP 功能。
 
 **Recommended pattern**
 
@@ -238,10 +238,53 @@ By combining these, you get the best of both worlds:
 [2]: https://medium.com/%40madhuripenikalapati/building-a-leave-management-system-with-fastapi-and-fastmcp-391539059793?utm_source=chatgpt.com "Building a Leave Management System with FastAPI and FastMCP"
 
 ---
+#### **FastAPI → MCP**
+
+```python fastapi_mcp_server.py
+...
+mcp = FastMCP.from_fastapi(app=app, name="ProductMCP")
+...
+if __name__ == "__main__":
+    mcp.run(transport="streamable-http", host="127.0.0.1", port=3000)
+
+
+```
 
 ```cmd
 cd 10_Fastapi_Integration
-uv run server.py
+uv run fastapi_mcp_server.py
+
+```
+
+```cmd
+cd 10_Fastapi_Integration
+uv run fastapi_mcp_client.py
+
+uv run fromapp_client.py # Original FastAPI MCP Client
+```
+
+
+#### **MCP → FastAPI (via mount)**
+
+```python app.py
+from server import mcp
+...
+mcp_app = mcp.http_app(path="/mcp")
+app = FastAPI(lifespan=mcp_app.router.lifespan_context)
+app.mount("/mcpserver", mcp_app)
+
+if __name__ == "__main__":
+    uvicorn.run(app=app, host="127.0.0.1", port=8000)
+```
+
+```python client.py
+transport = StreamableHttpTransport(url="http://127.0.0.1:8000/mcpserver/mcp")
+...
+```
+
+```cmd
+cd 10_Fastapi_Integration
+uv run app.py
 ```
 
 ```cmd

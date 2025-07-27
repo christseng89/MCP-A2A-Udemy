@@ -10,7 +10,7 @@ async def main():
 
     async with client:
         result = await client.call_tool("add", {"a": 5, "b": 7})
-        print("5 + 7 =", result[0].text)
+        print("5 + 7 =", result.content[0].text)
 
 
 if __name__ == "__main__":

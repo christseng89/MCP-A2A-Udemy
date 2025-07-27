@@ -35,5 +35,12 @@ def create_product(p: Product):
 
 mcp = FastMCP.from_fastapi(app=app, name="ProductMCP")
 
+# 添加 MCP Resource，URI 任意定义约定
+@mcp.resource("resource://products/all", description="所有产品列表")
+def all_products_resource() -> dict:
+    """返回当前所有产品的数据列表"""
+    return list_products()
+
+
 if __name__ == "__main__":
     mcp.run(transport="streamable-http", host="127.0.0.1", port=3000)
