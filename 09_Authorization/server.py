@@ -20,7 +20,7 @@ auth = BearerAuthProvider(
 mcp = FastMCP(
     name="SecureAddServer",
     stateless_http=True,
-    auth_provider=auth,
+    auth=auth,
 )
 
 
