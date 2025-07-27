@@ -20,8 +20,8 @@ def subtract(a: int, b: int) -> int:
 
 main_app = FastMCP(name="MainApp")
 
-main_app.mount("add", add_server)
-main_app.mount("subtract", subtract_server)
+main_app.mount("add_server", add_server)
+main_app.mount("subtract_server", subtract_server)
 
 if __name__ == "__main__":
     main_app.run(transport="streamable-http")

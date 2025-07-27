@@ -15,11 +15,11 @@ async def main():
             print(f"Tool Name: {tool.name}")
         print()
 
-        result_add = await client.call_tool("add_add", {"a": 5, "b": 7})
-        print("5 + 7 =", result_add[0].text)
+        result_add = await client.call_tool(tools[0].name, {"a": 5, "b": 7})
+        print("5 + 7 =", result_add.content[0].text)
 
-        result_subtract = await client.call_tool("subtract_subtract", {"a": 10, "b": 3})
-        print("10 - 3 =", result_subtract[0].text)
+        result_subtract = await client.call_tool(tools[1].name, {"a": 10, "b": 3})
+        print("10 - 3 =", result_subtract.content[0].text)
 
 
 if __name__ == "__main__":

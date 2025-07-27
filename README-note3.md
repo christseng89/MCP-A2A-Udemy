@@ -291,3 +291,44 @@ uv run app.py
 cd 10_Fastapi_Integration
 uv run client.py
 ```
+
+## **Composition**
+**Composition**: Combination of multiple MCP Servers (codelevel) into a single MCP Server
+Allows **modular** structure for development (e.g. different dev teams)
+
+```python
+add_server = FastMCP(name="AddServer")
+
+@add_server.tool(description="Add two integers")
+def add(a: int, b: int) -> int:
+    print(f"Executing add tool with a={a}, b={b}")
+    return a + b
+```
+
+```python
+subtract_server = FastMCP(name="SubtractServer")
+
+@subtract_server.tool(description="Subtract two integers")
+def subtract(a: int, b: int) -> int:
+    print(f"Executing subtract tool with a={a}, b={b}")
+    return a - b
+```
+
+```python
+main_app = FastMCP(name="MainApp")
+
+main_app.mount("add", add_server)
+main_app.mount("subtract", subtract_server)
+```
+
+---
+
+```cmd
+cd 11_Composition
+uv run server.py
+```
+
+```cmd
+cd 11_Composition
+uv run client.py
+``
