@@ -9,9 +9,10 @@ async def find_file_with_client(client: Client, file_name: str) -> None:
     """Find file using the given MCP client."""
     result = await client.call_tool("find_file", {"filename": file_name})
     print(f"\n🔍 Search paths for '{file_name}':")
-    if not result:
+
+    if len(result.content) == 0 or not result:
         print("  ❌ No matches found")
-    for r in result:
+    for r in result.content:
         print("  ✅ -", r.text)
 
 

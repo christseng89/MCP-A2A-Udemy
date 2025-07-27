@@ -35,7 +35,8 @@ async def main():
 
         items = ["one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten"]
         result = await client.call_tool(tools_names[0], {"items": items})
-        processed = [c.text.replace('\n', '') for c in result]
+
+        processed = [c.text for c in result.content]
         converted = json.loads(processed[0])
         print("📌 Result:", converted)
 

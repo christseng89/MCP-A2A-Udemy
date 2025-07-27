@@ -113,7 +113,7 @@ def add(a: int, b: int) -> int:
     async with client:
         print("\n🔍 Requesting docstring generation for the code snippet...")            
         result = await client.call_tool("generate_docstring", {"code": code_snippet})
-        print("🧠 LLM generated docstring:\n", result[0].text)
+        print("🧠 LLM generated docstring:\n", result.content[0].text)
 
 
 if __name__ == "__main__":

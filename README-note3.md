@@ -133,7 +133,14 @@ Client 🤖
 
 ### Auth0 Setting Up
 
-Applications > APIs > Create API
+```cmd
+uv run fastmcp version
+  FastMCP version:             2.10.6***>=2.10.6
+  MCP version:                 1.12.1
+  ...
+```
+
+**Login Auth0** > Applications > APIs > Create API
 
 **Name** `mcp-PracticalGuide-Staging`
 **Identifier** `http://localhost:8000/mcp`
@@ -181,5 +188,63 @@ npx @modelcontextprotocol/inspector
 ```
 ```cmd
 cd 09_Authorization
+uv run client.py
+```
+
+## **FastAPI Integration**
+
+**MCP + FastAPI = ❤️**
+
+* FastAPI is the modern standard for Python **web backends**—it's fast, async‑friendly, and developer‑friendly.
+* FastMCP integrates easily with FastAPI since both run on Uvicorn.
+
+**Two ways to integrate:**
+
+1. **FastAPI → MCP**
+
+   * Generate an MCP server *from* your FastAPI app using **`FastMCP.from_fastapi(...)`**
+   * Exposes your existing routes as MCP tools automatically.
+     使用 FastMCP.from_fastapi(app) 将**已有的 FastAPI** 应用转换为 ***MCP 服务器***。MCP 服务器，FastMCP 会自动将端点封装成 **MCP 工具或资源**。
+
+2. **MCP → FastAPI (via mount)**
+
+   * Build a standalone `FastMCP` server and mount it into a FastAPI app using **`.http_app(...)`** or **`.streamable_http_app(...)`**
+   * Allows you to use FastAPI for everything else (e.g. health checks, REST endpoints) and delegate AI tool functionality to the MCP server.
+   手动构建 **FastMCP 服务器**，然后使用 **`.http_app(...)`** or **`.streamable_http_app(...)`** 挂载进 **FastAPI 应用**，这样可以在一个服务中同时提供传统 API 和 MCP 功能。
+
+**Recommended pattern**
+
+* Use **MCP for tools, resources, and prompts** (the AI‑exposed components)
+* Use **FastAPI for everything else**, such as health checks, human‑facing APIs, web UIs, etc.
+
+---
+
+### ✅ Why This Combo Works
+
+By combining these, you get the best of both worlds:
+
+* **FastAPI** gives you the mature HTTP framework, data validation, dependency injection, and standard REST API support.
+* **FastMCP** provides AI‑optimized tooling—tools and resources that agents (like LLMs) can call via the Model Context Protocol.
+* Mounting an MCP server inside FastAPI (or generating one from FastAPI) allows you to maintain a unified, consistent application stack served by Uvicorn, without duplication.
+
+---
+
+### Real‑World Integration Examples
+
+* **FastAPI → MCP**: Developers can bootstrap an MCP layer on top of existing REST endpoints. For example, turning your `/users/{id}` route into a tool that AI agents can call with proper input validation and documentation.
+* **MCP → FastAPI mount**: You might build a specialized MCP toolset (e.g. analytics or AI actions) and mount it inside a FastAPI server under `/mcp`. This isolates AI‑focused logic while your main endpoints and health metrics live natively in FastAPI.
+
+[1]: https://gofastmcp.com/integrations/fastapi?utm_source=chatgpt.com "FastAPI FastMCP"
+[2]: https://medium.com/%40madhuripenikalapati/building-a-leave-management-system-with-fastapi-and-fastmcp-391539059793?utm_source=chatgpt.com "Building a Leave Management System with FastAPI and FastMCP"
+
+---
+
+```cmd
+cd 10_Fastapi_Integration
+uv run server.py
+```
+
+```cmd
+cd 10_Fastapi_Integration
 uv run client.py
 ```
