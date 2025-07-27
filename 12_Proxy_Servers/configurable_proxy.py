@@ -3,12 +3,12 @@ from fastmcp import FastMCP
 config = {
     "mcpServers": {
         "add": {
-            "url": "http://127.0.0.1:9001/sse",
-            "transport": "sse"
+            "url": "http://127.0.0.1:9001/mcp",
+            "transport": "streamable-http"
         },
         "subtract": {
-            "url": "http://127.0.0.1:9002/sse",
-            "transport": "sse"
+            "url": "http://127.0.0.1:9002/mcp",
+            "transport": "streamable-http"
         }
     }
 }

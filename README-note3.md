@@ -331,4 +331,34 @@ uv run server.py
 ```cmd
 cd 11_Composition
 uv run client.py
-``
+```
+
+---
+
+## MCP Proxy
+
+```cmd
+cd 12_Proxy_Servers
+uv run backend_server_1.py
+  http://127.0.0.1:9001/mcp/ 
+```
+
+```cmd
+cd 12_Proxy_Servers
+uv run backend_server_2.py
+  http://127.0.0.1:9002/mcp/ 
+```
+
+```cmd
+cd 12_Proxy_Servers
+uv run configurable_proxy.py
+  http://127.0.0.1:8000/mcp/ 
+```
+
+```cmd
+cd 12_Proxy_Servers
+uv run client.py
+```
+
+---
+

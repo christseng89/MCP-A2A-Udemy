@@ -9,4 +9,4 @@ def subtract(a: int, b: int) -> int:
 
 if __name__ == "__main__":
     print("Starting LegacySSEBackendSubtract (SSE) on port 9002")
-    legacy_backend_subtract.run(transport="sse", host="127.0.0.1", port=9002)
+    legacy_backend_subtract.run(transport="streamable-http", host="127.0.0.1", port=9002)

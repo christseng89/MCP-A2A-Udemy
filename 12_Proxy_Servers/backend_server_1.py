@@ -9,4 +9,4 @@ def add(a: int, b: int) -> int:
 
 if __name__ == "__main__":
     print("Starting LegacySSEBackendAdd (SSE) on port 9001")
-    legacy_backend_mcp.run(transport="sse", host="127.0.0.1", port=9001)
+    legacy_backend_mcp.run(transport="streamable-http", host="127.0.0.1", port=9001)
