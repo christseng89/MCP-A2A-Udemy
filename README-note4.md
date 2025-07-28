@@ -65,3 +65,14 @@ networks:
 6. The LLM Agent uses the tool output to generate an answer, and the API server returns it to the frontend
 
 ---
+
+#### Enhance furniture_server.py and furniture_client_agent.py to support Docker, Kubernetes, and local environments
+```cmd
+cd 13_Capstone
+uv run furniture_server.py
+```
+
+```cmd
+cd 13_Capstone
+uv run furniture_client_agent.py
+```

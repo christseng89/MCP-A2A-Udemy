@@ -29,6 +29,14 @@ furniture_db = [
     {"name": "Comfort Corner Sofa", "price": 499.00},
 ]
 
+def detect_runtime_env() -> str:
+    """Detect if running in Docker, Kubernetes, or locally."""
+    if os.path.exists("/.dockerenv"):
+        return "docker"
+    elif os.getenv("KUBERNETES_SERVICE_HOST"):
+        return "k8s"
+    return "local"
+
 def _find_matches(fragment: str):
     q = fragment.lower()
     return [item for item in furniture_db if q in item["name"].lower()]
@@ -56,5 +64,12 @@ def get_furniture_price(name_fragment: str) -> str:
     )
 
 if __name__ == "__main__":
-    server.run(transport="streamable-http", host="0.0.0.0", port=3000) 
+    # server.run(transport="streamable-http", host="0.0.0.0", port=3000) 
     # 0.0.0.0 => ✅ Listen on all available network interfaces for Docker and Kubernetes
+    env = detect_runtime_env()
+    if env in ["docker", "k8s"]:
+        host = "0.0.0.0"
+    else:
+        host = "127.0.0.1"
+
+    server.run(transport="streamable-http", host=host, port=3000)
