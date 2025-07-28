@@ -76,3 +76,30 @@ uv run furniture_server.py
 cd 13_Capstone
 uv run furniture_client_agent.py
 ```
+
+#### Enhance api_server.py to support Docker, Kubernetes, and local environments
+```cmd
+cd 13_Capstone
+uv run api_server.py
+```
+
+```bash
+curl --location 'http://127.0.0.1:8000/ask' \
+--header 'Content-Type: application/json' \
+--data '{
+  "messages": [
+    {
+      "role": "human",
+      "content": "How much is a chair?"
+    }
+  ]
+}
+'
+```
+
+#### Enhance a common function to detect the OS and environment
+```cmd
+cd 13_Capstone
+uv run common_detect_os.py
+```
+

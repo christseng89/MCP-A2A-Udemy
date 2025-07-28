@@ -3,6 +3,8 @@ import os
 from dotenv import load_dotenv
 from fastmcp import FastMCP
 from fastmcp.server.auth.providers.bearer import BearerAuthProvider
+from common_detect_os import detect_runtime_env
+
 
 load_dotenv()
 
@@ -29,20 +31,15 @@ furniture_db = [
     {"name": "Comfort Corner Sofa", "price": 499.00},
 ]
 
-def detect_runtime_env() -> str:
-    """Detect if running in Docker, Kubernetes, or locally."""
-    if os.path.exists("/.dockerenv"):
-        return "docker"
-    elif os.getenv("KUBERNETES_SERVICE_HOST"):
-        return "k8s"
-    return "local"
 
 def _find_matches(fragment: str):
     q = fragment.lower()
     return [item for item in furniture_db if q in item["name"].lower()]
 
+
 def _format_item(item):
     return f"{item['name']} costs ${item['price']:.2f}"
+
 
 @server.tool(description="List all furniture and prices")
 def list_all_furniture() -> str:
@@ -51,6 +48,7 @@ def list_all_furniture() -> str:
     return "\n".join(
         f"- {item['name']}: ${item['price']:.2f}" for item in furniture_db
     )
+
 
 @server.tool(description="Get price/details for furniture by (partial) name")
 def get_furniture_price(name_fragment: str) -> str:
@@ -63,8 +61,9 @@ def get_furniture_price(name_fragment: str) -> str:
         f"- {item['name']}" for item in matches
     )
 
+
 if __name__ == "__main__":
-    # server.run(transport="streamable-http", host="0.0.0.0", port=3000) 
+    # server.run(transport="streamable-http", host="0.0.0.0", port=3000)
     # 0.0.0.0 => ✅ Listen on all available network interfaces for Docker and Kubernetes
     env = detect_runtime_env()
     if env in ["docker", "k8s"]:

@@ -1,3 +1,4 @@
+import os
 from contextlib import asynccontextmanager
 from typing import List, Literal
 
@@ -7,6 +8,7 @@ from langchain_core.messages import AIMessage, BaseMessage, HumanMessage
 from pydantic import BaseModel, Field
 
 from furniture_client_agent import FurnitureAgent
+from common_detect_os import detect_runtime_env
 
 
 class ApiMessage(BaseModel):
@@ -64,7 +66,8 @@ async def ask_agent(
 
     lc_msgs = to_langchain(payload.messages)
     if not lc_msgs:
-        raise HTTPException(status_code=400, detail="No valid messages in request.")
+        raise HTTPException(
+            status_code=400, detail="No valid messages in request.")
 
     try:
         answer = await agent.ask(lc_msgs)
@@ -77,4 +80,10 @@ async def ask_agent(
 
 
 if __name__ == "__main__":
-    uvicorn.run("api_server:app", host="0.0.0.0", port=8000)
+    env = detect_runtime_env()
+    if env in ["docker", "k8s"]:
+        host = "0.0.0.0"
+    else:
+        host = "127.0.0.1"
+
+    uvicorn.run("api_server:app", host=host, port=8000)

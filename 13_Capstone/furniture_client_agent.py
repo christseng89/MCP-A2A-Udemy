@@ -14,6 +14,9 @@ from langchain_core.messages import AIMessage, BaseMessage
 import asyncio
 from langchain_core.messages import HumanMessage
 
+from common_detect_os import detect_runtime_env
+
+
 load_dotenv()
 
 AUTH0_DOMAIN = os.environ["AUTH0_DOMAIN"].rstrip("/")
@@ -23,13 +26,6 @@ API_AUDIENCE = os.environ["API_AUDIENCE"]
 
 TOKEN_URL = f"{AUTH0_DOMAIN}/oauth/token"
 
-def detect_runtime_env() -> str:
-    """Detect if running in Docker, Kubernetes, or locally."""
-    if os.path.exists("/.dockerenv"):
-        return "docker"
-    elif os.getenv("KUBERNETES_SERVICE_HOST"):
-        return "k8s"
-    return "local"
 
 class FurnitureAgent:
     def __init__(self) -> None:
@@ -65,7 +61,7 @@ class FurnitureAgent:
     async def initialize(self) -> None:
         try:
             token = await self._fresh_token()
-            print (f"Using token: {token[:10]}... (expires at {self.expires})")
+            print(f"Using token: {token[:10]}... (expires at {self.expires})")
             env = detect_runtime_env()
             if env in ["docker", "k8s"]:
                 mcp_url = "http://furniture_server:3000/mcp"
@@ -80,7 +76,7 @@ class FurnitureAgent:
                         "headers": {"Authorization": f"Bearer {token}"},
                     }
                 }
-            )            
+            )
 
             print(f"Initialized MCP client with URL: {mcp_url}")
 
@@ -127,12 +123,13 @@ class FurnitureAgent:
 
 async def main():
     agent = FurnitureAgent()
-    
+
     # Optional: initialize explicitly
     # await agent.initialize()
 
     # Define a test message1
-    messages = [HumanMessage(content="What furniture options do you recommend for a small living room?")]
+    messages = [HumanMessage(
+        content="What furniture options do you recommend for a small living room?")]
     response = await agent.ask(messages)
     print("Agent response:", response)
 
