@@ -6,7 +6,7 @@ from fastapi import FastAPI, HTTPException, Request
 from langchain_core.messages import AIMessage, BaseMessage, HumanMessage
 from pydantic import BaseModel, Field
 
-from llm_furniture_agent import FurnitureAgent
+from furniture_client_agent import FurnitureAgent
 
 
 class ApiMessage(BaseModel):

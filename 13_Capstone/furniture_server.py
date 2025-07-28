@@ -56,4 +56,5 @@ def get_furniture_price(name_fragment: str) -> str:
     )
 
 if __name__ == "__main__":
-    server.run(transport="streamable-http", host="0.0.0.0", port=3000)
+    server.run(transport="streamable-http", host="0.0.0.0", port=3000) 
+    # 0.0.0.0 => ✅ Listen on all available network interfaces for Docker and Kubernetes
