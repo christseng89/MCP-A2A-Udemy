@@ -19,6 +19,8 @@ from common_detect_os import detect_runtime_env
 
 load_dotenv()
 
+SERPER_API_KEY = os.getenv("SERPER_API_KEY")
+
 AUTH0_DOMAIN = os.environ["AUTH0_DOMAIN"].rstrip("/")
 AUTH0_CLIENT_ID = os.environ["AUTH0_CLIENT_ID"]
 AUTH0_CLIENT_SECRET = os.environ["AUTH0_CLIENT_SECRET"]
@@ -74,21 +76,16 @@ class FurnitureAgent:
                         "transport": "streamable_http",
                         "url": mcp_url,
                         "headers": {"Authorization": f"Bearer {token}"},
+                    },
+                    "serper": {
+                        "transport": "stdio",
+                        "command": "uvx",
+                        "args": ["serper-mcp-server"],
+                        "env": {"SERPER_API_KEY": SERPER_API_KEY},
                     }
                 }
             )
 
-            print(f"Initialized MCP client with URL: {mcp_url}")
-
-            self.client = MultiServerMCPClient(
-                {
-                    "furn": {
-                        "transport": "streamable_http",
-                        "url": mcp_url,
-                        "headers": {"Authorization": f"Bearer {token}"},
-                    }
-                }
-            )
             tools = await self.client.get_tools()
             self.agent = create_react_agent(self.llm, tools)
             self.is_initialized = True
@@ -135,6 +132,11 @@ async def main():
 
    # Define a test message2
     messages = [HumanMessage(content="What is the price for table?")]
+    response = await agent.ask(messages)
+    print("Agent response:", response)
+
+    # Define a test message3
+    messages = [HumanMessage(content="What is weather today in Taipei?")]
     response = await agent.ask(messages)
     print("Agent response:", response)
 

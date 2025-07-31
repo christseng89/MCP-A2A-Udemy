@@ -1,12 +1,13 @@
 FROM python:3.12.3-slim
 
-# Update system packages to ensure latest security patches
+# Update system packages
 RUN apt-get update && apt-get upgrade -y && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /app
 
 COPY .env common_detect_os.py api_server.py furniture_client_agent.py /app/
 
+# Install dependencies
 RUN pip install --no-cache-dir \
     fastapi \
     "uvicorn[standard]" \
@@ -15,7 +16,12 @@ RUN pip install --no-cache-dir \
     langgraph \
     mcp \
     httpx \
-    python-dotenv
+    python-dotenv \
+    uv \
+    serper-mcp-server
+
+# Create symlink so uvx works
+RUN ln -s $(python -m site --user-base)/bin/uvx /usr/local/bin/uvx || true
 
 EXPOSE 8000
 

@@ -13,6 +13,8 @@
 
 ### Capstone DEMO
 
+*Enhance **furniture_client_agent.py** to work with Serper MCP Server*
+
 ```cmd
 cd 13_Capstone
 docker compose up --build
@@ -24,6 +26,7 @@ http://localhost:8080/
 - Hi, how are you?
 - What is the price for a chair?
 - How many furniture items do you have?
+- What is the weather today in Taipei?
 
 ### **Core Technologies**
 
