@@ -52,3 +52,5 @@ A full-stack, Docker-based AI web application (frontend + API server + MCP serve
 ---
 
 Happy Coding! 🎉
+
+- Official Model Context Protocol Servers https://github.com/modelcontextprotocol/servers
