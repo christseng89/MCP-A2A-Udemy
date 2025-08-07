@@ -37,10 +37,22 @@ def subtract(a: int, b: int) -> int:
 
 
 @mcp.tool()
-def divide(a: int, b: int) -> int:
-    """Divide two numbers"""
+def divide(a: int, b: int) -> float:
+    """
+    Divide two numbers with proper zero division handling.
+    
+    Args:
+        a: Dividend (numerator)
+        b: Divisor (denominator)
+        
+    Returns:
+        Result of a / b
+        
+    Raises:
+        ZeroDivisionError: If b is zero
+    """
     if b == 0:
-        b = 1  # Avoid division by zero
+        raise ZeroDivisionError("Cannot divide by zero")
     return a / b
 
 # Resources

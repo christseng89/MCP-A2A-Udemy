@@ -1,11 +1,18 @@
 import asyncio
+import os
 
 from mcp import ClientSession
 from mcp.client.streamable_http import streamablehttp_client
 
 
 async def main():
-    url = "http://127.0.0.1:8000/mcp/"
+    """
+    Main client function to connect to MCP server and call tools.
+    
+    Uses environment variable MCP_SERVER_URL if available,
+    otherwise defaults to localhost.
+    """
+    url = os.environ.get("MCP_SERVER_URL", "http://127.0.0.1:8000/mcp/")
     async with streamablehttp_client(url) as (read, write, get_session_id):
         async with ClientSession(read, write) as session:
             print("Before initialize:", get_session_id())
