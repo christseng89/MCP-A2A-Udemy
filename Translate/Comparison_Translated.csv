@@ -1,0 +1,2606 @@
+Local Language,English,Translated_English
+نسخ الفاتورة التجارية الموقعة,,Copies of the signed commercial invoice
+مصادق عليها بواسطة,,Certified by
+وصف المستندات,,Description of documents
+من,,From
+الى,,To
+م نذ ع شرة أا ام ,,Ten days ago
+ت ارا خ مخ صص ,,Custom date
+ س ب عد أا ام ,,Seven days
+الا س ب عً ال ما ضي ,,Last week
+ف ي ال مرة ال قادمة (X ا وً ما ),,In the next (X days)
+ا رجى الاخ ت يار ,,Please select
+ف ي ال ما ضي (X ا وً ما ),,In the past (X days)
+ت ارا خ م ت غ ير ,,Relative date
+هذا ال شهر ,,This month
+ال ي مً ,,Today
+هذا الا س ب عً ,,This week
+ترتيب/تهيئة الفهرس,,Sort/Initialize the index
+تصدير إلى Excel,,Export to Excel
+تصدير إلى CSV,,Export to CSV
+تصدير إلى PDF,,Export to PDF
+تصدير إلى HTML,,Export to HTML
+اسم البنك,,Bank Name
+الرمز التعريفي للشركة,,Company Identifier
+اسم الشرط,,Condition Name
+عملة الحساب,,Account Currency
+رمز الشركة,,Company Code
+اسم البريد الالكتروني للمجموعة,,Group Email Name
+الرمز التعريفي للمجموعة,,Group Identifier
+رمز الدوله,,Country Code
+السنة,,Year
+رقم مرجعنا,,Our Reference Number
+الرمز التعريفي للرسالة,,Message Identifier
+الرمز التعريفي للمجموعة,,Group Identifier
+اسم الطرف,,Party Name
+رقم امر الشراء,,Purchase Order Number
+اسم المستفيد,,Beneficiary Name
+تاريخ الاصدار,,Issuance Date
+عملة الاعتماد,,LC Currency
+اسم النموذج,,Template Name
+انشئت بواسطة,,Created By
+نوع النموذج,,Form type
+تاريخ الانشاء,,Creation date
+اسم النموذج,,Form name
+نوع النموذج,,Form type
+انشئت بواسطة,,Created by
+الرمز التعريفي للشركة,,Company ID
+الرمز التعريفي للمستخدم,,User ID
+رمز الدوله,,Country code
+اسم القالب هو المعيار,,Template name is standard
+الرمز التعريفي للمجموعة,,Group ID
+مدفوع مقدما لشروط التسليم,,Prepaid under delivery terms
+تصدير,,Export
+استراد,,Import
+رئيسي,,Main
+حوالة,,Remittance
+عنوان,,Address
+اسم,,Name
+اسم المستفيد,,Beneficiary name
+عنوان المستفيد,,Beneficiary address
+عنوان المشتري,,Buyer address
+اسم المشتري,,Buyer name
+بلد االوجهة,,Country of destination
+الرمز الجمركي,,Customs code (HS)
+الرمز الجمركي,,Customs code (HS)
+الرمز الجمركي,,Customs code (HS)
+الفرع/حساب العميل,,Branch/Customer account
+رقم مرجع التوطين,,Domiciliation reference number
+مبلغ التوطين ب دج,,Domiciliation amount in DZD
+عملة/مبلغ التوطين,,Domiciliation currency/amount
+وصف البظائع/الخدمات,,Description of goods/services
+وصف البظائع/الخدمات,,Description of goods/services
+وصف البظائع/الخدمات,,Description of goods/services
+تاريخ الفاتاورة/الفاتورة المبدئية/العقد,,Date of the invoice/pro forma invoice/contract
+تاريخ الفاتورة/الفاتورة المبدئية/العقد,,Date of the invoice/pro forma invoice/contract
+رقم الفاتورة/الفاتورة المبدئية/العقد,,Invoice/pro forma invoice/contract number
+شروط التسليم,,Delivery terms (Incoterms)
+شروط التسليم,,Delivery terms (Incoterms)
+رقم الفاتورة/الفاتورة المبدئية/العقد,,Invoice/pro forma invoice/contract number
+رقم الفاتورة/الفاتورة المبدئية/العقد,,Invoice/pro forma invoice/contract number
+طبيعة التصدير,,Nature of export
+طبيعة الاستيراد,,Nature of import
+بلد المنشا,,Country of origin
+وسيلة الدفع,,Means of payment
+وسيلة الدفع,,Means of payment
+شروط الدفع,,Payment terms
+شروط الدفع,,Payment terms
+غرض الاستراد,,Purpose of import
+الغرض من الحوالة,,Purpose of the remittance
+سبب الرفض,,Reason for rejection
+عنوان المرسل,,Sender's address
+اسم المرسل,,Sender's name
+الرقم التعريف الإحصائي (NIS),,Statistical Identification Number (NIS)
+عنوان المورد,,Supplier's address
+اسم المورد,,Supplier's name
+رقم التعريف الضريبي (NIF),,Tax Identification Number (NIF)
+شروط,,Terms
+المدة,,Period
+يرجى الموافقه على الشروط بإختيار اشاره الصح في المربع أدناه .,,Please agree to the terms by selecting the check mark in the box below.
+نسبة التفاوت,,Tolerance percentage
+تاريخ الفاتورة/الفاتورة المبدئية/العقد,,Date of the invoice/proforma invoice/contract
+تاريخ الطلب,,Application Date
+نوع  التوطين,,Domiciliation Type
+مقدم الطلب,,Applicant
+رقم مرجع التوطين,,Domiciliation Reference Number
+الرقم التعريف الإحصائي (NIS),,Statistical Identification Number (NIS)
+نوع  التوطين,,Domiciliation Type
+رقم التعريف الضريبي (NIF),,Tax Identification Number (NIF)
+تعديل,,Amendment
+الشيك,,Cheque
+تعليمات التحصيل,,Collection Instructions
+تعليمات التحصيل,,Collection Instructions
+المستندات,,Documents
+رئيسي,,Main
+أخرى,,Other
+الرقم الفرعي لحساب المصاريف,,Expense Account Sub-number
+الرقم الفرعي لحساب التعهدات,,Commitments Account Sub-number
+قيم القبول,,Acceptance Amounts
+ارصدة القبول,,Acceptance Balances
+تاريخ اشعار الاستلام,,Date of Acknowledgment of Receipt
+اشعار الاستلام بواسطة,,Acknowledgment of Receipt by
+قيمة القبول,,Acceptance amount
+الاجراء المطلوب لاعادة السحب المقبول غير المدفوع,,Required action for re-draft of unpaid acceptance
+اشعار عدم القبول بواسطة,,Advice of non-acceptance by
+اشعار عدم الدفع بواسطة,,Advice of non-payment by
+مصاريف التعديل على,,Amendment charges for account of
+تفاصيل التعديل,,Amendment details
+تاريخ التعديل,,Amendment date
+تعليمات التعديل,,Amendment instructions
+شهادة التحليل,,Certificate of analysis
+الردود,,Responses
+رمز الفرع / حساب العميل,,Branch code / customer account
+اسم وعنوان طالب الاصدار,,Name and address of the applicant
+رقم مرجع المستفيد/ رقم مرجع بنك المستفيد,,Beneficiary reference number / beneficiary bank reference number
+عمولات التحصيل (المستفيد),,Collection commission (beneficiary)
+المصاريف الاخرى (المستفيد),,Other charges (beneficiary)
+الرقم الفرعي لحساب المستفيد (الساحب),,Beneficiary's sub-account number (drawer)
+المصاريف الاجمالية(المستفيد),,Total charges (beneficiary)
+شهادة المستفيد,,Beneficiary's certificate
+شهادة المستفيد/ شهادة تفتيش,,Beneficiary's certificate / inspection certificate
+عمولات التحصيل (غير المدفوعة من المستفيد),,Collection commission (not paid by the beneficiary)
+المصاريف الاجمالية(غير مدفوعة من المستفيد),,Total charges (not paid by the beneficiary)
+تعليمات الفاتورة,,Invoice instructions
+بوليصة الشحن البحري,,Ocean Bill of Lading
+بوليصة الشحن البحري/الجوي,,Ocean Bill of Lading/Air Waybill
+بوليصة الشحن الجوي,,Air Waybill
+بوليصة الشحن الجوي/شهادة الصحة,,Air Waybill/Health Certificate
+شهادة المقاطعة,,Boycott Certificate
+رمز الفرع / حساب العميل,,Branch code / customer account
+رقم مرجع التسديد,,Payment reference number
+الغاء ؟,,Cancel?
+شهادة الوزن,,Weight Certificate
+قيمة الشيك الاول,,Amount of the first cheque
+قيمة الشيك الثاني,,Amount of the second cheque
+قيمة الشيك الثالث,,Amount of the third cheque
+عملة الشيك الاول,,Currency of the first cheque
+عملة الشيك الثاني,,Currency of the second cheque
+عملة الشيك الثالث,,Currency of the third cheque
+تاريخ الشيك الاول,,Date of the first cheque
+تاريخ الشيك الثاني,,Date of the second cheque
+تاريخ الشيك الثالث,,Date of the third cheque
+رقم الشيك الاول,,First cheque number
+رقم الشيك الثاني,,Second cheque number
+رقم الشيك الثالث,,Third cheque number
+عملة حساب المصاريف,,Charges account currency
+حساب العميل الدائن,,Customer credit account
+الرقم الفرعي لحساب المصاريف,,Charges account sub-number
+تاريخ استحقاق الشيك الاول / اسم البنك,,Maturity date of the first cheque / bank name
+تاريخ استحقاق الشيك الثاني / اسم البنك,,Maturity date of the second cheque / bank name
+تاريخ استحقاق الشيك الثالث / اسم البنك,,Maturity date of the third cheque / bank name
+قيمة السحب (المطالب بها),,Draft amount (claimed)
+قيمة تفاوت القبول (تحصيل),,Acceptance variance amount (collection)
+رصيد تفاوت القبول (تحصيل),,Acceptance variance balance (collection)
+قيمة التحصيل,,Collection amount
+شهاة التحليل / نسخة,,Certificate of analysis / copy
+شهاة التحليل / اصلية,,Certificate of analysis / original
+رصيد التحصيل,,Collection balance
+عنوان البنك المحصل,,Collecting bank address
+عمولات البنك المحصل,,Collecting bank charges
+عمولات البنك المحصل على,,Collecting bank charges on
+اسم البنك المبلغ,,Name of the advising bank
+رقم مرجع البنك المحصل,,Collecting bank reference number
+رمز السويفت,,SWIFT code
+الرمز التعريفي للبنك المبلغ,,Advising bank identification code
+بوالص شحن / نسخة,,Bills of lading / copy
+بوالص شحن / اصلية,,Bills of lading / original
+قائمة المقاطعة / نسخة,,Boycott list / copy
+قائمة المقاطعة / اصلية,,Boycott list / original
+عملة التحصيل,,Collection currency
+تاريخ انشاء التحصيل,,Collection creation date
+تاريخ الحركة,,Transaction date
+تخفيض التحصيل,,Collection reduction
+السحب / نسخة,,Draft / copy
+السحب / اصلي,,Draft / original
+زيادة التحصيل,,Collection increase
+الفاتورة / نسخة,,Invoice / copy
+الفاتورة / اصلية,,Invoice / original
+رقم مرجع التحصيل,,Collection reference number
+رقم مرجع التبليغ,,Advice reference number
+شهادة المنشأ / اصلية,,Certificate of origin / original
+شهادة المنشأ / نسخة,,Certificate of origin / copy
+مستندات اخرى / نسخة,,Other documents / copy
+مستندات اخرى / اصلية,,Other documents / original
+بيان التعبئة / نسخة,,Packing list / copy
+بيان التعبئة / أصلي,,Packing list / original
+قيمة الاطلاع ( تحصيل ),,Sight amount (collection)
+رصيد الاطلاع ( تحصيل ),,Sight balance (collection)
+نوع التحصيل,,Collection type
+شهادة الباخرة / نسخة,,Vessel certificate / copy
+شهادة الباخرة / اصلية,,Vessel certificate / original
+شهادة الوزن / نسخة,,Weight certificate / copy
+شهادة الوزن / اصلية,,Weight certificate / original
+الوضع الحالي,,Current status
+الحساب,,Account
+عملة الدفع,,Payment currency
+تبليغ العميل بواسطة,,Notify the customer by
+رمز فرع العميل,,Customer branch code
+اسم فرع العميل,,Customer branch name
+رمز الفرع / حساب العميل,,Branch code / customer account
+تعليمات العميل / المستندات الإضافية المطلوبة,,Customer instructions / additional documents required
+رقم مرجعنا,,Our reference number
+رقم مرجع العميل,,Customer reference number
+مؤشر الخصم,,Discount indicator
+مبلغ الخصم,,Discount amount
+تسليم المستندات مقابل,,Release of documents against
+قيمة المستندات,,Value of documents
+المستندات المطلوب تقديمها,,Documents required to be presented
+ارسال المستندات بواسطة,,Dispatch documents via
+المستندات,,Documents
+حساب قيد المصاريف,,Charges debit account
+القيمة المقيدة على الحساب,,Amount debited to the account
+السحب,,Draft
+قيمة السحب (عملة التقديم),,Draft amount (presentation currency)
+عنوان المسحوب عليه,,Drawee’s address
+رقم حساب المسحوب عليه,,Drawee’s account number
+اسم المسحوب عليه,,Drawee’s name
+العنوان,,Address
+عنوان المستفيد,,Beneficiary’s address
+الاسم والعنوان,,Name and address
+حساب مصاريف المستفيد,,Beneficiary’s charges account
+عملة مصاريف المستفيد,,Beneficiary’s charges currency
+الرقم الفرعي لحساب مصاريف المستفيد,,Beneficiary charges sub-account number
+بنك المحصل (المستفيد),,Collecting bank (beneficiary)
+رقم حساب المستفيد (الساحب),,Beneficiary (drawer) account number
+اسم الساحب,,Name of the drawer
+تاريخ حق الدفعة,,Payment entitlement date
+تاريخ الاستحقاق,,Maturity date
+سعر الصرف,,Exchange rate
+تاريخ الانتهاء,,Expiry date
+البريد الاول,,First mail
+وصف البضائع,,Description of goods
+تاريخ الوقت المتوقع لوصول البضائع,,Expected date/time of goods arrival
+وسيلة النقل,,Mode of transport
+احتفظ بالمستندات لحين وصول البضاعة,,Hold documents until arrival of goods
+بوليصة التأمين,,Insurance policy
+نسبة الفائدة,,Interest rate
+قيمة الفائدة,,Interest amount
+الفائدة مدفوعة بواسطة,,Interest paid by
+الفاتورة,,Invoice
+مصاريف البنك المصدر (عملة الاعتماد),,Issuing bank charges (credit currency)
+تاريخ الاصدار,,Date of issue
+عملة الاعتماد,,Credit currency
+قيمة التحصيل (عملة محلية),,Collection amount (local currency)
+العملة المحلية,,Local currency
+تواريخ الاستحقاق,,Maturity dates
+تفاصيل الدفعات المختلطة,,Mixed payment details
+الرقم الفرعي الجديد لحساب التعهدات,,New sub-account number for the commitments account
+تاريخ استحقاق القبول الجديد,,New acceptance maturity date
+عنوان المسحوب عليه الجديد,,New drawee address
+اسم المسحوب علية الجديد,,New drawee name
+بوليصة شحن غير قابلة للتجيير,,Non-endorsable bill of lading
+عدد الايام,,Number of days
+قيمة بوليصة التحصيل القديمة,,Amount of the old collection bill
+شهادة المنشأ,,Certificate of origin
+شهادات اخرى,,Other certificates
+التزامنا,,Our undertaking
+بيان التعبئة,,Packing list
+الدفع الجزئي مسموح به؟,,Is partial payment allowed?
+تاريخ الدفع,,Payment date
+شروط الدفع,,Payment terms
+نوع الدفع,,Payment type
+اسم وعنوان البنك المقدم,,Name and address of the presenting bank
+حساب العوائد,,Proceeds account
+الاحتجاج على,,Protest for
+عملة الاستلام,,Currency of receipt
+صافي القيمة المستلمة,,Net amount received
+اسباب عدم الدفع,,Reasons for non-payment
+سبب الرفض,,Reason for refusal
+حالة الحركة لدى البنك,,Status of the transaction at the bank
+البريد الثاني,,Second mail
+قيمة الاطلاع,,Amount at sight
+تعليمات خاصة,,Special instructions
+تعليمات التسديد,,Settlement instructions
+التسديد بواسطة,,Payment by
+التخزين والتأمين على البضائع,,Storage and insurance of the goods
+المدة ايام,,Term in days
+المدة ايام / اشهر,,Term in days / months
+تاريخ بدء احتساب المدة,,Date from which the term is calculated
+نوع المدة,,Type of term
+رقم مرجعهم,,Their reference number
+المدة ايام / اشهر,,Term in days / months
+تاريخ وثيقة الشحن الاولى,,Date of first transport document
+تاريخ وثيقة الشحن الثانية,,Date of second transport document
+رقم الفاتورة/امر الشراء,,Invoice/Purchase Order Number
+رقم وثيقة الشحن الاولى,,First transport document number
+رقم وثيقة الشحن الثانية,,Second transport document number
+الشحن من,,Shipment from
+الشحن الى,,Shipment to
+طريق الشحن,,Route of shipment
+تاريخ الطلب,,Order date
+القيمة الاجمالية الواجب دفعها ( المستفيد),,Total amount payable (beneficiary)
+اجمالي مصاريف الاتصالات غير المدفوعة ( عملة المصاريف),,Total unpaid communication charges (charges currency)
+اجمالي التكاليف غير المدفوعة ( عملة المصاريف),,Total unpaid costs (charges currency)
+القيمة الاجمالية القابلة للدفع,,Total payable amount
+شهادة الباخرة,,Vessel certificate
+اسم الباخرة/رقم الرحلة,,Vessel name/Flight number
+التنازل عن مصاريف البنك المحصل اذا رفضت,,Waive collecting bank charges if refused
+التنازل عن مصاريف البنك المحصل (نعم/لا),,Waive collecting bank charges (Yes/No)
+التنازل عن مصاريف البنك المرسل (نعم/لا),,Waive remitting bank charges (Yes/No)
+التنازل عن مصاريف البنك المرسل (نعم/لا),,Waive remitting bank charges (Yes/No)
+البنك المحصل,,Collecting bank
+رمز الفرع/ حساب العميل,,Branch code / Customer account
+المسحوب عليه,,Drawee
+الساحب,,Drawer
+رئيسي,,Main
+رقم مرجعنا,,Our reference number
+قيمة التحصيل,,Collection amount
+قيمة التحصيل,,Collection amount
+اسم الساحب,,Drawer's name
+المسحوب عليه,,Drawee
+المسحوب عليه,,Drawee
+عملة التحصيل,,Collection currency
+رقم مرجع التحصيل,,Collection reference number
+عملة التحصيل,,Collection currency
+قيمة التحصيل,,Collection amount
+تسليم المستندات مقابل,,Release documents against
+تاريخ حق الدفعة,,Payment due date
+الساحب,,Drawer
+المسحوب عليه,,Drawee
+رقم مرجع التحصيل,,Collection reference number
+رقم مرجعنا,,Our reference number
+المسحوب عليه,,Drawee
+عملة التحصيل,,Collection currency
+قيمة التحصيل,,Collection amount
+الوضع الحالي,,Current status
+رقم مرجع التحصيل,,Collection reference number
+الساحب,,Drawer
+رصيد التحصيل,,Collection balance
+تاريخ حق الدفعة,,Payment maturity date
+حالة الحركة لدى البنك,,Transaction status at the bank
+تفاصيل التنازل,,Assignment details
+تفاصيل التنازل,,Assignment details
+تفاصيل التنازل,,Assignment details
+تفاصيل التنازل,,Assignment details
+البنك,,Bank
+المصاريف,,Charges
+عمولات,,Commissions
+تفاصيل المستندات,,Document details
+المستندات,,Documents
+البضائع,,Goods
+التعليمات,,Instructions
+تفاصيل التعهدات,,Undertakings Details
+رئيسي,,Main
+ملاحظات,,Notes
+أخرى,,Other
+تفاصيل الاعتماد الاصلي الاخرى,,Other Original LC Details
+جهات الاعتماد,,LC Parties
+شروط الدفع,,Payment Terms
+تفاصيل الشحن,,Shipment Details
+تفاصيل الشحن,,Shipment Details
+الشروط والاحكام,,Terms and Conditions
+تفاصيل الاعتماد المحول,,Transferred LC Details
+عموله للقبول غير المدفوعة(عملة المصاريف),,Unpaid acceptance commission (charges currency)
+تاريخ القبول,,Acceptance Date
+القيم الاضافية المغطاة (ان وجدت),,Additional Covered Amounts (if any)
+الشروط الاضافية,,Additional Conditions
+مصاريف البنك المقدم الاضافية,,Additional Presenting Bank Charges
+الرمز التعريفي للبنك المبلغ,,Advising Bank Identifier Code
+اسم البنك المبلغ,,Advising Bank Name
+هل تم تبليغ /عدم تبليغ الاعتماد من البنك العربي,,Was the LC advised/not advised by Arab Bank
+اشعار/اشعار مسبق العمولات,,Advice/Pre-advice of Commissions
+تاريخ الاشعار,,Date of advice
+رقم مرجع البنك المبلغ,,Advising bank reference number
+رقم مرجع البنك,,Bank reference number
+قيمة التعديل,,Amendment amount
+قيمة التعديل المؤجل,,Deferred payment amendment amount
+قيمة التعديل المؤجل متضمنا نسبة التفاوت,,Deferred payment amendment amount including tolerance percentage
+قيمة التعديل الاطلاع,,At sight amendment amount
+قيمة التعديل الاطلاع متضمنا نسبة التفاوت,,At sight amendment amount including tolerance percentage
+قيمة التعديل متضمنا نسبة التفاوت,,Amendment amount including tolerance percentage
+مصاريف التعديل,,Amendment charges
+عمولات التعديل,,Amendment commissions
+تفاصيل التعديل,,Amendment details
+تاريخ التعديل,,Amendment date
+مؤشر التعديل,,Amendment indicator
+الاجابة على التعديل,,Response to the amendment
+نوع التعديل,,Type of amendment
+شهادة التحليل,,Certificate of Analysis
+القواعد القابلة للتطبيق,,Applicable rules
+اشعار/اشعار مسبق العمولات غير المدفوعة (طالب الاصدار),,Advice/Pre-advice of unpaid commissions (applicant)
+عمولات التعديل غير مدفوعة (طالب الاصدار),,Unpaid amendment commissions (applicant)
+قيمة العمولات الاجمالية,,Total commission amount
+رمز دولة طالب الاصدار,,Applicant country code
+طالب الاصدار,,Applicant
+اسم وعنوان طالب الاصدار,,Name and address of the applicant
+اجمالي مصاريف الاتصالات غير المدفوعة ( طالب الاصدار),,Total unpaid communication charges (applicant)
+العمولات الاجمالية المدفوعه( طالب الاصدار),,Total commissions paid (applicant)
+اجمالي التكاليف غير المدفوعة من طالب الاصدار,,Total unpaid charges by the applicant
+المتنازل له,,Assignee
+بنك المتنازل له,,Assignee's bank
+رقم الحساب,,Account number
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+القيمة المتنازل عنها,,Assigned amount
+الاسم والعنوان,,Name and address
+رقم الحساب,,Account number
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+القيمة المتنازل عنها,,Assigned amount
+الاسم والعنوان,,Name and address
+رقم الحساب,,Account number
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+القيمة المتنازل عنها,,Assigned amount
+الاسم والعنوان,,Name and address
+رقم الحساب,,Account number
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+القيمة المتنازل عنها,,Assigned amount
+الاسم والعنوان,,Name and address
+متاح بـواسطة,,Available by
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+الرمز التعريفي,,Identification code
+موافقة المستفيد المسبقة لتحويل,,Beneficiary’s prior consent to transfer
+أي أو جميع التعديلات,,Any or all amendments
+الوضع الحالي,,Current status
+عنوان المستفيد,,Beneficiary address
+عمولات البنك المبلغ مدفوعة (المستفيد),,Bank charges amount paid (beneficiary)
+تبليغ المستفيد بواسطة,,Advise beneficiary by
+اشعار/اشعار مسبق العمولات (المستفيد),,Advising/pre-advice charges (beneficiary)
+اشعار/اشعار مسبق العمولات غير المدفوعة (المستفيد),,Advice/Pre-advice of unpaid commissions (beneficiary)
+مصاريف التعديل على (المستفيد),,Amendment charges on (beneficiary)
+عمولات التعديل (المستفيد),,Amendment commissions (beneficiary)
+عمولات التعديل غير مدفوعة (المستفيد),,Unpaid amendment commissions (beneficiary)
+وسيلة المراسلة,,Communication method
+الاسم والعنوان,,Name and address
+رقم مرجع المستفيد/ رقم مرجع بنك المستفيد,,Beneficiary reference number / beneficiary bank reference number
+تاريخ مرجع المستفيد/ تاريخ مرجع بنك المستفيد,,Beneficiary reference date / beneficiary bank reference date
+الرمز التعريفي,,Identification code
+رمز فرع المستفيد,,Beneficiary branch code
+اسم فرع العميل,,Customer branch name
+اسم فرع العميل,,Customer branch name
+قيمة العمولات الاجمالية,,Total commissions amount
+مصاريف الالغاء (غير مدفوعة من المستفيد),,Cancellation charges (unpaid by the beneficiary)
+عملة مصاريف المستفيد,,Currency of beneficiary charges
+دولة المستفيد,,Beneficiary country
+عمولة التعزيز على المستفيد,,Confirmation commission on the beneficiary
+عمولة التعزيز غير مدفوعة من المستفيد,,Confirmation commission unpaid by the beneficiary
+قيمة المستندات (المستفيد),,Value of documents (beneficiary)
+صافي قيمة المستندات (المستفيد),,Net value of documents (beneficiary)
+رقم الفاكس او البريد الالكتروني للمستفيد,,Beneficiary's fax number or email address
+رمز فرع المستفيد/حساب العميل,,Beneficiary branch code / customer account
+المستفيد,,Beneficiary
+رمز الفرع / حساب العميل,,Branch code / customer account
+لغة المستفيد,,Beneficiary's language
+اسم المستفيد,,Beneficiary's name
+المستفيد,,Beneficiary
+ملاحظات المستفيد,,Beneficiary's remarks
+المصاريف الاخرى (المستفيد),,Other charges (beneficiary)
+المصاريف الاخرى غير المدفوعة (المستفيد),,Other unpaid charges (beneficiary)
+رد المستفيد,,Beneficiary's response
+الرقم الفرعي لحساب المستفيد,,Beneficiary's sub-account number
+القيمة الاجمالية الواجب دفعها,,Total amount payable
+اجمالي مصاريف الاتصالات ( المستفيد),,Total telecommunication charges (beneficiary)
+اجمالي مصاريف الاتصالات المدفوعة من المستفيد (عملة محلية),,Total telecommunication charges paid by the beneficiary (local currency)
+اجمالي مصاريف الاتصالات غير المدفوعة ( المستفيد),,Total unpaid telecommunication charges (beneficiary)
+اجمالي مصاريف الاتصالات غير المدفوعة ( المستفيد),,Total unpaid telecommunication charges (beneficiary)
+العمولات الاجمالية المدفوعه( المستفيد),,Total commissions paid (beneficiary)
+العمولات الاجمالية المدفوعة من المستفيد ( عملة محلية),,Total commissions paid by the beneficiary (local currency)
+العمولات الاجمالية غير المدفوعه( المستفيد),,Total unpaid commissions (beneficiary)
+اجمالي التكاليف غير المدفوعة من المستفيد,,Total charges not payable by the beneficiary
+اجمالي التكاليف المدفوعة من المستفيد,,Total charges payable by the beneficiary
+اجمالي التكاليف غير المدفوعة من المستفيد,,Total charges not payable by the beneficiary
+عمولة التداول (غير مدفوعة من المستفيد),,Negotiation commission (not payable by the beneficiary)
+اجمالي التكاليف غير المدفوعة من المستفيد,,Total charges not payable by the beneficiary
+شهادة المستفيد/ شهادة تفتيش,,Beneficiary’s certificate / Inspection certificate
+بوليصة الشحن البحري,,Ocean bill of lading
+البنك عزز,,Confirming bank
+تعليمات التعزيز,,Confirmation instructions
+التزام البنك العربي,,Arab Bank’s undertaking
+معلومات البنك المصدر,,Issuing bank information
+بوليصة الشحن الجوي/شهادة الصحة,,Air waybill / Health certificate
+رمز الفرع,,Branch code
+رقم التداول,,Negotiation number
+رقم مرجع التسديد,,Payment reference number
+قيمة العمولات الاجمالية,,Total value of commissions
+شهادة الوزن,,Weight certificate
+رقم الحساب الذي ستقيد عليه المصاريف,,Account number to be debited with the charges
+عملة حساب المصاريف,,Charges account currency
+رقم حساب المصاريف,,Charges account number
+الرقم الفرعي لحساب المصاريف,,Expense account sub-number
+اجمالي التكاليف غير المدفوعة من المستفيد ( عملة المصاريف),,Total unpaid charges by the beneficiary (expenses currency)
+الرقم الفرعي للقيد على حساب المصاريف,,Sub-number for the posting to the expenses account
+تفاصيل المصاريف,,Charge details
+المصاريف,,Charges
+المصاريف تدفع عند,,Charges payable at
+المصاريف قابلة للدفع بواسطة,,Charges payable by
+القيمة الاجمالية الواجب دفعها ( االمصاريف),,Total amount due (charges)
+تاريخ تدقيق المستندات,,Date of document examination
+عملة المطالبة,,Claim currency
+قيمة السحب (المطالب بها),,Drawing amount (claimed)
+رمز السويفت,,SWIFT code
+عمولات التعزيز,,Confirmation commission
+تعليمات التعزيز,,Confirmation instructions
+رقم حساب التعهدات (قيد دائن),,Commitments account number (credit entry)
+الوضع الحالي,,Current status
+الحساب,,Account
+تبليغ العميل بواسطة,,Advise the customer via
+رمز الفرع / حساب العميل,,Branch code / customer account
+تاريخ حق العميل,,Customer value date
+قيمة تخفيض الاعتماد,,Amount of LC reduction
+تعديل / تخفيض القيمة,,Amendment / amount reduction
+تفاصيل الدفعة المؤجلة,,Deferred payment details
+مكان وصول البضائع,,Place of arrival of goods
+ميناء التفريغ,,Port of discharge
+المخالفات,,Discrepancies
+المخالفات المكتشفة,,Discrepancies found
+تاريخ تبليغ المخافات,,Date of discrepancy notification
+مؤشر الخصم,,Discount indicator
+قيمة الخصم,,Discount amount
+تعليمات التصرف بالمستندات,,Instructions for disposal of documents
+قيمة المستندات,,Value of documents
+القرار بخصوص المستندات,,Decision regarding the documents
+المستندات المطلوب تقديمها,,Documents required to be presented
+حالة المستندات,,Document status
+المستندات,,Documents
+المستندات المقدمة,,Presented documents
+حساب قيد المصاريف,,Expense posting account
+القيمة المقيدة على الحساب,,Amount posted to the account
+رقم حساب التعهدات (قيد مدين),,Commitments account number (debit entry)
+السحب,,Drawing
+قيمة السحب (عملة التقديم),,Drawing amount (presentation currency)
+قيد قيمة السحب للحساب الفرعي,,Credit the sub-account with the drawing amount
+قيد قيمة السحب على الحساب الفرعي,,Debit the sub-account with the drawing amount
+القيد لحساب تعهدات السحوبات,,Posting to the Drawings Undertakings account
+رقم مرجع السحب,,Drawing reference number
+السحب بعد,,Drawn after
+رصيد السحوبات,,Drawings balance
+رقم مرجع التداول,,Deal reference number
+رقم التداول,,Deal number
+الرمز التعريفي,,Identification code
+الاسم والعنوان,,Name and address
+الاسم,,Name
+تاريخ حق الدفعة,,Payment entitlement date
+انشئت بواسطة,,Created by
+سعر عملة الاساس,,Base currency rate
+سعر الصرف,,Exchange rate
+شكل رسالة السويفت,,SWIFT message format
+ملاحظات,,Remarks
+تاريخ الانتهاء,,Expiry date
+تاريخ الانتهاء,,Expiry date
+مكان الانتهاء,,Place of expiry
+الجهة الصادر باسمها,,Entity in whose name issued
+نوع الاعتماد,,Type of letter of credit
+نموذج الاعتماد,,Form of letter of credit
+القيد لحساب الاستاذ العام,,Credit to general ledger account
+القيد على حساب الاستاذ العام,,Debit to general ledger account
+وصف البضائع,,Description of goods
+البضائع,,Goods
+قيمة زيادة الاعتماد,,Amount of letter of credit increase
+تعديل / زيادة القيمة,,Amendment / increase of value
+شروط التسليم,,Delivery terms
+بوليصة التأمين,,Insurance policy
+نسبة الفائدة,,Interest rate
+قيمة الفائدة,,Interest amount
+الفائدة مدفوعة بواسطة,,Interest paid by
+الفاتورة,,Invoice
+مصاريف البنك المصدر (عملة الاعتماد),,Issuing bank charges (letter of credit currency)
+مصاريف البنك المصدر (محلي),,Issuing bank charges (local)
+رمز دولة البنك المصدر,,Issuing bank country code
+وسيلة المراسلة,,Correspondence method
+قرار البنك المصدر,,Issuing bank decision
+اسم البنك المصدر,,Name of issuing bank
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+الرمز التعريفي,,Identification code
+نوع البنك المصدر,,Type of issuing bank
+تاريخ الاصدار,,Date of issuance
+آخر دفعة؟,,Last payment?
+قيمة الاعتماد,,Credit amount
+قيمة الاعتماد مؤجل,,Deferred credit amount
+قيمة الاعتماد الاصلية,,Original credit amount
+قيمة الاعتماد مع نسبة التفاوت (عملة الاساس),,Credit amount with tolerance (base currency)
+قيمة الاعتماد اطلاع,,Sight credit amount
+قيمة الاعتماد مع نسبة التفاوت,,Credit amount with tolerance
+قيمة الاعتماد مع نسبة التفاوت (عملة الاساس),,Credit amount with tolerance (base currency)
+رصيد الاعتماد,,Credit balance
+عملة الاعتماد,,Credit currency
+قيمة السحب (عملة الاعتماد),,Drawing amount (credit currency)
+رقم الاعتماد,,Credit number
+رقم اعتماد البنك المصدر,,Issuing bank L/C number
+قيمة التقديم (عملة الاعتماد),,Presentation amount (L/C currency)
+نوع الاعتماد,,Type of L/C
+الرقم الفرعي لحساب التعهدات / دائن,,Contingent liabilities sub-account number / credit
+الرقم الفرعي لحساب التعهدات / دائن,,Contingent liabilities sub-account number / credit
+الرقم الفرعي لحساب التعهدات / مدين,,Contingent liabilities sub-account number / debit
+الرقم الفرعي لحساب التعهدات / مدين,,Contingent liabilities sub-account number / debit
+شحن البضائع من,,Shipment of goods from
+ميناء التحميل,,Port of loading
+المصاريف الاخرى غير المدفوعة (مستفيد محلي),,Other unpaid charges (local beneficiary)
+قيمة التقديم,,Presentation amount
+القيمة المسددة ( محلي ),,Paid amount (local)
+اخر تاريخ للشحن,,Latest shipment date
+تاريخ الاستحقاق,,Maturity date
+تفاصيل الدفعات المختلطة,,Mixed payment details
+تفاصيل الدفعات المختلطة/المؤجلة,,Mixed/deferred payment details
+عمولة التداول,,Negotiation commission
+تاريخ التداول,,Negotiation date
+تاريخ الاستحقاق الجديد,,New maturity date
+مكان الانتهاء الجديد,,New place of expiry
+قيمة الاعتماد الجديدة,,New letter of credit amount
+رصيد الاعتماد الجديدة,,New letter of credit balance
+بوليصة شحن غير قابلة للتجيير,,Non-endorsable bill of lading
+رقم التعديل,,Amendment number
+عدد التنازلات,,Number of transfers
+عدد الايام,,Number of days
+رقم السحب,,Drawing number
+عدد مرات السحب,,Number of drawings
+رقم الاعتماد,,Letter of credit number
+مصدر الاعتماد ليس بنك,,LC issuer is not a bank
+ملاحظات,,Notes
+الحالة التالية,,Next status
+رقم حساب التعهدات القديم (دائن),,Old commitments account number (credit)
+الرقم الفرعي القديم لتعهدات الاعتماد (دائن),,Old sub-account number for LC commitments (credit)
+الرقم الفرعي القديم لتعهدات الاعتماد (مدين),,Old sub-account number for LC commitments (debit)
+رقم حساب التعهدات القديم (مدين),,Old commitments account number (debit)
+تاريخ الانتهاء القديم,,Old expiry date
+رصيد الاعتماد القديم,,Old letter of credit balance
+شهادة المنشأ,,Certificate of origin
+تفاصيل المصاريف الاخرى,,Details of other charges
+الاعتماد معزز بواسطة بنك,,Letter of credit confirmed by a bank
+التزامنا,,Our undertaking
+بيان التعبئة,,Packing list
+الشحن الجزئي,,Partial shipment
+التعليمات للبنك الدافع,,Instructions to the paying bank
+نوع الدفع,,Payment type
+نسبة التفاوت الموجبة/السالبة,,Plus/minus tolerance percentage
+القيمة الاساسية المطالب بها,,Principal amount claimed
+قيمة الاطلاع ( عملة التقديم ),,Sight amount (presentation currency)
+القيمة الاجمالية الواجب دفعها ( التقديم),,Total amount payable (presentation)
+قيمة التقديم (عملة التقديم),,Presentation amount (presentation currency)
+رصيد التقديم,,Presentation balance
+مصاريف البنك المقدم,,Presenting bank charges
+عملة التقديم,,Presentation currency
+قيمة الدفعة المؤجلة (المستندات المقدمة),,Deferred payment amount (documents presented)
+رصيد الدفعة المؤجلة (المستندات المقدمة),,Deferred payment balance (documents presented)
+قيمة السحب (عملة التقديم),,Draft amount (presentation currency)
+فترة التقديم,,Presentation period
+فترة التقديم,,Presentation period
+عملة الاستلام,,Currency of receipt
+تاريخ الاستلام,,Date of receipt
+تاريخ التبليغ,,Date of advice
+تاريخ الحركة,,Transaction date
+صافي القيمة المستلمة,,Net amount received
+سبب الرفض,,Reason for rejection
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+حالة التغطية,,Cover status
+حالة الحركة لدى البنك,,Transaction status with the bank
+اعتماد دوار,,Revolving LC
+المجموع,,Total
+ذاتية التصفية,,Self-liquidating
+رصيد الاطلاع,,Sight balance
+قيمة الاطلاع / المؤجل ( بعملة الاعتماد ),,Sight/Usance amount (in LC currency)
+فترة الشحن,,Shipment period
+رصيد الاطلاع,,Sight balance
+تعليمات خاصة,,Special instructions
+التسديد بواسطة,,Settlement by
+المدة ايام,,Tenor (days)
+وصف المدة,,Tenor description
+المدة ايام,,Duration (days)
+الخدمة خاضعة للرسوم,,Service subject to fees
+الشروط والاحكام الخاصة بالبنك,,Bank’s terms and conditions
+المستفيد الثاني,,Second beneficiary
+تفاصيل التأمين,,Insurance details
+تاريخ انتهاء الاعتماد المحول,,Expiry date of the transferred LC
+قيمة الاعتماد المحول,,Amount of the transferred LC
+اخر تاريخ للشحن للاعتماد المحول,,Latest shipment date for the transferred LC
+فترة التقديم للاعتماد المحول,,Presentation period for the transferred LC
+قيمة الوحدة المخفضة للاعتماد المحول,,Reduced unit price for the transferred LC
+تاريخ طلب الاعتماد المحول,,Application date for the transferred LC
+فترة الشحن  للاعتماد المحول,,Shipment period for the transferred LC
+تغيير وسيلة الشحن,,Change of mode of transport
+نسبة التفاوت الموجبة/السالبة,,Plus/minus tolerance percentage
+تفاصيل نسبة التفاوت الموجبة/السالبة,,Plus/minus tolerance percentage details
+تفاصيل القيمة,,Amount details
+نسبة التفاوت,,Tolerance percentage
+الرصيد القابل التحويل,,Transferable balance
+وسيلة النقل,,Mode of transport
+تاريخ الحركة,,Transaction date
+القيمة الاجمالية الواجب دفعها,,Total amount due for payment
+القيمة الاجمالية الواجب دفعها ( المستفيد),,Total amount due for payment (beneficiary)
+اجمالي مصاريف الاتصالات ( العملة المحلية),,Total communication charges (local currency)
+اجمالي مصاريف الاتصالات غير المدفوعة ( المحلية),,Total unpaid communication charges (local currency)
+اجمالي مصاريف الاتصالات غير المدفوعة ( عملة المصاريف),,Total unpaid communication charges (charges currency)
+اجمالي التكاليف غير المدفوعة ( عملة المصاريف),,Total unpaid charges (charges currency)
+قيمة الاعتماد الاجمالية,,Total documentary credit amount
+اجمالي السحوبات القائمة,,Total outstanding drawings
+القيمة الاجمالية القابلة للدفع,,Total amount payable
+عملة المصاريف غير المدفوعة,,Currency of unpaid charges
+عملة المصاريف غير المدفوعة,,Currency of unpaid charges
+شهادة الباخرة,,Vessel certificate
+طالب الاصدار,,Applicant
+تفاصيل التنازل,,Assignment details
+تفاصيل التنازل الاول,,First assignment details
+تفاصيل التنازل الثاني,,Second assignment details
+تفاصيل التنازل الثالث,,Third assignment details
+تفاصيل التنازل الرابع,,Fourth assignment details
+متاح مع بنك,,Available with bank
+متاح مع بنك,,Available with bank
+بنك المستفيد,,Beneficiary bank
+المصاريف,,Charges
+تفاصيل المستندات,,Document details
+المستندات,,Documents
+المستندات المقدمة,,Presented documents
+المسحوب عليه,,Drawee
+التعليمات,,Instructions
+البنك المصدر,,Issuing bank
+البنك المصدر,,Issuing bank
+رئيسي,,Main
+تفاصيل الاعتماد الاصلي الاخرى,,Other details of the original credit
+جهات الاعتماد,,Parties to the credit
+شروط الدفع,,Payment terms
+البنك المغطي,,Reimbursing bank
+البنك المغطي,,Reimbursing bank
+تفاصيل الشحن,,Shipment details
+تفاصيل الاعتماد المحول,,Transferred credit details
+رقم مرجع البنك المبلغ,,Advising bank reference number
+رقم الاعتماد,,L/C number
+رقم مرجع البنك المبلغ,,Advising bank reference number
+قيمة المستندات,,Documents amount
+رقم الاعتماد,,LC number
+عملة الاعتماد,,LC currency
+رقم مرجع البنك المبلغ,,Advising bank reference number
+رقم مرجع التداول,,Trade reference number
+اسم طالب الاصدار,,Applicant name
+رقم الاعتماد,,LC number
+رقم مرجع البنك المبلغ,,Advising bank reference number
+رقم الاعتماد,,LC number
+رقم مرجع البنك المبلغ,,Advising bank reference number
+عملة الاعتماد,,LC currency
+الوضع الحالي,,Current status
+قيمة الاعتماد,,LC amount
+الوضع الحالي,,Current status
+تاريخ الانتهاء,,Expiry date
+رقم الاعتماد,,LC number
+طالب الاصدار,,Applicant
+رقم مرجع البنك المبلغ,,Advising bank reference number
+عملة الاعتماد,,LC currency
+قيمة الاعتماد,,LC amount
+تاريخ الانتهاء,,Expiry date
+رقم الاعتماد,,LC number
+طالب الاصدار,,Applicant
+اسم المستفيد,,Beneficiary name
+رقم مرجع البنك المبلغ,,Advising bank reference number
+اسم طالب الاصدار,,Applicant name
+اسم المستفيد,,Beneficiary name
+عملة التقديم,,Presentation currency
+قيمة التقديم,,Presentation amount
+رقم الاعتماد,,LC number
+رقم مرجع التداول,,Transaction reference number
+رقم التبليغ,,Advice number
+رقم الاعتماد,,LC number
+تاريخ الانتهاء,,Expiry date
+رقم مرجع البنك المبلغ,,Advising bank reference number
+رصيد الاعتماد,,LC balance
+رقم الاعتماد,,LC number
+عملة الاعتماد,,LC currency
+رقم مرجع البنك المبلغ,,Advising bank reference number
+رقم مرجع البنك المبلغ,,Advising bank reference number
+تاريخ الانتهاء,,Expiry date
+الوضع الحالي,,Current status
+حالة الحركة لدى البنك,,Bank transaction status
+رقم الاعتماد,,Letter of Credit number
+رصيد الاعتماد,,Letter of Credit balance
+من ع ند ,,From
+المرجع الرئيسي,,Main reference
+اسم المنتج,,Product name
+حقل شهادة المنشأ,,Certificate of Origin field
+مصادق عليها بواسطة,,Certified by
+حقل بيان التعبئة,,Packing list field
+الشيك,,Cheque
+تعليمات تعديل التحصيل,,Collection amendment instructions
+تعليمات التحصيل,,Collection instructions
+المستندات,,Documents
+رئيسي,,Main
+أخرى,,Other
+الرقم الفرعي لحساب المصاريف,,Expense account sub-number
+رقم حساب الدفع,,Payment account number
+قيمة القبول,,Acceptance amount
+اجمالي قيمة القبول (تحصيل),,Total value of acceptances (Collection)
+قيمة القبول الثامن,,Value of the eighth acceptance
+قيمة القبول العاشر,,Value of the tenth acceptance
+قيمة القبول الثاني,,Value of the second acceptance
+قيمة القبول الثالث,,Value of the third acceptance
+قيمة القبول الرابع,,Value of the fourth acceptance
+قيمة القبول الخامس,,Value of the fifth acceptance
+قيمة القبول السادس,,Value of the sixth acceptance
+قيمة القبول السابع,,Value of the seventh acceptance
+قيمة القبول التاسع,,Value of the ninth acceptance
+رصيد القبول (تحصيل),,Acceptance balance (Collection)
+رصيد الشيكات,,Checks balance
+رصيد القبول الاول,,Balance of the first acceptance
+رصيد القبول العاشر,,Balance of the tenth acceptance
+رصيد القبول الثاني,,Balance of the second acceptance
+رصيد القبول الثالث,,Balance of the third acceptance
+رصيد القبول الرابع,,Balance of the fourth acceptance
+رصيد القبول الخامس,,Balance of the fifth acceptance
+رصيد القبول السادس,,Balance of the sixth acceptance
+رصيد القبول السابع,,Balance of the seventh acceptance
+رصيد القبول الثامن,,Eighth acceptance balance
+رصيد القبول التاسع,,Ninth acceptance balance
+تاريخ القبول,,Date of acceptance
+تاريخ استحقاق القبول الاول,,First acceptance maturity date
+رقم مرجع القبول,,Acceptance reference number
+اشعار الاستلام بواسطة,,Receipt advice by
+تاريخ اشعار الاستلام,,Date of receipt advice
+قيمة القبول,,Acceptance amount
+الاجراء المطلوب اتخاذه,,Action to be taken
+عموله مقبول مكفول (محلي),,Avalized acceptance commission (local)
+تعديل,,Amendment
+تعليمات التعديل,,Amendment instructions
+الردود,,Responses
+رصيد,,Balance
+المصاريف دفعت بواسطة,,Charges paid by
+رقم حساب المستفيد / رقم حساب المجير الاخير,,Beneficiary account number / last endorser account number
+اسم وعنوان المستفيد/ المجير الاخير,,Name and address of beneficiary / last endorser
+تعليمات الفاتورة,,Invoice instructions
+نوع الفاتورة,,Invoice type
+عمولة البنك المركزي (على حساب المسحوب عليه),,Central bank commission (for account of drawee)
+مصاريفنا على حساب,,Our charges for account of
+مجموع قيم الشيكات,,Total amount of the cheques
+قيمة الشيك الاول,,Amount of the first cheque
+قيمة الشيك العاشر,,Amount of the tenth cheque
+قيمة الشيك الثاني,,Amount of the second cheque
+قيمة الشيك الثالث,,Amount of the third cheque
+قيمة الشيك الرابع,,Amount of the fourth cheque
+قيمة الشيك الخامس,,Amount of the fifth cheque
+قيمة الشيك السادس,,Amount of the sixth cheque
+قيمة الشيك السابع,,Amount of the seventh cheque
+قيمة الشيك الثامن,,Amount of the eighth cheque
+قيمة الشيك التاسع,,Amount of the ninth cheque
+رقم الشيك الاول,,Number of the first cheque
+رقم الشيك العاشر,,Number of the tenth cheque
+رقم الشيك الثاني,,Number of the second cheque
+رقم الشيك الثالث,,Number of the third cheque
+رقم الشيك الرابع,,Number of the fourth cheque
+رقم الشيك الخامس,,Number of the fifth cheque
+رقم الشيك السادس,,Number of the sixth cheque
+رقم الشيك السابع,,Number of the seventh cheque
+رقم الشيك الثامن,,Eighth cheque number
+رقم الشيك التاسع,,Ninth cheque number
+رقم مرجع التحصيل النظيف,,Clean collection reference number
+رقم الشيك,,Cheque number
+عمولات الوكيل (تحصيل),,Agent commissions (collection)
+قيمة التحصيل,,Collection amount
+شهاة التحليل / نسخة,,Certificate of Analysis / copy
+شهاة التحليل / اصلية,,Certificate of Analysis / original
+رصيد التحصيل,,Collection balance
+عمولات البنك المحصل,,Collecting bank commissions
+بوالص شحن / نسخة,,Bills of lading / copy
+قائمة المقاطعة / نسخة,,Boycott list / copy
+قائمة المقاطعة / اصلية,,Boycott list / original
+بوالص شحن / اصلية,,Bills of lading / original
+عملة التحصيل,,Collection currency
+عملة تغطية التحصيل,,Collection cover currency
+تاريخ انشاء التحصيل,,Collection creation date
+قيمة تخفيض التحصيل,,Collection discount amount
+السحب / نسخة,,Draft / copy
+السحب / اصلي,,Draft / original
+القيمة المسحوبة (التحصيل),,Amount drawn (collection)
+قيمة زيادة التحصيل,,Increase in collection amount
+الفاتورة / نسخة,,Invoice / copy
+الفاتورة / اصلية,,Invoice / original
+قيمة التامينات (التحصيل),,Insurance amount (collection)
+رقم مرجع التحصيل,,Collection reference number
+شهادة المنشأ / اصلية,,Certificate of origin / original
+مستندات اخرى / نسخة,,Other documents / copy
+مستندات اخرى / اصلية,,Other documents / original
+بيان التعبئة / نسخة,,Packing list / copy
+بيان التعبئة / أصلي,,Packing list / original
+قيمة الاطلاع,,Sight amount
+قيمة الاطلاع ( تحصيل ),,Sight amount (collection)
+رصيد الاطلاع ( تحصيل ),,Sight balance (collection)
+نوع التحصيل,,Collection type
+شهادة الباخرة / نسخة,,Vessel certificate / copy
+شهادة الباخرة / اصلية,,Vessel certificate / original
+شهادة الوزن / نسخة,,Weight certificate / copy
+شهادة الوزن / اصلية,,Weight certificate / original
+قيمة المبلغ المحصل,,Collected amount
+عملة المبلغ المحصل,,Currency of the amount collected
+قيمة العمولات,,Commission amount
+عملة العمولات,,Commission currency
+القيمة المسحوبه (المغطي),,Drawn amount (cover)
+قيمة الشيك,,Cheque amount
+اسم وعنوان البنك المغطي,,Name and address of the covering bank
+الوضع الحالي,,Current status
+الحساب,,Account
+عملة الدفع,,Payment currency
+رمز فرع العميل,,Customer branch code
+اسم فرع العميل,,Customer branch name
+رمز الفرع / حساب العميل,,Branch code / customer account
+رمز فرع ورقم حساب المسحوب عليه,,Drawee branch code and account number
+القيمة المدفوعة (التغطية),,Paid amount (cover)
+القيمة المدفوعة (التغطية -1),,Paid amount (cover -1)
+القيمة المدفوعة (التغطية-2),,Paid amount (cover -2)
+قيمة المستندات,,Value of documents
+رقم مرجع المستندات,,Documents reference number
+المستندات المقدمة,,Documents presented
+رقم مرجع السحب,,Draft reference number
+مصاريف القبول (على المسحوب عليه),,Acceptance charges (on the drawee)
+العنوان,,Address
+الرمز التعريفي لبنك المسحوب عليه,,Drawee bank identification code
+اسم وعنوان بنك الساحب,,Name and address of the drawer's bank
+رقم مرجع بنك المسحوب عليه,,Drawee bank reference number
+رقم حساب مصاريف المسحوب عليه,,Drawee charges account number
+رقم حساب مصاريف المسحوب عليه,,Drawee charges account number
+قيمة مصاريف المسحوب عليه,,Amount of drawee charges
+عملة حساب مصاريف المسحوب عليه,,Currency of the drawee charges account
+الرقم الفرعي لحساب المصاريف,,Sub-account number of the charges account
+الرقم الفرعي لحساب مصاريف المسحوب عليه,,Sub-account number of the drawee charges account
+عمولات التحصيل (المسحوب عليه),,Collection commission (on the drawee)
+فرق العملة (المسحوب عليه),,Exchange difference (on the drawee)
+مرجع المستندات (المسحوب عليه),,Document reference (on the drawee)
+رقم حساب المسحوب عليه,,Drawee account number
+اسم المسحوب عليه,,Drawee name
+الاسم والعنوان,,Name and address
+رقم حساب الدفع الاول للمسحوب عليه,,First payment account number for the drawee
+رقم حساب الدفع الثاني للمسحوب عليه,,Second payment account number for the drawee
+العملة الاولى لحساب الدفع للمسحوب عليه,,First currency of the drawee payment account
+العملة الثانية لحساب الدفع للمسحوب عليه,,Second currency of the drawee's payment account
+الرقم الفرعي الاول لحساب الدفع للمسحوب عليه,,First sub-number of the drawee's payment account
+الرقم الفرعي الثاني  لحساب الدفع للمسحوب عليه,,Second sub-number of the drawee's payment account
+المصاريف الاجمالية المدفوعة (المسحوب عليه),,Total charges paid (drawee)
+رمز دولة الساحب,,Drawer's country code
+عمولات التحصيل (الساحب),,Collection commissions (drawer)
+رقم حساب الساحب,,Drawer's account number
+الاسم والعنوان,,Name and address
+المصاريف الاجمالية المدفوعة (حساب دفع 1 الساحب),,Total charges paid (drawer’s payment account 1)
+المصاريف الاجمالية المدفوعة (الساحب),,Total charges paid (drawer)
+تاريخ حق الدفعة,,Payment entitlement date
+الدفع كلي؟,,Full payment?
+قيمة الدفعة الكلية,,Full payment amount
+وصف البضائع,,Description of goods
+الرد من النظام,,System response
+تاريخ الفاتورة,,Invoice date
+رقم الفاتورة,,Invoice number
+الفائدة المترتبة على التاخير في الدفع,,Interest on late payment
+عمولة القبول (عمله محلية),,Acceptance commission (local currency)
+قيمة التحصيل (عملة محلية),,Collection amount (local currency)
+رقم مرجع المراسل المحلي,,Local correspondent reference number
+العملة المحلية,,Local currency
+المصاريف الاجمالية(المحلية),,Total charges (local)
+اجمالي مصاريف الاتصالات ( المحلية),,Total communication charges (local)
+تاريخ الاستحقاق الاول,,First due date
+تاريخ الاستحقاق العاشر,,Tenth due date
+تاريخ الاستحقاق الثاني,,Second due date
+تاريخ الاستحقاق الثالث,,Third due date
+تاريخ الاستحقاق الرابع,,Fourth due date
+تاريخ الاستحقاق الخامس,,Fifth due date
+تاريخ الاستحقاق السادس,,Sixth due date
+تاريخ الاستحقاق السابع,,Seventh due date
+تاريخ الاستحقاق الثامن,,Eighth due date
+تاريخ الاستحقاق التاسع,,Ninth due date
+النسبة المئوية لدفعة العميل,,Customer payment percentage
+تفاصيل الدفعات المختلطة,,Details of mixed payments
+قيمة التامينات (تامين),,Collateral value (security)
+عملة التامينات,,Collateral currency
+قيمة تخفيض التامينات,,Value of collateral reduction
+قيمة زيادة التامينات,,Value of collateral increase
+نسبة التامينات,,Insurance percentage
+رقم حساب بنك المسحوب عليه الجديد,,New drawee bank account number
+رقم حساب المسحوب عليه الجديد,,New drawee account number
+اسم وعنوان بنك المسحوب عليه الجديد,,Name and address of the new drawee bank
+عدد السحوبات,,Number of drawdowns
+عدد مرات السحب,,Number of drawings
+رقم الدفعة,,Installment number
+الحالة التالية,,Next status
+قيمة بوليصة التحصيل القديمة,,Old collection bill amount
+عملة بوليصة التحصيل القديمة,,Currency of the old collection bill
+دولة المنشأ,,Country of origin
+الاسم,,Name
+الاسم والعنوان,,Name and address
+رمز السويفت,,SWIFT code
+دور البنك,,Bank role
+الدفع الجزئي مسموح به؟,,Is partial payment allowed?
+تاريخ الدفع,,Payment date
+تعليمات الدفع,,Payment instructions
+القيمة المسحوبه (الدفعة الاولى),,Drawn amount (first installment)
+القيمة المسحوبه (الدفعة الثانية),,Drawn amount (second installment)
+شروط الدفع تحصيل مستندي,,Payment terms: Documentary Collection
+نوع الدفع,,Payment type
+شروط الدفع,,Payment terms
+شروط الدفع تحصيل نظيف,,Payment terms: Clean Collection
+مصاريف البنك المقدم (التغطية),,Presenting bank charges (coverage)
+الاحتجاج على,,Protest against
+رقم الشراء,,Purchase number
+استفسارات,,Inquiries
+تاريخ الاستلام,,Date of receipt
+اسباب اعادة المستندات,,Reasons for returning the documents
+سبب الرفض,,Reason for rejection
+شروط الدفع تحصيل نظيف,,Payment terms: Clean Collection
+تسليم المستندات مقابل,,Release of documents against
+عنوان المرسل,,Remitter's address
+مصاريف البنك المرسل,,Remitting bank charges
+الاسم,,Name
+رقم مرجع المرسل,,Remitter's reference number
+رمز السويفت,,SWIFT code
+هل المرسل نفس الساحب ؟,,Is the remitter the same as the drawer?
+رقم حساب المرسل,,Remitter's account number
+حالة الحركة لدى البنك,,Transaction status at the bank
+تاريخ كتاب ارفاق المستندات,,Date of the document covering letter
+تعليمات المرسل الى المستلم,,Sender's instructions to the recipient
+الرقم الفرعي لحساب المصاريف,,Sub-account number for the expenses account
+الرقم الفرعي لحساب المصاريف,,Sub-account number for the expenses account
+الرقم الفرعي لحساب التعهدات,,Sub-account number for the commitments account
+الرقم الفرعي لحساب التامينات,,Sub-account number for the security deposits account
+الرقم الفرعي لحساب المصاريف غير المحصلة,,Sub-account number for the uncollected expenses account
+الرقم الفرعي لحساب مصاريف المسحوب عليه,,Sub-account number for the drawee charges account
+قيمة كفالة التخليص على البضائع,,Amount of the customs clearance guarantee for the goods
+قيمة التأمينات على كفالة التخليص,,Amount of the security deposit for the customs clearance guarantee
+رقم مرجع كفالة التخليص على البضائع,,Reference number of the customs clearance guarantee for the goods
+قيمة الاطلاع,,Amount at sight
+رقم مرجع الاطلاع,,Sight reference number
+قيمة الاطلاع,,Amount at sight
+تعليمات خاصة,,Special instructions
+المدة,,Tenor
+تاريخ وثيقة الشحن الاولى,,Date of the first shipping document
+تاريخ وثيقة الشحن الثانية,,Date of the second shipping document
+رقم وثيقة الشحن الاولى,,Number of the first shipping document
+رقم وثيقة الشحن الثانية,,Second transport document number
+الشحن من,,Shipped from
+الشحن الى,,Shipped to
+رقم وثيقة الشحن الاولى,,First transport document number
+رقم وثيقة الشحن الثانية,,Second transport document number
+تاريخ الحركة,,Transaction date
+القيمة الاجمالية القابلة للدفع,,Total amount payable
+قيمة تامينات المستندات,,Document security deposit amount
+قيمة التامينات غير المحصلة,,Uncollected security deposit amount
+عملة المصاريف غير المحصلة,,Currency of uncollected charges
+المصاريف والعمولات غير المحصلة (عملة التغطية),,Uncollected charges and commissions (cover currency)
+اسم الباخرة/الناقل,,Vessel/Carrier name
+التنازل عن مصاريف البنك المرسل اذا رفضت,,Waive remitting bank charges if refused
+التنازل عن مصاريف المرسل (نعم/لا),,Waive remitter's charges (Yes/No)
+طريقة الشحن الاولى,,First shipping method
+طريقة الشحن الثانية,,Second shipping method
+الشيك,,Cheque
+تعليمات تعديل التحصيل,,Collection amendment instructions
+تعليمات التحصيل,,Collection instructions
+المستندات,,Documents
+المسحوب عليه,,Drawee
+الساحب,,Drawer
+رئيسي,,Principal
+بنك محصل آخر,,Other collecting bank
+بنك محصل آخر,,Other collecting bank
+البنك المرسل,,Remitting bank
+رقم مرجع التحصيل,,Collection reference number
+قيمة التحصيل,,Collection amount
+اسم الساحب,,Drawer name
+عملة التحصيل,,Collection currency
+رقم مرجع التحصيل,,Collection reference number
+رصيد التحصيل,,Collection balance
+رقم مرجع التحصيل,,Collection reference number
+قيمة التحصيل,,Collection amount
+اسم الساحب,,Drawer name
+عملة التحصيل,,Collection currency
+اسم الساحب,,Drawer name
+عملة التحصيل,,Collection currency
+قيمة التحصيل,,Collection amount
+عملة التحصيل,,Collection currency
+رقم مرجع التحصيل,,Collection reference number
+عملة التحصيل,,Collection currency
+رصيد التحصيل,,Collection balance
+رقم مرجع التحصيل,,Collection reference number
+رقم مرجع التحصيل,,Collection reference number
+رصيد التحصيل,,Collection balance
+تاريخ حق الدفعة,,Payment due date
+الوضع الحالي,,Current status
+حالة الحركة لدى البنك,,Transaction status with the bank
+رقم وثيقة الشحن الاولى,,First transport document number
+رقم وثيقة الشحن الثانية,,Second transport document number
+رقم مرجع التحصيل,,Collection reference number
+حتى,,To
+رصيد السحب,,Drawing balance
+القائم,,Outstanding
+الرمز التعريفي للبنك الوسيط,,Intermediary bank identifier
+القيمة المضافة (اضافة عملة),,Additional amount (additional currency)
+القيمة الاضافية (عملة المستندات),,Additional amount (document currency)
+قيمة الدفعة المقدمة,,Advance payment amount
+عمولات الوكيل,,Agent commissions
+عمولات الوكيل الاول (عملة الوكيل الاول),,First Agent Commissions (First Agent Currency)
+عمولات الوكيل الاول (عملة المستندات),,First Agent Commissions (Document Currency)
+عمولات الوكيل الثاني (عملة المستندات),,Second Agent Commissions (Document Currency)
+مصاريف التعديل مدفوعة من,,Amendment fees paid by
+عمولات التعديل (على العميل),,Amendment commissions (on the customer)
+اضغط لتقديم طلب استنساخ اعتماد استيراد (صادر),,Click to submit a request to clone an Import Letter of Credit (Issued)
+لا,,No
+نعم,,Yes
+قيمة المطالبة من طالب الاصدار (عملة المستندات),,Claim amount from the applicant (Document Currency)
+قيمة المطالبة من طالب الاصدار(عملة التسديد),,Claim amount from the applicant (Settlement Currency)
+قيمة مطالبة البنك المتداول (عملة المستندات),,Negotiating Bank's claim amount (Document Currency)
+القيمة المقيدة بعملة حساب العميل,,Amount posted in the customer's account currency
+القيمة المقيدة بعملة المدين المستندي,,Amount posted in the documentary debtor currency
+قيمة تعديل الاعتماد تخفيض,,LC amendment decrease amount
+شروط إضافية أخرى,,Other additional conditions
+تعديل,,Amendment
+المستندات,,Documents
+التعليمات,,Instructions
+رئيسي,,Main
+أخرى,,Other
+جهات الاعتماد,,Parties to the credit
+شحنة / انتهاء,,Shipment / Expiry
+فاتورة تجارية موقعة،,,"Signed commercial invoice,"
+نسخ تشير شروط التسليم.,,Copies indicating the delivery terms.
+يجب ان تكون الفاتورة التجارية الأصلية:,,The original commercial invoice must be:
+مصدقة من غرفة تجارية عربية أجنبية مشتركة في الدولة المصدرة(ان وجدت)، او من غرفة التجارة/الصناعة المحلية,,"Certified by an Arab-foreign joint chamber of commerce in the exporting country (if any), or by the local chamber of commerce/industry"
+مصادق عليها من قبل السفارة / القنصلية,,Legalized by the embassy/consulate
+إن وجدت في مكان المستفيد,,If present at the beneficiary’s location
+مصدقة من المجلس الصيني لترويج التجارة الدولية,,Certified by the China Council for the Promotion of International Trade
+مجموعة اصلية كاملة من بوالص شحن بحري نظيفة (في العنابر) مكونه على الاقل من 2/2 بالنص الطويل على نماذج الناقل المطبوعة صادرة او مجيرة لامر البنك العربي ش.م.ع. وتظهر طالب الاصدار كمخطر,,"A full set of original clean (stowed under deck) ocean bills of lading, consisting of at least 2/2, in long form, on the carrier’s pre-printed forms, issued or endorsed to the order of Arab Bank plc, and showing the applicant as notify party"
+وتظهر :,,And showing:
+اجور الشحن :,,Freight charges:
+مدفوع مسبقا,,Prepaid
+تدفع عند الوصول,,Payable on arrival
+اسم وعنوان وكيل شركة الشحن او ممثله في بلد الوصول,,Name and address of the shipping company’s agent or its representative in the country of destination
+الشحن بواسطة حاويات تبين الرقم المتسلسل للحاوية ورقم الختم,,Shipment by container(s) showing the container serial number and seal number
+شهادة صادرة من مالكي السفينة/القبطان/الناقل أو من احد وكلائهم,,Certificate issued by the shipowners/master/carrier or one of their agents
+تنص على أن السفينة الناقلة خاضعة لشرط مدونة الإدارة الآمنة (ISM)  والمدونــــة الدولية لأمن السفن والموانئ (ISPS),,Stating that the carrying vessel is subject to the International Safety Management (ISM) Code and the International Ship and Port Facility Security (ISPS) Code
+وتظهر ان السفينه الناقلة :,,And showing that the carrying vessel:
+سفينة خط مؤتمر ملاحية,,Is a conference line vessel
+تبحر على خطوط شحن منتظمة,,Sailing on regular liner services
+عضو في نادي تعويض وحماية,,Member of a Protection and Indemnity (P&I) Club
+وثيقة شحن بري,,Road transport document
+وثيقة شحن سكة حديد,,Rail transport document
+وثيقة نقل بالطرق المائية الداخلية,,Inland waterway transport document
+تظهر البضائع مجيرة لامر البنك العربي ش.م.ع. واخطار مقدم الطلب وتظهر اجور الشحن,,"Showing the goods consigned to the order of Arab Bank plc, with the applicant as notify party, and showing freight charges"
+مدفوعة لغاية,,Paid up to
+تدفع عند الوصول,,Payable on arrival
+"وثيقة الشحن البري يجب ان تتضمن الشرط التالي "" نحن بموجب هذا نشهد بأن وثيقة الشحن البري هذه هي الوثيقة الوحيدة الصادرة بخصوص البضائع المبينة هنا ونحن نتحمل كامل المسؤولية هذه تبين ان هذه الشهادة غير صحيحة """,,"The road transport document must include the following clause: ""We hereby certify that this road transport document is the only document issued with respect to the goods described herein and we accept full responsibility should this certification prove incorrect."""
+بوليصة ( بوالص) الشحن الجوي,,Air waybill(s)
+تظهر البنك العربي ش م ع كمجير لامره ، و طالب الإصدار كمخطر . بوليصة ( بوالص) الشحن الجوي يجب ان تبين رقم الرحلة والتاريخ الفعلي للشحن وعلامة ان اجور الشحن :,,"Show Arab Bank plc as consignee to its order, and the applicant as notify. The air waybill(s) must show the flight number, the actual date of shipment, and indicate that freight is:"
+مدفوع مسبقا,,Prepaid
+غير محصلة,,Collect
+ايصال بريدي,,Postal receipt
+يظهر البنك العربي ش.م.ع. كمرسل إليه و مقدم الطلب كمخطر، وتظهر أجور الشحن,,"Showing Arab Bank plc as consignee and the applicant as notify, and showing freight charges"
+مدفوع مسبقا,,Prepaid
+على المستلم,,Payable by consignee
+إيصال بريد خاص,,Courier receipt
+يظهر البنك العربي ش.م.ع. كمرسل إليه و مقدم الطلب كمخطر، وتظهر أجور الشحن,,"Showing Arab Bank plc as consignee and the applicant as notify, and showing freight charges"
+مدفوع مسبقا,,Prepaid
+على المستلم,,Freight collect
+شهادة منشأ,,Certificate of Origin
+صادرة عن غرفة التجارة / الصناعة / المصنعين / المستفيد / المنتج او المصدر على نموذج مستقل وتصرح بان البضائع من منشأ,,Issued by the Chamber of Commerce / Industry / Manufacturers / the Beneficiary / the Producer or the Exporter on a separate form and declaring that the goods are of origin
+ويظهر عليها اسم وعنوان المصنعين / المنتجين،,,"and showing thereon the name and address of the manufacturer(s) / producer(s),"
+مصدقة على نحو كامل من غرفة تجارة عربية أجنبية مشتركة في بلدة التصدير في حال وجودها وبخلاف ذلك من غرفة تجارة/صناعة محلية,,"duly attested by an Arab-Foreign Joint Chamber of Commerce in the town of export, if available, otherwise by a local Chamber of Commerce / Industry"
+مصادق عليها من السفارة / القنصلية,,legalized by the embassy / consulate
+في حال وجودها في موقع المستفيد,,if present at the Beneficiary’s location
+مصدقة على نحو كامل من المجلس الصيني لترويج التجارة الدولية,,duly certified by the China Council for the Promotion of International Trade
+بيان تعبئة,,Packing list
+يظهر,,showing
+شهادة وزن منفصلة تبين الوزن الاجمالي والوزن الصافي للبضاعة المشحونة,,Separate weight certificate showing the gross weight and the net weight of the goods shipped
+بوليصة / شهادة تأمين,,Insurance policy / certificate
+صادرة بشكل قابل لنقل الملكية بقيمة الفاتورة مضافا عليها,,issued in negotiable form for the invoice value plus
+بالمئة وتظهر المطالبات واجبة الدفع في,,percent and showing claims payable in
+لامر البنك العربي ش م ع وبغض النظر عن النسبة مع ذكر اسم وعنوان وكيل او ممثل شركة التامين في دولة طالب الاصدار ، وتظهر ان القسط مدفوع وتغطي الاخطار التالية : من المستودع الى المستودع النهائي,,"to the order of Arab Bank plc, regardless of the percentage, stating the name and address of the agent or representative of the insurance company in the Applicant’s country, showing that the premium is paid, and covering the following risks: from warehouse to final warehouse"
+شروط مجمع مكتتبي التامين على البضائع,,Institute Cargo Clauses
+شروط مجمع مكتتبي التامين على البضائع – الجو,,Institute Cargo Clauses – Air
+جميع المخاطر (شرط العبور البري),,All Risks (Inland Transit Clause)
+شروط الحرب والاضراب واعمال الشغب والتمرد المدني,,"War and Strikes, Riots and Civil Commotions Clauses"
+التامين على البضائع مغطى محليا,,Cargo insurance covered locally
+من خلال:,,Through:
+رصيد قيمة المستندات,,Document amount balance
+رصيد المستندات المؤجلة (عملة المستندات),,Deferred documents balance (document currency)
+رصيد المدين المستندي/ الحركة (العميل),,Documentary debtor balance / transactions (customer)
+قيمة اعتماد التصدير,,Export letter of credit amount
+طالب الاصدار/ لحساب (نفسه),,Applicant / for the account of (self)
+اسم وعنوان البنك الوسيط,,Name and address of the intermediary bank
+تاريخ اشعار الاستلام,,Date of receipt advice
+عملة القيمة الاضافية,,Additional amount currency
+القيم الاضافية المغطاة,,Covered additional amounts
+شروط إضافية أخرى,,Other additional terms
+تعليمات العميل الاضافية,,Additional customer instructions
+الشروط الاضافية - مضافة من المستخدم,,Additional terms - added by user
+مصاريف البنك المقدم الاضافية,,Additional presenting bank charges
+يرجى الموافقشروط إضافيةالشروط اعلاه والاقرار بالموافقة على الشروط العامة لفتح الاعتمادات المستندية.,,Please approve the above additional terms and acknowledge acceptance of the general terms and conditions for opening documentary credits.
+شروط إضافية,,Additional terms
+رمز دولة البنك المبلغ,,Advising bank country code
+اسم دولة البنك المبلغ,,Advising bank country name
+الرمز التعريفي للبنك المبلغ,,Advising bank identification code
+اسم وعنوان البنك المبلغ,,Name and address of the advising bank
+رمز السويفت,,SWIFT code
+قيمة الاعتماد دفعة مقدمة+اطلاع (عملة الاعتماد),,"LC amount, advance payment + at sight (LC currency)"
+قيمة الاعتماد دفعة مقدمة+اطلاع مع نسبة التفاوت (عملة الاعتماد),,"LC amount, advance payment + at sight with tolerance percentage (LC currency)"
+رقم مرجع تبليغ اعتماد التصدير,,Export LC advice reference number
+الرمز التعريفي للبنك المبلغ من خلاله,,Advising bank identification code
+نوع الاشعار,,Advice type
+تعديل مقبول مكفول,,"Amendment accepted, confirmed"
+عمولات الوكيل الاول (عملة السحب),,First agent’s commissions (draft currency)
+اسم وعنوان الوكيل الاول,,Name and address of the first agent
+عمولات الوكيل الثاني (عملة السحب),,Second agent’s commissions (draft currency)
+اسم وعنوان الوكيل الثاني,,Name and address of the second agent
+قيمة السحب المعدله,,Amended drawing amount
+تاريخ التعديل,,Amendment date
+تاريخ طلب التعديل,,Amendment request date
+رقم مرجع التعديل,,Amendment reference number
+نوع التعديل,,Amendment type
+عنوان طالب الاصدار,,Applicant address
+تبليغ طالب الاصدار بواسطة,,Applicant advised via
+اسم الدولة,,Country name
+تاريخ الطلب,,Application date
+رمز الفرع / حساب العميل,,Branch code / Customer account
+اسم طالب الاصدار,,Applicant name
+متاح بـواسطة,,Available by
+الرمز التعريفي للبنك المتاح معه,,Identifier code of the bank available with
+"بنك المستفيد  (A,D)",,"Beneficiary bank (A, D)"
+اسم وعنوان بنك المستفيد,,Name and address of beneficiary's bank
+رمز السويفت,,SWIFT code
+رمز دولة المستفيد,,Beneficiary country code
+اسم دولة المستفيد,,Beneficiary country name
+رقم حساب المستفيد,,Beneficiary account number
+اسم المستفيد,,Beneficiary name
+اسم وعنوان المستفيد,,Beneficiary name and address
+رقم مرجع البنك المبلغ,,Advising bank reference number
+تاريخ بوليصة الشحن البحري/الجوي,,Date of bill of lading/air waybill
+رقم بوليصة الشحن البحري/الجوي,,Bill of lading/air waybill number
+تاريخ بوليصة الشحن,,Date of bill of lading
+رقم بوليصة الشحن,,Bill of lading number
+رمز الفرع / حساب العميل,,Branch code / Customer account
+اسم الفرع,,Branch name
+رقم حساب طالب الاصدار,,Applicant's account number
+حساب المصاريف,,Charges account
+تفاصيل المصاريف,,Charges details
+المصاريف مدفوعة بواسطة,,Charges paid by
+المصاريف المتوجب اضافتها,,Charges to be added
+المصاريف الواجب اقتطاعها,,Charges to be deducted
+بوليصة شحن بحري خاصة بسفن مستأجرة,,Charter Party Bill of Lading
+قيمة المطالبة (سحوبات),,Claim amount (drawings)
+دولة المقصد,,Country of destination
+حساب العمولات,,Commission account
+اسم و عنوان البنك المعزز,,Name and address of the confirming bank
+رمز السويفت للبنك المعزز,,SWIFT code of the confirming bank
+رسوم التعزيز على,,Confirmation charges on
+تعليمات التعزيز,,Confirmation instructions
+رسوم البنك المراسل  والعمولات على,,Correspondent bank charges and commissions on
+وسيلة المراسلة البنك المبلغ,,Means of communication to the advising bank
+قيمة الاعتماد المؤجل مع نسبة التفاوت (عملة التغطية),,Deferred letter of credit amount with tolerance (cover currency)
+قيمة الاعتماد دفعة مقدمة+اطلاع مع نسبة التفاوت (عملة التغطية),,Advance + sight letter of credit amount with tolerance (cover currency)
+عملة التغطية,,Cover currency
+قيمة الاعتماد مع نسبة التفاوت بعملة التغطية,,Letter of credit amount with tolerance in cover currency
+اعتماد الضمان متاح من خلال,,Standby letter of credit available through
+الوضع الحالي,,Current status
+حساب التامينات,,Margin account
+رقم الحساب الذي ستقيد عليه المصاريف,,Account number to which the expenses will be posted
+حساب المصاريف,,Expense account
+الرقم الفرعي لحساب العميل للمصاريف,,Customer expense sub-account number
+القيمة المقيدة بعملة حساب العميل,,Amount posted in the customer’s account currency
+تعليمات العميل / المستندات الإضافية المطلوبة,,Customer instructions / additional documents required
+تعليمات العميل الاضافية,,Additional customer instructions
+عمولة الاصدار (العميل),,Issuance commission (customer)
+اجمالي مصاريف الاتصالات ( عملة العميل محلية ),,Total communication charges (customer’s local currency)
+رقم مرجعنا,,Our reference number
+طريقة تسديد العميل,,Customer settlement method
+اجمالي مصاريف الاتصالات ( العميل ),,Total communication charges (customer)
+اجمالي التكلفة على العميل (عملة العميل),,Total cost to the customer (customer’s currency)
+اجمالي التكلفة (عملة العميل المحلية),,Total cost (customer’s local currency)
+تاريخ حق العميل,,Customer value date
+عكس تعهدات الاطلاع بعملة التغطية,,Reversal of sight undertakings in the cover currency
+تخفيض القيمة بـمبلغ,,Reduce the value by
+القيمة الاجمالية المؤجلة الدفع,,Total deferred payment amount
+قيمة الاعتماد المؤجل مع نسبة التفاوت (عملة الاعتماد),,Deferred L/C amount with tolerance (L/C currency)
+آجال الدفعة المؤجلة/التداول,,Tenor of deferred payment/negotiation
+قيمة الاعتماد الدوار مع نسبة التفاوت بعملة التغطيه (مؤجل),,Revolving LC amount with tolerance in cover currency (deferred)
+رمز دولة المقصد,,Destination country code
+اسم دولة المقصد,,Destination country name
+مكان وصول البضائع,,Place of arrival of goods
+ميناء التفريغ,,Port of discharge
+القرار,,Decision
+مؤشر المخالفات,,Discrepancy indicator
+تفاصيل المخالفات,,Discrepancy details
+المخالفات المكتشفة,,Detected discrepancies
+تاريخ تبليغ المخالفات,,Date of discrepancy notification
+إن مسودة الاعتماد المستندي أولية وغير ملزمة للبنك العربي ش. م. ع، ويتم تقديمها حصراً لأغراض الاطلاع والمراجعة بناءً على طلب العملاء. الشروط والأحكام المذكورة في هذه المسودة قابلة للتعديل، ولن يترتب على البنك العربي ش. م. ع نتيجة عن إصدارها أي مسؤولية أو التزام قانوني لإصدار الاعتماد المستندي.,,"The documentary credit draft is preliminary and non-binding on Arab Bank plc and is provided solely for information and review purposes at customers’ request. The terms and conditions stated in this draft are subject to change, and Arab Bank plc shall bear no responsibility or legal obligation to issue the documentary credit as a result of issuing this draft."
+قيمة المستندات (عملة المستندات),,Documents amount (documents currency)
+عملة المستندات,,Documents currency
+تاريخ التقديم,,Presentation date
+القرار بخصوص المستندات,,Decision regarding the documents
+التصرف بالمستندات,,Disposition of documents
+المستندات المطلوبة,,Required documents
+المستندات المطلوب تقديمها,,Documents to be presented
+حالة المستندات,,Documents status
+قيمة السحب,,Draft amount
+قيمة تخفيض السحب,,Draft reduction amount
+قيمة زيادة السحب,,Draft increase amount
+عملة السحب,,Draft currency
+تاريخ استحقاق السحب,,Draft maturity date
+اصل السحب,,Original draft
+رقم مرجع السحب,,Draft reference number
+السحب بعد,,Drawn after
+رقم مرجع التداول,,Negotiation reference number
+رقم التداول,,Negotiation number
+رقم حساب المسحوب عليه,,Drawee account number
+اسم المسحوب عليه,,Drawee name
+تاريخ الاستحقاق,,Maturity date
+تاريخ انتهاء اعتماد التصدير,,Export L/C expiry date
+تاريخ الانتهاء,,Expiry date
+تاريخ انتهاء الاعتماد,,L/C expiry date
+مكان الانتهاء,,Place of expiry
+الاجمالي ( المطالب به + التأمينات )التامينات / التسديد,,Total (amount claimed + securities) Securities/Settlement
+حساب الجهة الصادر باسمها,,Account of the entity in whose name it is issued
+نموذج الاعتماد,,L/C template
+تقديم المستندات بواسطة,,Presentation of documents by
+مصاريف الشحن,,Freight charges
+مصاريف الشحن مدفوعة لغاية,,Freight prepaid up to
+تغطية مقدمة,,Advance cover
+تقديم المستندات بواسطة,,Presentation of documents by
+وصف البضائع,,Description of goods
+اسم البضائع,,Name of goods
+زيادة القيمة بـمبلغ,,Increase the value by the amount of
+شروط التسليم,,Delivery terms
+مكان شرط التسليم,,Delivery terms location
+تعليمات شروط التسليم,,Delivery terms instructions
+تاريخ انتهاء بوليصة التأمين,,Insurance policy expiry date
+رقم بوليصة التأمين,,Insurance policy number
+حالة التأمين,,Insurance status
+التعليمات الى البنك الدافع/المبلغ/المتداول,,Instructions to the paying/advising/negotiating bank
+قيمة الفائدة (السحب),,Interest amount (draft)
+نسبة الفائدة,,Interest rate
+تاريخ الاصدار,,Issue date
+آخر تداول؟,,Last negotiation?
+تاريخ آخر دفعة,,Date of last payment
+قيمة الاعتماد,,LC amount
+قيمة الدفعة المؤجلة,,Deferred payment amount
+قيمة الاعتماد مؤجل (عملة الاعتماد),,Deferred LC amount (LC currency)
+قيمة الاطلاع,,Sight amount
+قيمة الاعتماد اطلاع (عملة الاعتماد),,Sight LC amount (LC currency)
+اجمالى التزامات العميل القائمة تجاه البنك,,Total outstanding obligations of the customer to the bank
+عملة الاعتماد,,LC currency
+رقم الاعتماد,,LC number
+رقم الاعتماد,,LC number
+نوع الاعتماد,,LC type
+قيمة الاعتماد دفعة مقدمة+اطلاع مع نسبة التفاوت (عملة محلية),,LC amount (advance payment + sight) with tolerance (local currency)
+مصاريف التعديل (عملة الاعتماد),,Amendment charges (LC currency)
+عمولات التعديل (عملة الاعتماد),,Amendment commissions (LC currency)
+اجمالي العمولات المستوفاة من العميل ( عملة محلية ),,Total commissions collected from the customer (local currency)
+قيمة الاعتماد المؤجل مع نسبة التفاوت (عملة محلية),,Deferred LC amount with tolerance (local currency)
+اجمالي مصاريف الاتصالات ( عملة محلية ),,Total communication charges (local currency)
+شحن البضائع من,,Shipment of goods from
+ميناء التحميل,,Port of loading
+مصاريف العمولات الاجمالية (المحلية),,Total commission charges (local)
+اخر تاريخ للشحن,,Latest date of shipment
+وسيلة النقل,,Mode of transport
+العلاقة بين وسائل النقل,,Relationship between modes of transport
+وسيلة النقل الاولى,,First mode of transport
+وسيلة النقل الثانية,,Second mode of transport
+نوع تعديل التامينات,,Type of collateral amendment
+عملة حساب تامينات العميل,,Currency of the customer's collateral account
+تفاصيل الدفعات المختلطة,,Mixed payment details
+تفاصيل الدفعات المختلطة الاضافية,,Additional mixed payment details
+تفاصيل الدفعات المختلطة/المؤجلة,,Mixed/Deferred payment details
+الدفعات المختلطة,,Mixed payments
+عملة حساب تامينات العميل,,Currency of the customer's collateral account
+عملة التامينات,,Collateral currency
+الرقم الفرعي لحساب تامينات العميل,,Sub-account number of the customer's collateral account
+سحب متعدد,,Multiple drawings
+نسبة التفاوت السالبة,,Negative tolerance percentage
+اسم وعنوان البنك المتداول,,Name and address of the negotiating bank
+رقم مرجع البنك المتداول,,Negotiating bank reference number
+تاريخ الاستحقاق الجديد,,New maturity date
+قيمة الاعتماد الجديدة,,New L/C amount
+نسبة التفاوت الجديدة,,New tolerance percentage
+رقم التعديل,,Amendment number
+عدد الايام,,Number of days
+عدد مجموعات المستندات,,Number of document sets
+رقم التداول,,Negotiation number
+عدد مرات السحب,,Number of drawings
+عدد الدورات بدون الدورة الاولى,,Number of cycles excluding the first cycle
+ملاحظات,,Remarks
+الحالة التالية,,Next status
+رمز دولة المنشأ الاولى,,First country of origin code
+رمز دولة المنشأ الثانية,,Second country of origin code
+اسم دولة المنشأ الاولى,,First country of origin name
+اسم دولة المنشأ الثانية,,Second country of origin name
+قيمة الاعتماد الاصلية مؤجل,,Original LC amount - usance
+منشأ البضاعة الاول,,First origin of goods
+منشأ البضاعة الثاني,,Second origin of goods
+قيمة الاعتماد الاصلية اطلاع,,Original LC amount - sight
+التعديلات الاخرى,,Other amendments
+القيمة المقيدة سحوبات مقبولة مكفولة مدفوعة,,"Posted amount of accepted, avalized, and paid drafts"
+السحب الجزئي,,Partial drawing
+الشحن الجزئي,,Partial shipment
+القيمة,,Amount
+قيمة الاطلاع بدون نسبة التفاوت,,Sight amount without tolerance percentage
+القيمة,,Amount
+القيمة المؤجله بدون نسبة التفاوت,,Deferred amount without tolerance percentage
+القيمة,,Amount
+القيمة,,Amount
+القيمة,,Amount
+القيمة,,Amount
+القيمة الاجمالية,,Total amount
+نسبة,,Percentage
+نسبة,,Percentage
+نسبة,,Percentage
+نسبة,,Percentage
+نسبة,,Percentage
+نسبة,,Percentage
+تفاصيل الدفعات,,Payment details
+مؤشر الدفع,,Payment indicator
+شروط الدفع,,Payment terms
+طريقة التسديد,,Settlement method
+نسبة التفاوت الموجبة/السالبة,,Positive/negative tolerance percentage
+نسبة التفاوت الموجبة,,Positive tolerance percentage
+قيمة التقديم,,Presentation amount
+رصيد التقديم,,Presentation balance
+عكس تعهدات الاطلاع بعملة التغطية,,Reverse sight undertakings in cover currency
+مصاريف البنك المقدم,,Presenting bank charges
+عملة التقديم,,Presentation currency
+عدد ايام التقديم,,Number of presentation days
+حدث فترة التقديم,,Presentation period event
+فترة التقديم,,Presentation period
+تفاصيل خطاب الاعتماد السابقة,,Previous letter of credit details
+الرقم الاساسي لحساب تامينات العميل,,Basic number for the customer collateral account
+قيد القيمة الاساسية على حساب,,Post the base amount to the account
+فيما يتعلق  (الغرض من اعتماد الضمان),,Regarding (purpose of guarantee approval)
+تاريخ الاستلام,,Receipt date
+سبب الرفض,,Reason for rejection
+مصاريف البنك المغطي,,Covering bank charges
+رسوم البنك المغطي على,,Covering bank fees on
+حالة الحركة لدى البنك,,Transaction status at the bank
+نوع الاعتماد الدوار,,Type of revolving letter of credit
+نوع الدفع,,Type of payment
+نوع الدفع,,Type of payment
+نوع الدفع,,Type of payment
+نوع الدفع,,Type of payment
+نوع الدفع,,Type of payment
+نوع الدفع,,Type of payment
+رقم مرجع كفالة التخليص على البضائع/اذن التسليم,,Reference number of customs clearance guarantee/delivery order
+قيمة تعديل الاعتماد اطلاع (عملة الاعتماد),,Amendment amount for sight LC (LC currency)
+القيمة الاجمالية اطلاع مع نسبة التفاوت,,Total sight amount with tolerance percentage
+تاريخ الشحن,,Shipment date
+فترة الشحن,,Shipment period
+اطلاع,,At sight
+تعليمات خاصة,,Special instructions
+حساب التسديد,,Settlement account
+رسالة السويفت,,SWIFT message
+شروط,,Conditions
+المدة ايام /نوع,,Tenor days/type
+المدة ايام,,Tenor days
+المدة ايام,,Tenor days
+المدة ايام,,Tenor days
+المدة ايام,,Tenor days
+المدة ايام,,Tenor (days)
+المدة ايام,,Tenor (days)
+يرجى الموافقه على الشروط بإختيار اشاره الصح في المربع أدناه .,,Please agree to the terms by ticking the checkbox below.
+يرجى الموافقة على الشروط الإضافية اعلاه والاقرار بالموافقة على الشروط العامة لفتح الاعتمادات المستندية.,,Please agree to the additional terms above and acknowledge acceptance of the general terms for opening letters of credit.
+الخدمة خاضعة للرسوم,,The service is subject to fees.
+السحب بعد,,Draw after
+قبول/تعديل/حذف مسودة لاعتماد استيراد (صادر),,Accept/Amend/Delete Draft for Import LC (Outgoing)
+تغيير وسيلة الشحن,,Change mode of transport
+تغيير وسيلة الشحن في,,Change mode of transport in
+تفاصيل نسبة التفاوت الموجبة/السالبة,,Details of positive/negative tolerance percentage
+عبور / منطقة حرة,,Transit / Free Zone
+تاريخ الحركة,,Transaction date
+مصاريف طالب الاصدار الاجمالية ( المصاريف),,Applicant's total charges (Charges)
+مصاريف طالب الاصدار الاجمالية ( عملة المستندات ),,Applicant's total charges (Document Currency)
+اجمالي المصاريف المطلوبة من طالب الاصدار (عملة المستندات),,Total charges required from the Applicant (Document Currency)
+القيمة الاجمالية الواجب دفعها (التسديد),,Total amount payable (Settlement)
+الاجمالي ( المطالب به + التأمينات ) المستندات,,Total (amount claimed + margins) documents
+الاجمالي ( المقيد على الحساب + المصاريف ) عملة المستندات,,Total (debited to the account + charges) Document Currency
+اجمالى التزامات العميل القائمة تجاه البنك,,Total outstanding obligations of the customer to the bank
+قيمة الاعتماد مع نسبة التفاوت بالعملة االمحلية,,LC amount including tolerance in local currency
+اجمالي السحوبات القائمة,,Total outstanding drawings
+القيمة الاجمالية,,Total amount
+القيمة الاجمالية القابلة للدفع,,Total amount payable
+شهادة الباخرة,,Vessel certificate
+شهادة الباخرة تظهر,,The vessel certificate shows
+اسم الباخرة,,Name of the vessel
+مصاريف الشحن,,Freight charges
+مصاريف الشحن مدفوعة لغاية,,Freight charges paid up to
+الاول,,First
+الثاني,,Second
+الثالث,,Third
+الرابع,,Fourth
+الخامس,,Fifth
+السادس,,Sixth
+اسم وعنوان البنك المبلغ من خلاله,,Name and address of the advising bank
+طالب الاصدار,,Applicant
+اسم وعنوان البنك المتاح معه,,Name and address of the bank with which available
+المستفيد,,Beneficiary
+بنك المستفيد,,Beneficiary's bank
+المستندات المطلوبة,,Documents required
+اسم وعنوان الجهة الصادر باسمها,,Name and address of the party in whose name it is issued
+الجهة الصادر باسمها,,Party in whose name it is issued
+اسم وعنوان شركة التامين,,Name and address of the insurance company
+هل الجهة التي سيصدر باسمها الاعتماد هي نفس طالب الاصدار ؟,,Is the party in whose name the LC will be issued the same as the applicant?
+قيمة تعديل الاعتماد زيادة,,LC amendment amount – Increase
+ادخل اسم الفرع,,Enter branch name
+قيمة الفائدة (عملة المصاريف),,Interest amount (charges currency)
+قيمة الفائدة (العميل),,Interest amount (customer)
+لا,,No
+نعم,,Yes
+قيمة الدفعة المقدمة على الاعتماد (عملة الاعتماد),,Advance payment amount under the LC (LC currency)
+قيمة تعديل الاعتماد (عملة الاعتماد),,LC amendment amount (LC currency)
+قيمة تعديل الاعتماد مؤجل (عملة الاعتماد),,LC amendment amount – Usance (LC currency)
+قيمة قيد تعديل الاعتماد مؤجل,,LC amendment posting amount – Usance
+قيمة قيد تعديل الاعتماد اطلاع,,LC amendment posting amount – Sight
+قيمة الاعتماد الدوار مع نسبة التفاوت بعملة التغطيه (دفعة مقدمة+اطلاع),,Revolving LC amount with tolerance percentage in cover currency (Advance payment + Sight)
+قيمة الاعتماد الدوار مع نسبة التفاوت بعملة التغطيه (مؤجل),,Revolving LC amount with tolerance percentage in cover currency (Usance)
+قيمة الاعتماد مؤجل,,Usance LC amount
+قيمة الاعتماد اطلاع,,Sight LC amount
+رصيد الاعتماد المؤجل,,Usance LC balance
+قيمة تعهدات الاعتماد الاصلية,,Value of original LC commitments
+رصيد الاعتماد اطلاع,,Sight LC balance
+عكس تعهدات الاطلاع (عملة الاعتماد),,Reversal of sight commitments (LC currency)
+اعادة التامينات (عملة التامينات),,Return of margin (margin currency)
+اعادة التامينات (عملة التسديد),,Return of margin (settlement currency)
+قيمة تامينات الاطلاع (عملة المستندات),,Value of sight margin (document currency)
+قيمة تامينات الاطلاع (عملة التامينات),,Value of sight margin (margin currency)
+تعديل قيمة التامينات (عملة التامينات),,Adjustment of margin value (margin currency)
+تعديل قيمة التامينات (عملة التامينات),,Adjustment of margin value (margin currency)
+تعديل قيمة التامينات (عملة تامينات العميل),,Adjustment of margin value (customer margin currency)
+التامينات الفرعية,,Sub-margins
+الرقم الاساسي لحساب تامينات العميل,,Base number of the customer's margin account
+صافي القيمة الواجب دفعها (عملة المستندات),,Net amount payable (document currency)
+رقم السحب,,Drawing number
+عدد مرات السحب,,Number of drawings
+عدد الشهور,,Number of months
+عدد كفالات التخليص واذونات التسليم القائمة,,Number of outstanding customs clearance guarantees and delivery orders
+قيمة كفالة التخليص/ اذن التسليم,,Value of customs clearance guarantee/delivery order
+اجمالي مصاريف الاتصالات ( العميل ),,Total communication charges (customer)
+اجمالي التداولات القائمة,,Total outstanding transactions
+اجمالي السحوبات القائمة,,Total outstanding drawings
+اجمالي المدين المستندي,,Total documentary debit
+اجمالي قيمة كفالات التخليص/اذونات التسليم القائمة,,Total value of outstanding customs clearance guarantees/delivery orders
+شحنه / انتهاء,,Shipment / Expiry
+رقم مرجعنا,,Our reference number
+رقم الاعتماد,,L/C number
+الوضع الحالي,,Current status
+رقم الاعتماد,,L/C number
+اسم طالب الاصدار,,Applicant name
+رقم مرجع التداول,,Transaction reference number
+اسم طالب الاصدار,,Applicant name
+رقم الاعتماد,,L/C number
+رقم مرجع التداول,,Transaction reference number
+رقم مرجعنا,,Our reference number
+عملة الاعتماد,,L/C currency
+قيمة الاعتماد,,L/C amount
+تاريخ الانتهاء,,Expiry date
+رقم الاعتماد,,L/C number
+اسم المستفيد,,Beneficiary name
+رقم مرجعنا,,Our reference number
+عملة التقديم,,Application Currency
+قيمة التقديم,,Application Amount
+رقم مرجع التداول,,Trade Reference Number
+اسم طالب الاصدار,,Applicant Name
+رقم مرجعنا,,Our Reference Number
+اسم طالب الاصدار,,Applicant Name
+اسم المستفيد,,Beneficiary Name
+رقم مرجعنا,,Our Reference Number
+اسم طالب الاصدار,,Applicant Name
+رقم الاعتماد,,LC Number
+رقم مرجعنا,,Our Reference Number
+اسم طالب الاصدار,,Applicant Name
+رقم مرجعنا,,Our Reference Number
+رقم الاعتماد,,LC Number
+رقم مرجعنا,,Our Reference Number
+رقم الاعتماد,,LC Number
+حالة الحركة,,Transaction Status
+رقم مرجعنا,,Our Reference Number
+الوضع الحالي,,Current Status
+رقم الاعتماد,,LC Number
+اسم طالب الاصدار,,Applicant name
+وضع الحركة المعاد,,Status of returned transaction
+رقم مرجعنا,,Our reference number
+اجمالى التزامات العميل القائمة تجاه البنك,,Total outstanding customer obligations to the bank
+تاريخ الانتهاء,,Expiry date
+الوضع الحالي,,Current status
+ا س تح قاق ,,Maturity
+حالة الحركة لدى البنك,,Transaction status at the bank
+اسم المستفيد,,Beneficiary name
+صدر ,,Issued
+تاريخ الاصدار,,Issue date
+رقم الاعتماد,,LC number
+اسم طالب الاصدار,,Applicant name
+رقم مرجعنا,,Our reference number
+قيمة السحب,,Drawing amount
+القائم,,Outstanding
+حتى,,Until
+الرقم المرجعي للسحب,,Drawing reference number
+تاريخ استحقاق السحب,,Drawing maturity date
+خطأ .,,Error.
+ د,,D
+عرض المبلغ,,Show amount
+تفاصيل التعديل,,Amendment details
+نص الكفالة,,Guarantee text
+رئيسي,,Main
+جهات الاعتماد,,Approving parties
+قبول او رفض,,Accept or reject
+رقم التبليغ,,Advice number
+رقم مرجع الكفالة المقابلة,,Counter-guarantee reference number
+الاشعارات,,Notifications
+تفاصيل التعديل,,Amendment details
+تاريخ التعديل,,Amendment date
+عنوان البنك,,Bank address
+اسم البنك,,Bank name
+العنوان,,Address
+رمز دولة المستفيد,,Beneficiary country code
+اسم المستفيد,,Beneficiary name
+التزام البنك,,Bank undertaking
+عملة وقيمة المطالبة,,Claim currency and amount
+تفاصيل المطالبة,,Claim details
+الحساب,,Account
+رمز الفرع / حساب العميل,,Branch code / Customer account
+تعليمات العميل / المستندات الإضافية المطلوبة,,Customer instructions / Additional documents required
+تخفيض القيمة بـمبلغ,,Decrease the amount by
+انشئت بواسطة,,Created by
+تاريخ الانتهاء,,Expiry date
+مكان الانتهاء,,Place of expiry
+نوع الانتهاء,,Expiry type
+رصيد الكفالة,,Guarantee balance
+عملة ومبلغ الكفالة,,Guarantee currency and amount
+رقم الكفالة,,Guarantee number
+نص الكفالة,,Guarantee text
+زيادة القيمة بـمبلغ,,Increase the amount by
+طبيعة المطالبة,,Nature of claim
+تاريخ الاستحقاق الجديد,,New maturity date
+قيمة الكفالة الجديدة,,New guarantee amount
+رقم التعديل,,Amendment number
+رقم المطالبة,,Claim number
+نوع الدفع / مطالبة,,Payment/Claim type
+غرض الكفالة,,Purpose of guarantee
+تاريخ الاستلام,,Receipt date
+سبب الرفض,,Rejection reason
+رسالة السويفت,,SWIFT message
+تاريخ الاصدار,,Issue date
+تفاصيل التعديل,,Amendment details
+طالب الاصدار,,Applicant
+المستفيد,,Beneficiary
+تفاصيل الالتزام,,Undertaking details
+رقم مرجع الكفالة المقابلة,,Counter-guarantee reference number
+رقم التعديل,,Amendment number
+تاريخ التعديل,,Amendment date
+رقم الكفالة,,Guarantee number
+اسم طالب الاصدار,,Applicant name
+رقم الكفالة,,Guarantee number
+قيمة الكفالة,,Guarantee amount
+اسم طالب الاصدار,,Applicant name
+عملة الكفالة,,Guarantee currency
+رقم مرجع الكفالة المقابلة,,Counter-guarantee reference number
+رقم الكفالة,,Guarantee number
+قيمة الكفالة,,Guarantee amount
+رصيد الكفالة,,Guarantee balance
+تاريخ الانتهاء,,Expiry date
+الوضع الحالي,,Current status
+اسم طالب الاصدار,,Applicant name
+عملة الكفالة,,Guarantee currency
+نسبة التفاوت للمطالبات لبوليصة او شهادة التامين,,Insurance policy/certificate claims tolerance percentage
+حقل قابل للدفع في,,Payable-at field
+رئيسي,,Principal
+الرمز التعريفي لفرع  طالب الاصدار,,Applicant branch identifier code
+رقم المراسلة,,Correspondence number
+رقم الخبر,,Advice number
+الرساله موجهة الى,,Message addressed to
+تاريخ انشاء الرسالة,,Message creation date
+تاريخ الاجابة/المتابعة,,Reply/follow-up date
+لجميع المستخدمين,,For all users
+وصف الرسالة,,Message description
+تاريخ الرسالة,,Message date
+الاجابة الى,,Reply to
+عنوان الرساله,,Message subject
+اسم المنتج,,Product name
+تاريخ الرسالة السابقة,,Previous message date
+وصف الرسالة السابقة,,Previous message description
+رقم المرجع المعني,,Related reference number
+رقم مرجع البنك المعني,,Related bank reference number
+الموضوع,,Subject
+الاجابة/المتابعة,,Reply/Follow-up
+رقم المراسلة,,Correspondence number
+عنوان الموضوع,,Subject heading
+عنوان الرساله,,Message title
+رقم المرجع المعني,,Related reference number
+اسم المنتج,,Product name
+عنوان الرساله,,Message title
+رقم الخبر,,Notice number
+الموضوع,,Subject
+العنوان,,Title
+رقم المرجع,,Reference number
+الفرع / رمز العميل,,Branch / Customer code
+وصف,,Description
+قيمة الفائدة,,Interest amount
+عملة تسديد قيمة الفائدة,,Currency for settling the interest amount
+سعر الفائدة,,Interest rate
+تاريخ الاصدار,,Issue date
+تاريخ الاستحقاق,,Maturity date
+الاسم,,Name
+قيمة ايصال الامانة,,Trust Receipt amount
+ تاريخ وثيقة النقل,,Transport document date
+رقم وثيقة النقل,,Transport document number
+رصيد ايصال الامانة,,Trust Receipt balance
+عملة ايصال الامانة,,Trust Receipt currency
+رقم مرجع ايصال الامانة,,Trust Receipt reference number
+قيمة تسديد ايصال الامانة,,Trust Receipt repayment amount
+اسم الباخرة,,Vessel name
+رقم المرجع الرئيسي,,Main reference number
+الرصيد,,Balance
+تاريخ الاستحقاق,,Maturity date
+الوضع الحالي,,Current status
+ذات صلة,,Related
+اسم طالب الاصدار,,Applicant name
+المبلغ,,Amount
+تفاصيل التعديل,,Amendment details
+تعليمات البنك,,Bank instructions
+تفاصيل الالتزام,,Undertaking details
+نص الكفالة,,Guarantee wording
+رئيسي,,Main
+أخرى,,Other
+التعديلات الاخرى,,Other amendments
+جهات الاعتماد,,LC parties
+قبول او رفض الطلب,,Accept or reject the application
+تاريخ طلب التعديل,,Amendment request date
+التعديلات الاخرى,,Other amendments
+نوع التعديل,,Amendment type
+عنوان طالب الاصدار,,Applicant address
+اسم الدولة,,Country name
+تاريخ الطلب,,Application date
+اسم طالب الاصدار,,Applicant name
+تجديد التلقائي,,Automatic renewal
+الموقع,,Location
+المدينة,,City
+الدولة,,Country
+الموقع,,Location
+المدينة,,City
+الدولة,,Country
+الاسم,,Name
+بنك المستفيد,,Beneficiary Bank
+رمز السويفت,,SWIFT Code
+رمز دولة المستفيد,,Beneficiary Country Code
+اسم المستفيد,,Beneficiary Name
+عنوان المستفيد,,Beneficiary Address
+اسم البنك,,Bank Name
+تاريخ الالغاء,,Cancellation Date
+سبب الالغاء,,Reason for Cancellation
+حساب المصاريف,,Charges Account
+عملة المصاريف,,Charges Currency
+عملة وقيمة المطالبة,,Currency and Amount of Claim
+تاريخ المطالبة,,Claim Date
+رقم المطالبة,,Claim Number
+الرد على المطالبة,,Response to Claim
+تفاصيل جهة الاتصال,,Contact Details
+نسبة العمولات,,Commission Rate
+قيمة وعملة العقد,,Contract Value and Currency
+تفاصيل العقد,,Contract Details
+رقم العقد,,Contract Number
+الوضع الحالي,,Current Status
+الحساب,,Account
+رقم حساب العميل للمصاريف,,Customer Charges Account Number
+رقم حساب العميل الفرعي,,Customer Sub-account Number
+رمز الفرع / حساب العميل,,Branch Code / Customer Account
+تعليمات العميل / المستندات الإضافية المطلوبة,,Customer Instructions / Additional Documents Required
+التأكيد على الموافقة1,,Approval Confirmation 1
+تأكيد على الموافقة2,,Approval Confirmation 2
+تأكيد على الموافقة3,,Approval Confirmation 3
+تأكيد على الموافقة4,,Approval Confirmation 4
+تأكيد على الموافقة5,,Approval Confirmation 5
+رقم مرجعنا,,Our Reference Number
+تخفيض القيمة بـمبلغ,,Decrease Amount By
+تعليمات التسليم,,Delivery Instructions
+انشئت بواسطة,,Created By
+تاريخ الانتهاء,,Expiry Date
+تاريخ انتهاء الكفالة,,Guarantee Expiry Date
+مدة الانتهاء,,Expiry Period
+مكان الانتهاء,,Place of expiry
+نوع الانتهاء,,Expiry type
+الموقع,,Location
+المدينة,,City
+الدولة,,Country
+الاسم,,Name
+عنوان الطرف المكفول,,Address of the Guaranteed Party
+نموذج الكفالة,,Guarantee template
+قيمة الكفالة بالكلمات,,Guarantee amount in words
+رصيد الكفالة,,Guarantee balance
+رصيد الكفالة,,Guarantee balance
+عملة ومبلغ الكفالة,,Guarantee currency and amount
+عملة ومبلغ ورصيد الكفالة,,"Guarantee currency, amount and balance"
+رصيد الكفالة,,Guarantee balance
+الوصف المختصر لغرض الكفالة,,Brief description of the guarantee purpose
+نموذج الكفالة,,Guarantee template
+رقم الكفالة,,Guarantee number
+غرض الكفالة,,Purpose of the guarantee
+نوع الكفالة,,Type of guarantee
+نص الكفالة,,Guarantee wording
+تفاصيل الكفالة,,Guarantee details
+زيادة القيمة بـمبلغ,,Increase amount by
+عملات متعددة (نعم/لا),,Multiple currencies (Yes/No)
+هل طالب الاصدار هو نفس المكفول ؟,,Is the applicant the same as the beneficiary?
+لا,,No
+نعم,,Yes
+تاريخ الاصدار,,Issuance date
+اللغة,,Language
+رصيد الكفالة بالعملة المحلية,,Guarantee balance in local currency
+مجموع مصاريف الكفالة غير المدفوعة,,Total unpaid guarantee charges
+نوع الضمان,,Type of guarantee
+الرقم الفرعي لحساب المصاريف,,Charges account sub-number
+حساب التامينات,,Collateral account
+عملة التامينات,,Collateral currency
+الحساب الفرعي للتامينات,,Collateral sub-account
+قيمة التامينات,,Collateral amount
+رصيد التامينات,,Collateral balance
+عملة التامينات,,Collateral currency
+حساب تغذية التامينات,,Collateral funding account
+الرقم الفرعي لحساب تغذية التامينات,,Collateral funding account sub-number
+طبيعة المطالبة,,Nature of the claim
+تاريخ استحقاق الكفالة الجديد,,New guarantee expiry date
+نوع الاستحقاق الجديد,,New expiry type
+قيمة الكفالة الجديدة,,New guarantee amount
+لا يوجد تاريخ انتهاء,,No expiry date
+رقم التعديل,,Amendment number
+رقم المطالبة,,Claim number
+ملاحظات,,Notes
+عدد الايام,,Number of days
+عملة دفع المصاريف,,Expense payment currency
+رقم مرجع الشركة الام,,Parent company reference number
+نوع الدفع / الرد على المطالبة,,Payment type / response to the claim
+عنوان فرع التقديم,,Submitting branch address
+اسم فرع التقديم,,Submitting branch name
+غرض الكفالة,,Purpose of the guarantee
+سبب الرفض,,Reason for rejection
+حالة الحركة لدى البنك,,Transaction status at the bank
+القيمة المحددة,,Specified amount
+يرجى الموافقة على الشروط اعلاه والاقرار بالموافقة على الشروط العامة للكفالات .,,Please approve the above terms and acknowledge acceptance of the general terms and conditions for guarantees.
+قيمة العمولات الاجمالية,,Total commission amount
+اجمالي المصاريف المدفوعة,,Total paid charges
+اجمالي المصاريف غير المدفوعة,,Total unpaid charges
+تاريخ التعديل,,Amendment date
+تاريخ بدء السريان,,Commencement date
+طالب الاصدار,,Applicant
+المستفيد,,Beneficiary
+بنك المستفيد,,Beneficiary bank
+الجهة الصادر باسمها,,Entity in whose name it is issued
+الطرف المكفول,,Principal
+الطرف المكفول,,Principal
+رقم مرجعنا,,Our reference number
+عملة المطالبة,,Claim currency
+قيمة المطالبة,,Claim amount
+رقم المطالبة,,Claim number
+الوضع الحالي,,Current status
+حالة الحركة لدى البنك,,Transaction status with the bank
+اسم المستفيد,,Beneficiary name
+تاريخ الانتهاء,,Expiry date
+رقم مرجعنا,,Our reference number
+قيمة الكفالة,,Guarantee amount
+عملة الكفالة,,Currency of the guarantee
+قيمة الكفالة,,Guarantee amount
+تاريخ الانتهاء,,Expiry date
+اسم المستفيد,,Beneficiary name
+رقم الكفالة,,Guarantee number
+اسم المستفيد,,Beneficiary name
+عملة الكفالة,,Currency of the guarantee
+رقم الكفالة,,Guarantee number
+رقم مرجعنا,,Our reference number
+عملة الكفالة,,Currency of the guarantee
+قيمة الكفالة,,Guarantee amount
+رصيد الكفالة,,Guarantee balance
+تاريخ الاستحقاق,,Due date
+تاريخ الانتهاء,,Expiry date
+الوضع الحالي,,Current status
+حالة الحركة لدى البنك,,Bank transaction status
+حالة الحركة لدى البنك,,Bank transaction status
+تاريخ الاصدار,,Issue date
+اسم الطرف المكفول,,Applicant name
+رقم الكفالة,,Guarantee number
+اسم المستفيد,,Beneficiary name
+طريقة كتابة القيمة,,Amount format
+عينة طريقة كتابة القيمة,,Sample amount format
+العملة الاساسية,,Base currency
+مجموعة البنك,,Bank group
+تغيير الرمز السري عند الدخول التالي,,Change password at next login
+تاكيد الرمز السري,,Confirm password
+طريقة كتابة التاريخ,,Date format
+اسم الشركة,,Company name
+اسم الشركة الاساسي,,Primary company name
+كلمة السر,,Password
+غير مفعلة/معلقة,,Inactive/Suspended
+هل هو بنك؟,,Is it a bank?
+اللغة,,Language
+الشركة الام,,Parent company
+الرقم المبدئي للمرجع,,Initial reference number
+الرقم الفرعي للمرجع,,Sub-reference number
+رقم حساب الشركة (رمز الفرع + حساب العميل),,Company account number (branch code + customer account number)
+الرمز التعريفي للمجموعة,,Group ID
+اسم المجموعة,,Group name
+اسم الشركة,,Company Name
+اسم مجموعة الشركات,,Group Name
+اسم المستخدم,,Username
+تفاصيل قاعدة التعريف,,Definition Base Details
+رمز المستخدم,,User Code
+رمز قاعدة التعريف,,Definition Base Code
+فئة الضمانة,,Guarantee Category
+العملة,,Currency
+تاريخ بدء السريان,,Effective Start Date
+عنوان البريد الالكتروني,,Email Address
+البريد الالكتروني للشركة,,Company Email
+تاريخ الانتهاء,,Expiry Date
+مستوى اجازة الحركة,,Transaction Approval Level
+اجازة الحركة من نفس المستخدم,,Approval of transaction by the same user
+عدم السماح لمنشئ المعاملة بالموافقة عليها,,Do not allow the maker of the transaction to approve it
+عدد محاولات اعادة الدخول,,Number of re-login attempts
+محاولات دخول متعددة,,Multiple login attempts
+تسلسل كتابة المرجع,,Reference entry sequence
+مدى التسلسل,,Sequence range
+مستوى,,Level
+مستوى اجازة الحركة,,Transaction approval level
+السقف,,Limit
+سقف الحركة,,Transaction limit
+غير سارية بدون توقيع,,Not valid without signature
+نوع الحركة,,Transaction type
+البريد الالكتروني المعرف مسبقا,,Pre-registered email address
+رمز الدولة,,Country code
+البريد الالكتروني لمدير العلاقة,,Relationship Manager's email address
+اسم قاعدة التعريف,,Definition rule name
+مسمى قاعدة اجازة الحركة,,Transaction approval rule name
+تسلسل اجازة الحركة,,Transaction approval sequence
+الرقم التسلسلي لجهاز التوكن,,Token device serial number
+عنوان الشركة,,Company address
+تفعيل /عدم تفعيل المستخدم,,Activate/deactivate user
+معلومات الدفعة المقدمة,,Advance payment information
+المعلومات الاساسية,,Basic information
+الشركة الفرعية (الابن),,Subsidiary company (child)
+فعالية التنازل,,Assignment effectiveness
+قائمة الشركة,,Company list
+معلومات كلمة السر,,Password information
+المعلومات العامة,,General Information
+تعليمات البنك,,Bank Instructions
+نص التعويض,,Indemnity Wording
+رئيسي,,Main
+جهات الاعتماد,,LC Parties
+تفاصيل / نص كفالة الشحن,,Details / Shipping Guarantee Wording
+العنوان,,Address
+اسم طالب الاصدار,,Applicant Name
+العنوان,,Address
+اسم المستفيد,,Beneficiary Name
+رمز الفرع / حساب العميل,,Branch Code / Customer Account
+رقم مرجعنا,,Our Reference Number
+رقم المرجع,,Reference Number
+حساب المصاريف,,Charges Account
+عملة المصاريف,,Charges Currency
+الحاوية رقم 1,,Container No. 1
+الحاوية رقم 2,,Container No. 2
+رمز الفرع / حساب العميل,,Branch Code / Customer Account
+تعليمات العميل / المستندات الإضافية المطلوبة,,Customer Instructions / Additional Required Documents
+ملاحظات,,Notes
+رقم مرجع الكفالة,,Guarantee reference number
+ميناء التفريغ,,Port of discharge
+ميناء التحميل,,Port of loading
+مؤشر المستندات المستلمة,,Documents received indicator
+وصف البضائع,,Description of goods
+عملة وقيمة كفالة التخليص على البضائع,,Currency and amount of the customs clearance guarantee
+عملة وقيمة المستندات,,Documents currency and amount
+رقم الكفالة,,Guarantee number
+رقم الفاتورة,,Invoice number
+تاريخ الاصدار,,Issue date
+رقم الاعتماد,,L/C number
+رقم الاعتماد/بوليصة التحصيل,,L/C number / Collection bill number
+حساب التامينات,,Security deposit account
+تاريخ الاستحقاق,,Maturity date
+نوع الشحن,,Mode of shipment
+بواسطة الجو,,By air
+أخرى,,Other
+بواسطة البر,,By land
+بواسطة البحر,,By sea
+سبب الرفض,,Reason for rejection
+حالة الحركة لدى البنك,,Transaction status at the bank
+كفالة تخليص على البضائع/ اذن تسليم ؟,,Shipping guarantee for the goods / delivery order?
+اذن تسليم,,Delivery order
+كفالة تخليص البضائع,,Shipping guarantee for the goods
+عنوان شركة الشحن,,Address of the shipping company
+اسم الشركة,,Company name
+اسم شركة الشحن /  وكيل الشحن,,Name of the shipping company / shipping agent
+شحن البضائع من,,Goods shipped from
+الشحن من,,Shipment from
+رقم الرحلة,,Flight number
+اسم الباخرة/رقم الرحلة,,Vessel name / voyage number
+العنوان,,Address
+اسم المنتج,,Product name
+بوليصة,,Policy
+اعتماد,,Letter of credit
+تاريخ وثيقة الشحن الاولى,,Date of the first shipping document
+تاريخ وثيقة الشحن الاولى,,Date of the first shipping document
+تاريخ وثيقة الشحن الثانية,,Date of the second shipping document
+رقم وثيقة الشحن الاولى,,Number of the first shipping document
+رقم وثيقة الشحن الاولى,,Number of the first shipping document
+رقم وثيقة الشحن الثانية,,Second shipping document number
+مكان وصول البضائع,,Place of arrival of the goods
+الشحن الى,,Ship to
+تاريخ الطلب,,Application date
+اسم الباخرة/الناقل,,Name of vessel/carrier
+طالب الاصدار,,Applicant
+تفاصيل المستفيد,,Beneficiary details
+تفاصيل شركة الشحن,,Carrier details
+تفاصيل الشاحن,,Shipper details
+رقم مرجعنا,,Our reference number
+عملة الكفالة,,Guarantee currency
+قيمة الكفالة,,Guarantee amount
+رقم مرجعنا,,Our reference number
+عملة الكفالة,,Guarantee currency
+قيمة الكفالة,,Guarantee amount
+رقم مرجعنا,,Our reference number
+قيمة الكفالة,,Guarantee amount
+عملة الكفالة,,Guarantee currency
+قيمة الكفالة,,Guarantee amount
+رقم الكفالة,,Guarantee number
+رقم المرجع المعني,,Related reference number
+عملة الكفالة,,Guarantee currency
+شركة الشحن,,Shipping company
+رقم مرجعنا,,Our reference number
+عملة الكفالة,,Guarantee currency
+العنوان,,Address
+رمز دولة البنك,,Bank country code
+الاسم,,Name
+رمز السويفت,,SWIFT code
+محتوى الشرط,,Condition text
+وصف الشرط,,Condition description
+اسم الشرط,,Condition name
+النوع,,Type
+المنتج,,Product
+اغلاق الرسالة ؟,,Close the message?
+رقم الحساب,,Account number
+عملة الحساب,,Account currency
+تاريخ بدء السريان,,Effective date
+تاريخ الانتهاء,,Expiry date
+حقل الشرط,,Condition field
+الحقول,,Fields
+لجميع الشركات,,For all companies
+وصف,,Description
+الرمز التعريفي,,Identifier
+الموضوع,,Subject
+العنوان,,Address
+العنوان,,Address
+الاسم,,Name
+رمز السويفت,,SWIFT code
+رمز الدوله,,Country code
+الرمز التعريفي,,Identifier
+الاسم,,Name
+نوع الطرف,,Party type
+معلومات الشرط,,Condition information
+معلومات الطرف,,Party information
+بنك الطرف,,Party bank
+المسند اليه الاخير,,Last assignee
+المحول اليه الجديد,,New transferee
+نموذج,,Form
+رمز الشركة,,Company code
+فعالية,,Event
+النوع,,Type
+معلومات النموذج,,Form Information
+الحقول المراد تظهيرها,,Fields to be displayed
+الحقول المراد تصديرها,,Fields to be exported
+قائمه الحقول,,Field list
+إضافة مرفقات,,Add attachments
+رفع/مشاهدة المستندات,,Upload/View documents
+اخفاء,,Hide
+اظهار,,Show
+مقارنة,,Compare
+مشاهدة التوثيق,,View documentation
+ازالة,,Remove
+مشاهدة,,View
+مشاهدة,,View
+تنقية البحث,,Refine search
+أعادة الوضع كما كان سابقا,,Restore to previous state
+مساعدة,,Help
+الصفحة الرئيسية,,Home
+ساعة,,Hour
+دقيقة,,Minute
+إضفاء الطابع الشخصي,,Personalization
+ثان,,Second
+تسجيل الخروج,,Log out
+مستخدم,,User
+الغاء,,Cancel
+تاكيد,,Confirm
+الغاء,,Cancel
+تاكيد,,Confirm
+حذف,,Delete
+تمرير,,Scroll
+الغاء,,Cancel
+تاكيد,,Confirm
+الغاء,,Cancel
+ازالة,,Remove
+تاكيد,,Confirm
+حذف,,Delete
+طباعة,,Print
+تمرير,,Scroll
+حفظ,,Save
+حفظ النموذج,,Save Form
+اسم الملف,,File Name
+نوع الملف,,File Type
+الحدث المعني,,Relevant Event
+تنقية البحث,,Refine Search
+النص,,Text
+لا,,No
+الداله,,Function
+أعادة الوضع كما كان سابقا,,Revert to previous state
+البحث عن,,Search for
+نعم,,Yes
+يوكل الى,,Delegate To
+نوع التحكم,,Control Type
+خاص,,Private
+عام,,Public
+رمز النموذج,,Form Code
+اسم النموذج,,Form Name
+الاستمرار,,Continue
+"لتمديد فترة الجلسة , يرجى النقر على استمرار",,"To extend the session, please click Continue"
+ثواني,,Seconds
+وقت الجلسة الخاص بكم سينتهي. سوف يتم حفظ بيانات الحركة وسيتم تسجيل خروجكم واعادة دخولكم,,"Your session will expire. Transaction data will be saved, and you will be logged out and will need to log in again."
+يبدأ في,,Starts at
+اضافه,,Add
+البنك,,Bank
+الشركه,,Company
+أسفل,,Down
+خاص,,Private
+مسح,,Clear
+نوع الشرط,,Condition type
+أعلى,,Up
+تعديل الشرط,,Edit condition
+مشاهده الشرط,,View condition
+محتوى الشرط,,Condition content
+قائمه الشروط,,List of conditions
+الشرط المختار,,Selected condition
+مقارنة الاحداث,,Event comparison
+قائمة حقول مختلفة,,List of differing fields
+قيم حقول مختلفة,,Differing field values
+لا يوجد اختلاف,,No differences
+الغاء,,Cancel
+إدراج نص,,Insert text
+البحث,,Search
+اختر طلب الشراء,,Select purchase order
+اظهار الكل,,Show all
+الغاء,,Cancel
+البحث,,Search
+اظهار الكل,,Show all
+يوكل الى,,Assign to
+نوع التحكم,,Control type
+خاص,,Private
+عام,,Public
+رمز النموذج,,Form code
+اسم النموذج,,Form name
+حدثت مشكلة اثناء تقديم طلبكم,,A problem occurred while submitting your request
+الغاء,,Cancel
+الاستمرار,,Continue
+اختيار الشركة,,Select company
+"اسم تقرير غير صحيح , يرجى اعادة الاختيار",,"Invalid report name, please select again"
+الغاء,,Cancel
+الاستمرار,,Continue
+اشعار السحب,,Advice of drawing
+الغاء,,Cancel
+المصاريف,,Charges
+حذف,,Delete
+حجم الملف (كيلوبايت),,File size (KB)
+نوع الملف,,File type
+وصف الملف المصور,,Scanned file description
+مسار الملف المصور,,Scanned file path
+مؤشر الملف المصور,,Scanned file index
+نوع الملف المصور,,Scanned file type
+خزن فورا في قاعدة البيانات,,Store immediately in the database
+ملاحظات,,Remarks
+تقديم,,Submit
+تحميل الحالة,,Upload status
+تحديث,,Update
+بانتظار موافقة قطاع الشركات,,Pending Corporate Banking approval
+رسالة من البنك,,Message from the bank
+بوالص تحصيل التصدير,,Export documentary collections
+اعتمادات التصدير,,Export letters of credit
+بوالص تحصيل الاستيراد,,Import documentary collections
+اعتمادات الاستيراد,,Import Letters of Credit
+اعداد البريد الوارد,,Inbox Setup
+الكفالات الواردة,,Received Guarantees
+المواد,,Materials
+الكفالات الصادرة,,Issued Guarantees
+مرفوضة من المشرف,,Rejected by the supervisor
+حفظ,,Save
+تم الحفظ,,Saved
+العناوين,,Addresses
+الغاء,,Cancel
+الاستمرار,,Continue
+الاعتراض,,Objection
+الاعتراض / تفاصيل الرد,,Objection / Response Details
+يرجى ادخال مفتاح الرد ادناه,,Please enter the response key below
+الرد,,Response
+الغاء,,Cancel
+"اسم منتج غير صحيح , يرجى اعادة المحاولة",,"Invalid product name, please try again"
+"نوع غير صحيح , يرجى اعادة المحاولة",,"Invalid type, please try again"
+الغاء,,Cancel
+اختيار,,Select
+مشاهدة تاريخ التوثيق,,View authentication history
+حدثت مشكلة اثناء تقديم طلبكم,,A problem occurred while submitting your request
+العودة الى شاشة الدخول,,Return to the login screen
+المرفق,,Attachment
+نسخة الى,,Cc
+اغلاق,,Close
+ارسال,,Send
+ارسال من,,Send from
+ارسال الى,,Send to
+الموضوع,,Subject
+يحتوي على,,Contains
+وظيفة البحث,,Search function
+تحديث القائمة,,Refresh list
+البحث,,Search
+مشروع العملاء - احصائيات الحركات,,Client Project - Transaction Statistics
+البحث عن الحركات,,Search for transactions
+يتم تحميل احصائيات الخدمات التجارية ، يرجى الانتظار,,"Loading trade services statistics, please wait"
+الغاء,,Cancel
+تقديم الرسالة,,Submit message
+يرجى المشاهدة,,Please view
+السابق,,Previous
+التعليمات مكتملة,,Instructions completed
+الغاء,,Cancel
+حدثت مشكلة اثناء تقديم طلبكم,,An issue occurred while submitting your request
+السابق,,Previous
+الاستمرار,,Continue
+التعليمات مكتملة,,Instructions completed
+الوقت الحالي هو,,The current time is
+تسجيل دخولكم الاخير كان في,,Your last login was on
+المحافظة على الامن والانظمة,,Maintaining security and systems
+اليوم هو,,Today is
+وقت الجلسة انتهى!,,Your session has timed out!
+مشروع العملاء انتهاء الوقت,,Customer project time-out
+تسجيل الخروج,,Log out
+بيانات حركتكم تم حفظها بنجاح في قاعدة بيانات,,Your transaction data has been successfully saved in the database
+الغاء,,Cancel
+الشركة,,Company
+انشئت بواسطة,,Created by
+تاريخ الانشاء,,Creation date
+انشاء,,Create
+حذف,,Delete
+تحميل,,Download
+الاسم,,Name
+لا يوجد سجلات صالحة,,No Valid Records
+خاص,,Private
+اظهار القواعد,,Show Rules
+اسم النموذج,,Model Name
+نوع النموذج,,Model Type
+تحديث,,Update
+الغاء,,Cancel
+انشئت بواسطة,,Created By
+تاريخ الانشاء,,Creation Date
+انشاء,,Create
+حذف,,Delete
+تحميل,,Download
+لا يوجد سجلات صالحة,,No Valid Records
+خاص,,Private
+عام,,Public
+اسم النموذج,,Model Name
+نوع النموذج,,Model Type
+نوع النموذج,,Form Type
+تحديث,,Update
+الغاء,,Cancel
+رقم حساب الشركة,,Company Account Number
+تاكيد,,Confirm
+تاكيد كلمة السر,,Confirm Password
+كلمة المرور الجديدة,,New Password
+كلمة المرور القديمة,,Old Password
+إعادة ضبط,,Reset
+الرمز التعريفي للمستخدم,,User ID
+اسم المستخدم,,Username
+مجموعة البنك,,Bank Group
+التكلفة و التامين واجور الشحن مدفوعة,,"Cost, Insurance and Freight (CIF)"
+رمز الدولة,,Country Code
+اوقات الحدث,,Event Times
+اسم خارطة GAPI,,GAPI Map Name
+المرجع الرئيسي,,Master Reference
+فعالية على النظام,,System Event
+محتوى الرسالة,,Message Content
+ترويسة الرسالة,,Message Header
+ربط مع نظام اخر,,Integration with another system
+نظام اخر,,Other system
+مشاهدة رسائل الحركات من CE  الى CSX,,View transaction messages from CE to CSX
+لائحة المرفقات,,List of attachments
+معلومات الملف ( الملفات ) المصورة,,Imaged file(s) information
+مجموعة البنك,,Bank group
+التكلفة و التامين واجور الشحن مدفوعة,,"Cost, insurance and freight paid"
+رمز الدولة,,Country code
+اوقات الحدث,,Event times
+المرجع الرئيسي,,Primary reference
+فعالية على النظام,,System activity
+محتوى الرسالة,,Message content
+ترويسة الرسالة,,Message header
+نوع الرسالة,,Message type
+رسالة سويفت,,SWIFT message
+مشاهدة السويفت,,View SWIFT message
+السابق,,Previous
+مشاهدة مسبقة,,Preview
+إعادة ضبط,,Reset
+حفظ,,Save
+قائمة اجزاء الشاشة الرئيسية,,List of main screen components
+إعادة تقديم,,Resubmit
+لا يوجد قيم . هل ترغب بالاستمرار؟,,There are no values. Do you want to continue?
+اخفاء,,Hide
+اظهار,,Show
+مقارنة,,Compare
+مشاهدة التوثيق,,View documentation
+ازالة,,Remove
+اعتماد جديد,,New letter of credit
+مشاهدة,,View
+قسم البنك,,Bank section
+رسالة البنك,,Bank message
+قسم الشركات,,Corporate section
+هذا الحساب تم استخدامه سابقا ، يرجى محاولة استعمال رقم حساب اخر,,This account has been used before; please try using a different account number
+مبلغ القبول يجب ان لا تتجاوز مبلغ بوليصة التحصيل,,The acceptance amount must not exceed the amount of the bill for collection
+يمكن التفعيل بواسطة,,Can be activated via
+المبلغ المتنازل عنه يزيد عن قيمة الاعتماد,,The assigned amount exceeds the letter of credit amount
+المبلغ المتنازل عنه يزيد عن قيمة الاعتماد,,The assigned amount exceeds the letter of credit amount
+الرمز التعريفي اجباري للرزنامة,,The identifier code is mandatory for the calendar
+اختار بوليصة الشحن الجوي,,Select the air waybill
+رمز سويفت البنك تم استخدامه سابقا ، يرجى محاولة استعمال رمز سويفت اخر,,The bank's SWIFT code has been used previously; please try using another SWIFT code
+باركود الحركة ( الشريط الرمزي للحركة),,Transaction barcode (barcode for the transaction)
+اغلاق,,Close
+طباعة,,Print
+اخفاء الصورة/الصور,,Hide image(s)
+سبب الرفض,,Reason for rejection
+رفض,,Reject
+تمرير,,Forward
+اظهار الصورة/الصور,,Show image(s)
+بيانات النجاح,,Success data
+رقم تذكرة جهاز توكن,,Token device ticket number
+يرجى اختيار عملة اساس !,,Please select a base currency!
+يجيز,,Authorize
+الغاء,,Cancel
+تأكيد,,Confirm
+حذف,,Delete
+المستند,,Document
+التالي,,Next
+السابق,,Previous
+طباعة,,Print
+حفظ,,Save
+نموذج,,Form
+مشاهدة المستند,,View document
+مشاهدة تاريخ الحركة,,View transaction history
+نيسان ( ابريل ),,April
+اب ( اغسطس ),,August
+كانون اول ( ديسمبر),,December
+شباط ( فبراير ),,February
+تم تحديد السطح ولكن لا يمكن ايجاد الشركة الام,,"Surface identified, but parent company cannot be found"
+الجمعة,,Friday
+كانون الثاني ( يناير ),,January
+تموز ( يوليه ),,July
+حزيران ( يونيو ),,June
+اذار ( مارس ),,March
+ايار ( ماي ),,May
+الاثنين,,Monday
+التالي,,Next
+السنة التالية,,Next year
+لا يوجد بيانات مسجلة,,No data recorded
+لا يوجد شيء للتجهيز ( لم يتم ايجاد الحقول ) يرجى التأكد من رمزك,,Nothing to process (no fields found). Please check your code
+تشرين ثاني ( نوفمبر ),,November
+تشرين اول,,October
+اختر تاريخ,,Select a date
+السابق,,Previous
+السنة السابقة,,Previous year
+السبت,,Saturday
+ايلول (سبتمبر ),,September
+الاحد,,Sunday
+الخميس,,Thursday
+اليوم,,Today
+الثلاثاء,,Tuesday
+الاربعاء,,Wednesday
+لا يمكن ان يكون فارغا,,Cannot be empty
+يرجى اختيار العملة,,Please select the currency
+اختار شهادة صادرة عن مالكي السفينه/القبطان/الناقل,,Select a certificate issued by the shipowners/the captain/the carrier
+يرجى التاكيد (التاشير) على الشروط والأحكام,,Please confirm (tick) the terms and conditions
+يرجى اختيار اجراء,,Please select an action
+يرجى اختيار شرط !,,Please select a condition!
+يرجى اختيار شرط محدد !,,Please select a specific condition!
+اضغط موافق للمتابعة,,Click OK to continue
+انقر (موافق) للاستمرار . (الغاء) للالغاء,,Click (OK) to continue. (Cancel) to cancel
+رمز الشركة يجب ان يكون نفسه !,,Company code must match!
+رقم حساب الشركة,,Company account number
+رقم حساب الشركة اجباري !,,Company account number is required!
+رقم حساب الشركة اجباري !,,Company account number is required!
+مطلوب الرمز التعريفي للمجموعة,,Group ID is required
+مطلوب اسم الشركة,,Company name is required
+حقل تاكيد كلمة السر فارغ,,Confirm password field is empty
+حقل تاكيد كلمة السر وحقل كلمة السر الجديدة يجب ان يكونا متطابقين,,Confirm password and new password fields must match
+اختار بوليصة شحن ناقل الخاص,,Select your carrier's bill of lading
+المستخدم الحالي فعال,,The current user is active
+رقم حساب العميل يجب ان يكون 6 !,,Customer account number must be 6 digits!
+لن يتم حفظ البيانات في حالة الاستمرار,,Data will not be saved if you continue
+يجب اختيار مستند,,A document must be selected
+عنوان البريد الالكتروني غير صالح,,Email address is invalid
+البريد الالكتروني موجود اصلا,,Email already exists
+لا يوجد بريد الكتروني صالح للمجموعة - يرجى انشاء بريد الكتروني للمجموعة اولا.,,There is no valid email for the group - please create a group email first.
+اسم المجموعة للبريد الالكتروني اجباري,,Email group name is required
+تم تاسيس اخطارات البريد الالكتروني لهذه الشركة،  يرجى الذهاب الى تعديل اخطارات البريد الالكتروني لتعديله,,Email notifications have been set up for this company; please go to Edit Email Notifications to modify them
+فارغ,,Empty
+لا يمكن ان يكون فارغا ! يجب تعبئته!,,It cannot be empty! It must be filled in!
+الاسم يجب ان لا يكون فارغا !,,The name must not be empty!
+يرجى ادخال البريد الالكتروني,,Please enter the email address
+خطأ,,Error
+تاريخ انتهاء الاعتماد او اخر تاريخ لتقديم المستندات من قبل المستفيد,,Expiry date of the letter of credit or the latest date for presentation of documents by the beneficiary
+تاريخ الانتهاء يجب ان لا يكون سابقا للتاريخ الحالي,,The expiry date must not be earlier than the current date
+تاريخ الانتهاء يجب ان لا يكون سابقا لتاريخ الطلب,,The expiry date must not be earlier than the application date
+تاريخ الانتهاء يجب ان لا يكون سابقا للتاريخ الحالي,,The expiry date must not be earlier than the current date
+يرجى النقر على كبسات  التصدير اعلاه للحصول على التقرير,,Please click the export buttons above to obtain the report
+ملف الوصول للوظيفة FAP  غير صالح,,The access file for function FAP is invalid
+تركيبة رقم الفاكس غير صالحة,,The fax number format is invalid
+يرجى تعبئة جميع الحقول المطلوبة,,Please fill in all required fields
+تاريخ طلب كفالة التخليص ( الشحن ) لا يمكن ان يكون اكبر من تاريخ انتهاء الاعتماد,,The request date for a Shipping Guarantee (clearance) cannot be later than the letter of credit expiry date
+خطأ: اسم القيمة لا يمكن ان يتضمن حروف % ' : ~ \\,,Error: The value name cannot contain the characters % ' : ~ \\
+تغيير البلد سوف يحذف البيانات التي قمت بتسجيلها . هل انت متاكد من رغبتك بالاستمرار؟,,Changing the country will delete the data you have entered. Are you sure you want to continue?
+تغيير السنة سوف يحذف البيانات التي قمت بتسجيلها . هل انت متاكد من رغبتك بالاستمرار؟,,Changing the year will delete the data you have entered. Are you sure you want to continue?
+عدد ارقام العطل الاقصى هو 23,,The maximum number of holidays is 23
+تحذير : اللون مكرر,,Warning: Duplicate color
+الجدول لهذه الدولة تم انشاءه من قبل . للتعديل ، يرجى تعديل فعالية العطل .,,"The table for this country has already been created. To modify, please edit the holiday entry."
+تحذير : لديه عطلة واحدة على الاقل,,Warning: It has at least one holiday
+اسم العطلة لا يمكن ان يكون فارغا,,The holiday name cannot be empty
+تحذير : الاسم مكرر,,Warning: Duplicate name
+فارغ,,Empty
+لا يمكن الاتصال بالمضيف,,Cannot connect to host
+يمكن عدم التفعيل بواسطة,,Can be deactivated by
+تركيبة التاريخ غير صحيحية - يرجى اعادة الاختيار,,Invalid date format - please select again
+القيمة التي ادخلتها اكبر من مجموع الصفحات!,,The value you entered is greater than the total number of pages!
+يرجى ادخال القيمة الصحيحة !,,Please enter the correct value!
+خطأ : تفاصيل الادخالات غير صحيحة,,Error: Input details are invalid
+يرجى ادخال عدد رقم المرجع,,Please enter the reference number
+يرجى ادخال سبب الرفض,,Please enter the reason for rejection
+رقم مرجعكم الداخلي,,Your internal reference number
+حرف غير صالح,,Invalid character
+احرف غير صالحة,,Invalid characters
+عنوان البريد الالكتروني غير صالح,,Invalid email address
+رقم التذكرة (التوكن) غير صالح - حاول مرة اخرى,,Invalid ticket (token) number - try again
+مطلوب,,Required
+تاريخ اصدار الاعتماد يجب ان لا يكون سابقا لتاريخ انتهاء الاعتماد ( تاريخ اصدار الاعتماد يجب ان يكون سابقا لتاريخ انتهاء الاعتماد),,The letter of credit issuance date must not be earlier than the letter of credit expiry date (The letter of credit issuance date must be earlier than the letter of credit expiry date)
+رقم الاعتماد فارغا - يرجى اختيار رقم الاعتماد,,The letter of credit number is empty - please select the letter of credit number
+تحذير: الحد الادنى للادخالات لكل صفحة هو 10! يرجى اعادة الادخال!,,Warning: The minimum number of entries per page is 10! Please re-enter!
+حدثت مشكلة اثناء الدخول,,A problem occurred during login
+يرجى تعبئة الحقول الاجبارية,,Please fill in the required fields
+عدد محاولات التاكيد القصوى 3 - يرجى اعادة المحاولة لاحقا,,The maximum number of verification attempts is 3 - please try again later
+تكبير,,Zoom in
+تصغيير,,Zoom out
+طريقة الشحن الثانية لا يجب ان تكون مماثلة لطريقة الشحن الاولى,,The second shipping method must not be the same as the first shipping method
+التعديل تم حفظه بنجاح  !,,The amendment was saved successfully!
+تاريخ الانتهاء الجديد يجب ان لا يكون سابقا لتاريخ اليوم!,,The new expiry date must not be earlier than today's date!
+تاريخ الانتهاء الجديد يجب ان لا يكون سابقا لتاريخ الانتهاء الاصلي !,,The new expiry date must not be earlier than the original expiry date!
+تاريخ الانتهاء الجديد يجب ان لا يكون سابقا لتاريخ اليوم!,,The new expiry date must not be earlier than today's date!
+قيمة الكفالة الجديدة يجب ان لا تكون اقل من صفر,,The new guarantee amount must not be less than zero
+قيمة الاعتماد الجديدة يجب ان لا تكون اقل من صفر,,The new letter of credit amount must not be less than zero
+كلمة السر الجديده  فارغه,,The new password is empty
+الرمز السري الجديد لا يمكن ان يكون مماثلا للرمز السري القديم,,The new passcode cannot be the same as the old passcode
+كلمة السر القديمه فارغه,,The old password is empty
+الرمز السري القديم خطأ,,The old passcode is incorrect
+يوجد فقط 28 يوما في هذا الشهر - يرجى اعادة الاختيار,,There are only 28 days in this month - please choose again
+يوجد فقط 29 يوما في هذا الشهر - يرجى اعادة الاختيار,,There are only 29 days in this month - please choose again
+يوجد فقط 30 يوما في هذا الشهر - يرجى اعادة الاختيار,,There are only 30 days in this month - please choose again
+يوجد فقط  31 يوما في هذا الشهر - يرجى اعادة الاختيار,,There are only 31 days in this month - please choose again
+التالي,,Next
+السابق,,Previous
+رمز هذا الطرف موجود ، يرجى التاكد,,"This party code already exists, please verify"
+اسم هذا الطرف مقبول,,This party name is acceptable
+اسم هذا الطرف مستعمل سابقا - يرجى استعمال اسم اخر,,This party name has been used before - please use another name
+كلمة السر يجب ان لا تكون متتابعه,,The password must not be sequential
+كلمة السر لا يمكن ان تكون رقم مكرر,,The password cannot be a repeated number
+يرجى اختيار نوع الدفع,,Please select the payment type
+اختار بوليصة الشحن بالطرود البريدية,,Select the parcel post bill of lading
+الصفحة,,Page
+لم يتم اختيار منتج,,No product has been selected
+يجب اختيار احد السجلات,,You must select one of the records
+سبب الرفض طويل جدا!,,The reason for rejection is too long!
+تحديث,,Update
+تم تسجيله سابقا - يرجى اختيار آخر,,It has already been registered - please select another
+تم تسجيله سابقا لرمز الوحدة الحالية- يرجى اختيار آخر,,Already registered for the current unit code - please select another
+مطلوب ويجب ان لا يكون صفرا,,Required and must not be zero
+اجراء,,Action
+وصف المستند,,Document description
+شكل المستند,,Document format
+اسم المستند,,Document name
+وصف البريد,,Email description
+مشاهدة,,View
+مشاهدة البريد,,View email
+مشاهدة التقرير,,View report
+اسم الوظيفة اجباري !,,Job name is required!
+لا يمكن احضارشرط التقرير,,Cannot retrieve the report condition
+يجب اختيار اسم احد التقارير,,You must select a report name
+اختار مستند النقل البري/السكك الحديدية/الطرق المائية الداخلية,,Select the road/rail/inland waterway transport document
+مستخدم فعال,,Active user
+فعال,,Active
+رقم حساب الشركة,,Company account number
+مستخدم غير فعال,,Inactive user
+غير فعال,,Inactive
+اسم الوظيفة,,Job name
+اسم المستخدم,,Username
+اسم المستخدم,,Username
+تحذير,,Warning
+غير صحيحية - يرجى اعادة الاختيار,,Invalid - please reselect
+يرجى اختيارالشركات,,Please select the companies
+يرجى اختيار رقم حساب العميل,,Please select the customer account number
+يرجى اختيار البريد الالكتروني المطلوب حذفه,,Please select the email address to delete
+يرجى اختيار البريد الالكتروني المطلوب تعديله,,Please select the email address to edit
+يرجى اختيار احد  ( FAP ) قبل النقر على تاكيد!,,Please select one (FAP) before clicking Confirm!
+يرجى اختيار احد ( FAP) من القائمة !,,Please select one (FAP) from the list!
+يجب اختيار حقل واحد على الاقل لاظهار الفهرس,,You must select at least one field to display the index
+يجب اختيار حقل واحد على الاقل لاظهار التصدير,,You must select at least one field for export
+يرجى اختيار احد السجلات,,Please select a record
+لم يتم اختيار دور صحيح - يرجى اختيار دور,,No valid role was selected - please select a role
+يرجى اختيار سجل,,Please select a record
+الجلسة قد انتهت - يرجى اعادة الدخول للنظام,,The session has expired - please log in again
+قيمة الاطلاع يجب ان لا تكون اكبر من قيمة بوليصة التحصيل,,The sight amount must not be greater than the collection bill amount
+يرجى تعبئة نسبة الاطلاع,,Please enter the sight percentage
+قيمة كفالة التخليص اكبر من رصيد الاعتماد,,The clearance guarantee amount is greater than the LC balance
+مطلوب الرمز التعريفي للمجموعة,,Group ID is required
+رمز حساب التعهدات هو,,The commitments account code is
+تاريخ اخر موعد للشحن يجب ان لا يكون سابقا لتاريخ طلب الاعتماد,,The latest shipment date must not be earlier than the LC application date
+تاريخ اخر موعد للشحن يجب ان لا يكون سابقا لتاريخ اصدار الاعتماد,,The latest shipment date must not be earlier than the LC issuance date
+تاريخ اخر موعد للشحن يجب ان لا يكون لاحقا لتاريخ انتهاء الاعتماد الجديد,,The latest shipment date must not be later than the new LC expiry date
+تاريخ اخر موعد للشحن يجب ان لا يكون  لاحقا لتاريخ انتهاء الاعتماد الجديد,,The latest shipment date must not be later than the new LC expiry date
+تاريخ اخر موعد للشحن يجب ان لا يكون لاحقا لتاريخ انتهاء الاعتماد الجديد,,The latest shipment date must not be later than the expiry date of the new letter of credit
+تاريخ اخر موعد للشحن وفترة الشحن يجب ان لا يظهرا في نفس الوقت ( ويجب عدم استخدامهما بنفس الوقت ),,The latest shipment date and the shipment period must not appear at the same time (and must not be used simultaneously)
+يرجى تحديد المستند المطلوب. مستند شحن بري/ مستند شحن بالسكك الحديدية/ مستند شحن بالطرق المائية الداخلية,,Please specify the required document: road transport document / rail transport document / inland waterway transport document
+البريد الالكتروني,,Email
+اسم البريد الالكتروني للمجموعة,,Group email name
+قائمة البريد الالكتروني,,Email list
+هل تؤكد على بدء المهمة؟,,Do you confirm starting the task?
+سبب الرفض,,Reason for rejection
+هل تؤكد على انهاء المهمة؟,,Do you confirm ending the task?
+معاملتكم معلقة بانتظار تزويدنا بالنماذج موقعة,,Your transaction is pending until we receive the signed forms
+حدثت مشكلة اثناء تقديم طلبك,,A problem occurred while submitting your request
+تبديل اللغة قد يتسبب بفقدان البيانات غير المحفوظة / المخزنة,,Changing the language may result in the loss of unsaved data
+رقم الهاتف غير صالح,,Invalid phone number
+يرجى تحديد نوع الاستحقاق,,Please specify the maturity type
+البيانات مطلوبة,,This field is required
+التذكرة (توكن) مخصصة من قبل الى,,The token is assigned by to
+يرجى اختيار الرقم المتسلسل للتوكن,,Please select the token serial number
+الرقم الرمزي (رقم التوكن) غير موجود,,The token code (token number) does not exist
+القيمةالاجمالية لا تساوي  اجمالى التزامات العميل القائمة تجاه البنك - يرجى التاكد مرة اخرى,,The total value does not equal the customer's total outstanding obligations to the bank - please check again
+القيمة الاجمالية لا يمكن ان تتجاوز اجمالى التزامات العميل القائمة تجاه البنك,,The total value cannot exceed the customer's total outstanding obligations to the bank
+مجموع النسب المئوية لا يمكن ان تتجاوز  100,,The sum of the percentages cannot exceed 100
+اسم النموذج اجباري,,Template name is required
+قيمة الاعتماد المراد تحويله تتجاوز رصيد الاعتماد,,The value of the LC to be transferred exceeds the LC balance
+قيمة الاعتماد المراد تحويله تتجاوز قيمة الاعتماد الرئيسية,,The value of the LC to be transferred exceeds the main LC amount
+تاريخ انتهاء الاعتماد المحول لا يمكن ان يكون اكبر من تاريخ انتهاء الاعتماد الاصلي,,The expiry date of the transferred LC cannot be later than the expiry date of the original LC
+تاريخ انتهاء اخر موعد للشحن للاعتماد المحول لا يمكن ان يكون اكبر من تاريخ انتهاء الاعتماد الاصلي,,The last date of shipment for the transferred LC cannot be later than the expiry date of the original LC
+تاريخ انتهاء اخر موعد للشحن للاعتماد المحول لا يمكن ان يكون اكبر من تاريخ انتهاء اخر موعد للشحن للاعتماد الاصلي,,The last date of shipment for the transferred LC cannot be later than the last date of shipment for the original LC
+قيمة معاملتكم تتجاوز حدود صلاحياتكم، بانتظار موافقةالبنك/موافقة الائتمان,,Your transaction amount exceeds your authorization limits; awaiting bank/credit approval
+قيمة معاملتكم ضمن حدود صلاحياتكم,,Your transaction amount is within your authorization limits
+احصائيات الحركة,,Transaction statistics
+حدث خلل غير متوقع,,An unexpected error occurred
+تم استخدامة - يرجى اختيار آخر,,Already used - please select another
+اسم المستخدم اجباري !,,Username is required!
+قائمة الشركات المخصصة,,Assigned companies list
+قائمة الشركات المتاحة,,Available companies list
+تأكيد,,Confirm
+حفظ القائمة,,Save list
+مشاهدة,,View
+يجب اختيار بند مناسب من قائمة الاشعارات,,You must select an appropriate item from the notifications list
+يجب ادخال رقم فاسكو التذكرة (التوكن),,You must enter the Vasco token number
+الوصف,,Description
+بند,,Item
+السعر,,Price
+الكمية,,Quantity
+دليل المستخدم,,User Guide
+سعر الوحدة,,Unit Price
+تحذير: الحد الاعلى للادخالات لكل صفحة هو 100! يرجى اعادة الادخال!,,Warning: The maximum number of entries per page is 100! Please re-enter!
+تحذير:تركيبة  رقم المرجع خاطئة. الطول الاقصى لرقم المرجع يجب ان لا يزيد عن 22,,Warning: The reference number format is invalid. The maximum length of the reference number must not exceed 22 characters.
+تحميل,,Download
+هذه النافذة قديمة يرجى اغلاقها واعادة فتحها مرة اخرى,,This window is outdated; please close it and reopen it.
+هذه الدولة مستخدمة سابقا ، يرجى اعادة محاولة رمز تعريفي اخر,,This country is already in use; please try another identifier code.
+وقت العمل يبدأ بعد الوقت الاضافي,,Working time starts after overtime.
+خاصية البحث خاطئة,,The search feature is incorrect.
+صفحة خطأ,,Error Page
+لا يمكن انشاء XMLHttp object,,Cannot create XMLHttp object
+اجراءات اضافية,,Additional Actions
+مشاهدة,,View
+تعديل,,Edit
+CSX To CE رساله من,,Message from CSX To CE
+مجموعة البنك,,Bank Group
+رمز الشركة,,Company code
+رمز الدولة,,Country code
+محتوى الرسالة,,Message content
+معلومات الحركة,,Transaction information
+حالة الحركة,,Transaction status
+البحث عن اسم الشركة,,Search by company name
+نوع التقرير,,Report type
+رقم التقرير,,Report number
+رمز STP,,STP code
+الرمز التعريفي للمجموعة,,Group ID
+رمز الشركة,,Company code
+رمز المستخدم,,User code
+أو الرمز التعريفي للمستخدم,,or user ID
+رقم حساب العميل,,Customer account number
+المنتج,,Product
+رمز الدولة,,Country code
+نوع التقرير,,Report type
+عداد المرجع,,Reference counter
+نموذج التقرير,,Report template
+وقت الاستلام,,Time of receipt
+المعلومات العامة,,General information
+محتوى الرسالة,,Message content
+و,,and
+حركة مجازة,,Authorized transaction
+يحتوي,,contains
