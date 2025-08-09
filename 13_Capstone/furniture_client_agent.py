@@ -31,7 +31,12 @@ TOKEN_URL = f"{AUTH0_DOMAIN}/oauth/token"
 
 class FurnitureAgent:
     def __init__(self) -> None:
-        self.llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
+        self.llm = ChatOpenAI(
+            model="deepseek-chat",
+            temperature=0,
+            base_url="https://api.deepseek.com/v1",
+            api_key=os.getenv("DEEPSEEK_API_KEY")
+        )
         self.client: MultiServerMCPClient | None = None
         self.agent = None
         self.token = None
