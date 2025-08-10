@@ -5,7 +5,7 @@ RUN apt-get update && apt-get upgrade -y && apt-get clean && rm -rf /var/lib/apt
 
 WORKDIR /app
 
-COPY .env common_detect_os.py furniture_server.py /app/
+COPY common_detect_os.py furniture_server.py /app/
 
 RUN pip install --no-cache-dir \
     fastmcp \

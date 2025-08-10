@@ -5,7 +5,7 @@ RUN apt-get update && apt-get upgrade -y && apt-get clean && rm -rf /var/lib/apt
 
 WORKDIR /app
 
-COPY .env common_detect_os.py api_server.py furniture_client_agent.py /app/
+COPY common_detect_os.py api_server.py furniture_client_agent.py /app/
 
 # Install dependencies
 RUN pip install --no-cache-dir \
