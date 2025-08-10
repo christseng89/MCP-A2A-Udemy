@@ -7,6 +7,7 @@ requires-python = ">=3.11"
 dependencies = [
     "fastapi>=0.115.12",
     "fastmcp>=2.10.6",
+    "httpx>=0.28.1",
     "ipykernel>=6.29.5",
     "langchain>=0.3.25",
     "langchain-core>=0.3.60",
@@ -15,7 +16,14 @@ dependencies = [
     "langgraph>=0.4.5",
     "openai-agents>=0.2.3",
     "pandas>=2.3.1",
+    "python-dotenv>=1.1.0",
     "python-jose>=3.4.0",
     "ruff>=0.11.10",
+    "serper-mcp-server>=0.0.4",
     "uvicorn>=0.34.2",
+]
+
+[tool.uv.workspace]
+members = [
+    "test",
 ]
